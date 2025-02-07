@@ -37,17 +37,23 @@ Skip this section if you have run a FFF campaign with this template before
 
 ## 2. Setup
 
-- [ ] Define merging opportunities by creating tags of LHS hits in Fragalysis
-- [ ] Download target from Fragalysis and place the .zip archive in the repo
-- [ ] Setup target in BulkDock 
+- [x] Define merging opportunities by creating tags of LHS hits in Fragalysis
+- [x] Download target from Fragalysis and place the .zip archive in the repo
+- [x] Setup target in BulkDock 
 
 ```
+cp -v TARGET_NAME.zip $BULK/TARGETS
 cd $BULK
 python -m bulkdock extract TARGET_NAME
 python -m bulkdock setup TARGET_NAME
 ```
 
-- [ ] Copy the `aligned_files` directory from `$BULK/TARGETS/TARGET_NAME/aligned_files` into this repository
+- [x] Copy the `aligned_files` directory from `$BULK/TARGETS/TARGET_NAME/aligned_files` into this repository
+
+```
+cd - 
+cp -rv $BULK/TARGETS/TARGET_NAME/aligned_files .
+```
 
 ## 3. Compound Design
 
