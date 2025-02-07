@@ -1,0 +1,8536 @@
+x0501a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    3.8960  -14.7430   25.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3740  -10.4390   22.3020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0200  -15.9840   26.6450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5380  -15.6080   28.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560  -16.8780   28.5620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2910  -16.2010   27.4980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9270  -13.8310   24.8590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5840  -12.8230   23.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5990  -11.4340   24.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3050  -10.3700   23.6860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8860   -9.2850   24.3210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5300   -8.2980   23.5890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5830   -8.3770   22.2180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0120   -9.4460   21.5740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4230  -15.5870   26.4900 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0930  -14.7000   25.2900 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4140  -16.0430   29.0600 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  5  1  0
+  7  1  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 10  2  2  0
+ 11 10  1  0
+ 12 11  2  0
+ 13 12  1  0
+ 14  2  1  0
+ 14 13  2  0
+ 15  3  1  0
+ 15  1  1  0
+ 15  6  1  0
+ 16  1  2  0
+ 17  5  1  0
+ 17  4  1  0
+M  END
+>  <id>  (1) 
+1
+
+>  <inchikey>  (1) 
+VCWRKWJSYZSPEJ-UHFFFAOYSA-N
+
+>  <alias>  (1) 
+x0501a
+
+>  <smiles>  (1) 
+O=C(CCCc1ccccc1)N1CCOCC1
+
+>  <path>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0501a/x0501a_hippo.pdb
+
+>  <distance_score>  (1) 
+None
+
+>  <energy_score>  (1) 
+None
+
+>  <compound>  (1) 
+VCWRKWJSYZSPEJ-UHFFFAOYSA-N
+
+>  <compound_id>  (1) 
+1
+
+>  <target>  (1) 
+CpKRS
+
+>  <tags>  (1) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (1) 
+
+
+>  <reference>  (1) 
+
+
+>  <observation_longname>  (1) 
+LYSRSCPZ-x0501_A_901_v1
+
+>  <ConformerSites alias>  (1) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (1) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (1) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (1) 
+A1 - dimer
+
+>  <Crystalforms alias>  (1) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (1) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (1) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (1) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (1) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (1) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (1) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (1) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (1) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (1) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (1) 
+F2 - P1211
+
+>  <Centroid res>  (1) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (1) 
+LYSRSCPZ-x0501
+
+>  <Pose>  (1) 
+x0501a
+
+$$$$
+x0501b
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    4.0620  -14.8720   25.6190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9580   -9.9860   22.0350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1260  -14.8680   27.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5100  -15.8690   28.1320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5070  -16.8460   28.6940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3020  -15.9600   27.7690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3050  -13.9740   24.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7060  -12.4920   24.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1080  -11.9580   23.3430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5180  -10.5060   23.2460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4660   -9.6570   24.3460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8470   -8.3290   24.2330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2750   -7.8280   23.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3350   -8.6560   21.9290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4770  -15.2660   26.7680 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2150  -15.2000   25.3680 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3720  -16.1790   29.2140 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  5  1  0
+  7  1  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 10  2  2  0
+ 11 10  1  0
+ 12 11  2  0
+ 13 12  1  0
+ 14 13  2  0
+ 14  2  1  0
+ 15  3  1  0
+ 15  1  1  0
+ 15  6  1  0
+ 16  1  2  0
+ 17  5  1  0
+ 17  4  1  0
+M  END
+>  <id>  (2) 
+2
+
+>  <inchikey>  (2) 
+VCWRKWJSYZSPEJ-UHFFFAOYSA-N
+
+>  <alias>  (2) 
+x0501b
+
+>  <smiles>  (2) 
+O=C(CCCc1ccccc1)N1CCOCC1
+
+>  <path>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0501b/x0501b_hippo.pdb
+
+>  <distance_score>  (2) 
+None
+
+>  <energy_score>  (2) 
+None
+
+>  <compound>  (2) 
+VCWRKWJSYZSPEJ-UHFFFAOYSA-N
+
+>  <compound_id>  (2) 
+1
+
+>  <target>  (2) 
+CpKRS
+
+>  <tags>  (2) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (2) 
+
+
+>  <reference>  (2) 
+
+
+>  <observation_longname>  (2) 
+LYSRSCPZ-x0501_C_1202_v1
+
+>  <ConformerSites alias>  (2) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (2) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (2) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (2) 
+A1 - dimer
+
+>  <Crystalforms alias>  (2) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (2) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (2) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (2) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (2) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (2) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (2) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (2) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (2) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (2) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (2) 
+F2 - P1211
+
+>  <Centroid res>  (2) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (2) 
+LYSRSCPZ-x0501
+
+>  <Pose>  (2) 
+x0501a
+
+$$$$
+x0407c
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    1.7020    4.2390   47.2760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5280    5.3820   46.2960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4430    5.2570   45.1070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4000    4.8540   42.9850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1420    4.2840   41.4600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8510    4.6390   40.1860 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9290    4.8310   38.9880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7910    6.3370   38.8380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0820    6.8420   39.3660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6070    4.7230   45.1700 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9660    4.1910   43.9450 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9300    4.8420   41.7150 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6860    3.5310   42.2470 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5770    5.8660   40.3080 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0130    5.7480   43.4860 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  6  5  1  1
+  7  6  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  3  2  0
+ 11  4  2  0
+ 11 10  1  0
+ 12  5  1  0
+ 12  4  1  0
+ 13  5  2  0
+ 14  6  1  0
+ 14  9  1  0
+ 15  4  1  0
+ 15  3  1  0
+M  END
+>  <id>  (3) 
+3
+
+>  <inchikey>  (3) 
+KKBVPDRSYCAPEU-ZCFIWIBFSA-N
+
+>  <alias>  (3) 
+x0407c
+
+>  <smiles>  (3) 
+CCc1nnc(NC(=O)[C@H]2CCCO2)s1
+
+>  <path>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0407c/x0407c_hippo.pdb
+
+>  <distance_score>  (3) 
+None
+
+>  <energy_score>  (3) 
+None
+
+>  <compound>  (3) 
+KKBVPDRSYCAPEU-UHFFFAOYSA-N
+
+>  <compound_id>  (3) 
+2
+
+>  <target>  (3) 
+CpKRS
+
+>  <tags>  (3) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (3) 
+
+
+>  <reference>  (3) 
+
+
+>  <observation_longname>  (3) 
+LYSRSCPZ-x0407_D_802_v1
+
+>  <ConformerSites alias>  (3) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (3) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (3) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (3) 
+A1 - dimer
+
+>  <Crystalforms alias>  (3) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (3) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (3) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (3) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (3) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (3) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (3) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (3) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (3) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (3) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (3) 
+F2 - P1211
+
+>  <Centroid res>  (3) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (3) 
+LYSRSCPZ-x0407
+
+>  <Pose>  (3) 
+x0407c
+
+$$$$
+x0407a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    3.2990  -16.4150   28.9800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4960  -16.4630   27.6940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5100  -15.1500   26.9580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8950  -13.2850   25.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5560  -12.2500   24.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500  -10.9640   23.4670 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6710  -10.9540   21.9690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7230   -9.4680   21.6710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2230   -8.8350   22.9380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5520  -14.2670   27.0100 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7340  -13.2180   26.1170 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2990  -12.3250   24.6230 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3610  -13.1620   24.1690 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2130   -9.8490   23.9760 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8600  -14.6520   25.9840 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  6  5  1  1
+  7  6  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  3  2  0
+ 11 10  1  0
+ 11  4  2  0
+ 12  5  1  0
+ 12  4  1  0
+ 13  5  2  0
+ 14  6  1  0
+ 14  9  1  0
+ 15  4  1  0
+ 15  3  1  0
+M  END
+>  <id>  (4) 
+4
+
+>  <inchikey>  (4) 
+KKBVPDRSYCAPEU-ZCFIWIBFSA-N
+
+>  <alias>  (4) 
+x0407a
+
+>  <smiles>  (4) 
+CCc1nnc(NC(=O)[C@H]2CCCO2)s1
+
+>  <path>  (4) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0407a/x0407a_hippo.pdb
+
+>  <distance_score>  (4) 
+None
+
+>  <energy_score>  (4) 
+None
+
+>  <compound>  (4) 
+KKBVPDRSYCAPEU-UHFFFAOYSA-N
+
+>  <compound_id>  (4) 
+2
+
+>  <target>  (4) 
+CpKRS
+
+>  <tags>  (4) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (4) 
+
+
+>  <reference>  (4) 
+
+
+>  <observation_longname>  (4) 
+LYSRSCPZ-x0407_A_805_v1
+
+>  <ConformerSites alias>  (4) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (4) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (4) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (4) 
+A1 - dimer
+
+>  <Crystalforms alias>  (4) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (4) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (4) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (4) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (4) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (4) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (4) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (4) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (4) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (4) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (4) 
+F2 - P1211
+
+>  <Centroid res>  (4) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (4) 
+LYSRSCPZ-x0407
+
+>  <Pose>  (4) 
+x0407a
+
+$$$$
+x0407b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    3.3280  -16.1610   28.9980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6200  -16.3640   27.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6450  -15.1410   26.7930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1290  -13.2710   25.3840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8090  -12.3210   23.9270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2310  -11.1040   23.1640 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.7650  -11.1170   21.7130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8420   -9.6430   21.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7880   -8.9090   22.6370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6410  -14.3210   26.6740 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9460  -13.1860   25.9330 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5900  -12.2920   24.5240 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5550  -13.2830   23.9820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6810   -9.8960   23.6960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0330  -14.6930   25.8420 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  6  5  1  1
+  7  6  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  3  2  0
+ 11 10  1  0
+ 11  4  2  0
+ 12  5  1  0
+ 12  4  1  0
+ 13  5  2  0
+ 14  6  1  0
+ 14  9  1  0
+ 15  4  1  0
+ 15  3  1  0
+M  END
+>  <id>  (5) 
+5
+
+>  <inchikey>  (5) 
+KKBVPDRSYCAPEU-ZCFIWIBFSA-N
+
+>  <alias>  (5) 
+x0407b
+
+>  <smiles>  (5) 
+CCc1nnc(NC(=O)[C@H]2CCCO2)s1
+
+>  <path>  (5) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0407b/x0407b_hippo.pdb
+
+>  <distance_score>  (5) 
+None
+
+>  <energy_score>  (5) 
+None
+
+>  <compound>  (5) 
+KKBVPDRSYCAPEU-UHFFFAOYSA-N
+
+>  <compound_id>  (5) 
+2
+
+>  <target>  (5) 
+CpKRS
+
+>  <tags>  (5) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (5) 
+
+
+>  <reference>  (5) 
+
+
+>  <observation_longname>  (5) 
+LYSRSCPZ-x0407_C_1202_v1
+
+>  <ConformerSites alias>  (5) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (5) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (5) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (5) 
+A1 - dimer
+
+>  <Crystalforms alias>  (5) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (5) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (5) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (5) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (5) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (5) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (5) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (5) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (5) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (5) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (5) 
+F2 - P1211
+
+>  <Centroid res>  (5) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (5) 
+LYSRSCPZ-x0407
+
+>  <Pose>  (5) 
+x0407a
+
+$$$$
+x0414a
+     RDKit          3D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    6.1360   -7.9150   23.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3290   -9.1460   24.0750 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.7610   -9.6570   25.4590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8110  -10.2530   26.8010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0010  -11.4100   27.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8750  -12.9070   25.7630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5110  -11.7340   25.0610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8840   -8.8440   23.9790 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9660  -10.7470   26.0430 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6660  -12.6520   27.1450 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  3  2  1  0
+  5  4  1  0
+  7  6  1  0
+  8  2  1  0
+  9  7  1  0
+  9  4  1  0
+  9  3  1  0
+ 10  6  1  0
+ 10  5  1  0
+M  END
+>  <id>  (6) 
+6
+
+>  <inchikey>  (6) 
+SWZKXIPDGAAYKE-ZETCQYMHSA-N
+
+>  <alias>  (6) 
+x0414a
+
+>  <smiles>  (6) 
+C[C@H](N)CN1CCOCC1
+
+>  <path>  (6) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0414a/x0414a.pdb
+
+>  <distance_score>  (6) 
+None
+
+>  <energy_score>  (6) 
+None
+
+>  <compound>  (6) 
+SWZKXIPDGAAYKE-UHFFFAOYSA-N
+
+>  <compound_id>  (6) 
+3
+
+>  <target>  (6) 
+CpKRS
+
+>  <tags>  (6) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (6) 
+
+
+>  <reference>  (6) 
+
+
+>  <observation_longname>  (6) 
+LYSRSCPZ-x0414_A_805_v1
+
+>  <ConformerSites alias>  (6) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (6) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (6) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (6) 
+A1 - dimer
+
+>  <Crystalforms alias>  (6) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (6) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (6) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (6) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (6) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (6) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (6) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (6) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (6) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (6) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (6) 
+F2 - P1211
+
+>  <Centroid res>  (6) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (6) 
+LYSRSCPZ-x0414
+
+>  <Pose>  (6) 
+x0414a
+
+$$$$
+x0414b
+     RDKit          3D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    4.0790   -8.7330   23.7800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2810   -8.5790   24.7030 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.7570   -9.9380   25.2240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9810  -12.2060   25.5450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8030  -13.0450   25.9660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0980  -11.3690   27.4330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2670  -10.5050   27.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3850   -7.8580   24.0240 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6450  -10.7870   25.6570 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3970  -12.7510   27.2980 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  3  2  1  0
+  5  4  1  0
+  7  6  1  0
+  8  2  1  0
+  9  4  1  0
+  9  7  1  0
+  9  3  1  0
+ 10  5  1  0
+ 10  6  1  0
+M  END
+>  <id>  (7) 
+7
+
+>  <inchikey>  (7) 
+SWZKXIPDGAAYKE-ZETCQYMHSA-N
+
+>  <alias>  (7) 
+x0414b
+
+>  <smiles>  (7) 
+C[C@H](N)CN1CCOCC1
+
+>  <path>  (7) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0414b/x0414b.pdb
+
+>  <distance_score>  (7) 
+None
+
+>  <energy_score>  (7) 
+None
+
+>  <compound>  (7) 
+SWZKXIPDGAAYKE-UHFFFAOYSA-N
+
+>  <compound_id>  (7) 
+3
+
+>  <target>  (7) 
+CpKRS
+
+>  <tags>  (7) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (7) 
+
+
+>  <reference>  (7) 
+
+
+>  <observation_longname>  (7) 
+LYSRSCPZ-x0414_B_701_v1
+
+>  <ConformerSites alias>  (7) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (7) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (7) 
+F2c - x0414/B/701
+
+>  <Quatassemblies alias>  (7) 
+A1 - dimer
+
+>  <Crystalforms alias>  (7) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (7) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (7) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (7) 
+F2c - LYSRSCPZ-x0414/B/701/1
+
+>  <Quatassemblies upload name>  (7) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (7) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (7) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (7) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (7) 
+F2c - x0414/B/701
+
+>  <Quatassemblies short tag>  (7) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (7) 
+F2 - P1211
+
+>  <Centroid res>  (7) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (7) 
+LYSRSCPZ-x0414
+
+>  <Pose>  (7) 
+x0414a
+
+$$$$
+x0419b
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    0.7620    7.6840   48.1460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4090    4.4880   39.6430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8120    6.7640   39.4760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6680    7.1180   40.4000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4160    6.1570   45.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0870    7.4230   46.7130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8580    6.1960   46.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0400    5.1030   47.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7740    4.0060   46.7370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3350    3.9780   45.4750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1480    5.0580   44.6090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9620    6.1850   42.5550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2380    4.7020   40.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7030    5.0630   43.3090 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3150    5.9900   41.2590 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7510    8.2420   45.8650 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8530    7.3250   43.0220 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5510    5.5760   38.7370 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  1  1  0
+  7  6  1  0
+  7  5  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  5  1  0
+ 13  2  1  0
+ 14 11  1  0
+ 14 12  1  0
+ 15 13  1  0
+ 15 12  1  0
+ 15  4  1  0
+ 16  6  2  0
+ 17 12  2  0
+ 18  2  1  0
+ 18  3  1  0
+M  END
+>  <id>  (8) 
+8
+
+>  <inchikey>  (8) 
+GFGGXIIHWJXKMZ-UHFFFAOYSA-N
+
+>  <alias>  (8) 
+x0419b
+
+>  <smiles>  (8) 
+CC(=O)c1cccc(NC(=O)N2CCOCC2)c1
+
+>  <path>  (8) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0419b/x0419b_hippo.pdb
+
+>  <distance_score>  (8) 
+None
+
+>  <energy_score>  (8) 
+None
+
+>  <compound>  (8) 
+GFGGXIIHWJXKMZ-UHFFFAOYSA-N
+
+>  <compound_id>  (8) 
+4
+
+>  <target>  (8) 
+CpKRS
+
+>  <tags>  (8) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (8) 
+
+
+>  <reference>  (8) 
+
+
+>  <observation_longname>  (8) 
+LYSRSCPZ-x0419_A_805_v1
+
+>  <ConformerSites alias>  (8) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (8) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (8) 
+F2j - x0419/A/805
+
+>  <Quatassemblies alias>  (8) 
+A1 - dimer
+
+>  <Crystalforms alias>  (8) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (8) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (8) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (8) 
+F2j - LYSRSCPZ-x0419/A/805/1
+
+>  <Quatassemblies upload name>  (8) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (8) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (8) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (8) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (8) 
+F2j - x0419/A/805
+
+>  <Quatassemblies short tag>  (8) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (8) 
+F2 - P1211
+
+>  <Centroid res>  (8) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (8) 
+LYSRSCPZ-x0419
+
+>  <Pose>  (8) 
+x0419b
+
+$$$$
+x0419a
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    5.7530   -7.7490   24.5700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3550  -15.0700   27.5240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1040  -16.5320   27.7310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1010  -15.5900   27.1000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5470  -10.4770   24.1070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4230   -8.2910   23.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0830   -9.7440   23.0480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3090  -10.3890   21.8340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0270  -11.7370   21.6920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4820  -12.4550   22.7330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2290  -11.8280   23.9540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1680  -13.8190   25.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2060  -13.9800   26.9200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760  -12.6050   24.9990 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4800  -14.4710   26.3910 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4480   -7.5460   22.2410 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2300  -14.2510   24.9590 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0900  -15.8490   28.4520 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  1  1  0
+  7  6  1  0
+  7  5  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  5  1  0
+ 13  2  1  0
+ 14 12  1  0
+ 14 11  1  0
+ 15 13  1  0
+ 15 12  1  0
+ 15  4  1  0
+ 16  6  2  0
+ 17 12  2  0
+ 18  3  1  0
+ 18  2  1  0
+M  END
+>  <id>  (9) 
+9
+
+>  <inchikey>  (9) 
+GFGGXIIHWJXKMZ-UHFFFAOYSA-N
+
+>  <alias>  (9) 
+x0419a
+
+>  <smiles>  (9) 
+CC(=O)c1cccc(NC(=O)N2CCOCC2)c1
+
+>  <path>  (9) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0419a/x0419a_hippo.pdb
+
+>  <distance_score>  (9) 
+None
+
+>  <energy_score>  (9) 
+None
+
+>  <compound>  (9) 
+GFGGXIIHWJXKMZ-UHFFFAOYSA-N
+
+>  <compound_id>  (9) 
+4
+
+>  <target>  (9) 
+CpKRS
+
+>  <tags>  (9) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (9) 
+
+
+>  <reference>  (9) 
+
+
+>  <observation_longname>  (9) 
+LYSRSCPZ-x0419_A_901_v1
+
+>  <ConformerSites alias>  (9) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (9) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (9) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (9) 
+A1 - dimer
+
+>  <Crystalforms alias>  (9) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (9) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (9) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (9) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (9) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (9) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (9) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (9) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (9) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (9) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (9) 
+F2 - P1211
+
+>  <Centroid res>  (9) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (9) 
+LYSRSCPZ-x0419
+
+>  <Pose>  (9) 
+x0419a
+
+$$$$
+x0419c
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    5.5830   -7.7680   24.6530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4430  -15.1070   27.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2540  -16.4810   27.9160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1360  -15.6470   27.0150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5340  -10.5250   24.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3940   -8.2980   23.2650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0940   -9.7530   23.0540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3800  -10.3640   21.8380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1250  -11.7150   21.6570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5710  -12.4730   22.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2610  -11.8820   23.8920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1680  -13.8760   25.3730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1610  -14.0830   26.8370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760  -12.6790   24.9100 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4720  -14.5240   26.3490 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5220   -7.5460   22.3030 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2240  -14.3310   24.9420 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3080  -15.7090   28.6290 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  1  1  0
+  7  6  1  0
+  7  5  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  5  1  0
+ 13  2  1  0
+ 14 12  1  0
+ 14 11  1  0
+ 15 13  1  0
+ 15 12  1  0
+ 15  4  1  0
+ 16  6  2  0
+ 17 12  2  0
+ 18  3  1  0
+ 18  2  1  0
+M  END
+>  <id>  (10) 
+10
+
+>  <inchikey>  (10) 
+GFGGXIIHWJXKMZ-UHFFFAOYSA-N
+
+>  <alias>  (10) 
+x0419c
+
+>  <smiles>  (10) 
+CC(=O)c1cccc(NC(=O)N2CCOCC2)c1
+
+>  <path>  (10) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0419c/x0419c_hippo.pdb
+
+>  <distance_score>  (10) 
+None
+
+>  <energy_score>  (10) 
+None
+
+>  <compound>  (10) 
+GFGGXIIHWJXKMZ-UHFFFAOYSA-N
+
+>  <compound_id>  (10) 
+4
+
+>  <target>  (10) 
+CpKRS
+
+>  <tags>  (10) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (10) 
+
+
+>  <reference>  (10) 
+
+
+>  <observation_longname>  (10) 
+LYSRSCPZ-x0419_C_1301_v1
+
+>  <ConformerSites alias>  (10) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (10) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (10) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (10) 
+A1 - dimer
+
+>  <Crystalforms alias>  (10) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (10) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (10) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (10) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (10) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (10) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (10) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (10) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (10) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (10) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (10) 
+F2 - P1211
+
+>  <Centroid res>  (10) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (10) 
+LYSRSCPZ-x0419
+
+>  <Pose>  (10) 
+x0419a
+
+$$$$
+x0421a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    0.0080  -14.0240   26.9700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0930  -11.3610   22.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3000  -15.0790   27.1440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4990  -14.8460   26.5480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3030  -13.7740   25.6610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2290  -13.0650   24.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2310  -10.8490   23.5730 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9220   -9.5400   23.9380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3360   -8.9510   22.5890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2950  -10.1020   21.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4190  -14.1820   26.6470 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0220  -13.3730   25.7310 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0920  -11.7280   24.7230 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0570  -13.6830   24.0760 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9480  -15.7150   26.8590 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  1  0
+  7  2  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  2  1  0
+ 10  9  1  0
+ 11  3  1  0
+ 11  1  1  0
+ 12 11  1  0
+ 12  5  2  0
+ 13  6  1  0
+  7 13  1  1
+ 14  6  2  0
+ 15  4  1  0
+M  END
+>  <id>  (11) 
+11
+
+>  <inchikey>  (11) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <alias>  (11) 
+x0421a
+
+>  <smiles>  (11) 
+Cn1cc(Cl)c(C(=O)NC2CCCC2)n1
+
+>  <path>  (11) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0421a/x0421a_hippo.pdb
+
+>  <distance_score>  (11) 
+None
+
+>  <energy_score>  (11) 
+None
+
+>  <compound>  (11) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <compound_id>  (11) 
+5
+
+>  <target>  (11) 
+CpKRS
+
+>  <tags>  (11) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (11) 
+
+
+>  <reference>  (11) 
+
+
+>  <observation_longname>  (11) 
+LYSRSCPZ-x0421_A_805_v1
+
+>  <ConformerSites alias>  (11) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (11) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (11) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (11) 
+A1 - dimer
+
+>  <Crystalforms alias>  (11) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (11) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (11) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (11) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (11) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (11) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (11) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (11) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (11) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (11) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (11) 
+F2 - P1211
+
+>  <Centroid res>  (11) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (11) 
+LYSRSCPZ-x0421
+
+>  <Pose>  (11) 
+x0421a
+
+$$$$
+x0421b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   -0.1530  -13.6560   26.4510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2180   -9.2990   24.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0550  -14.8140   26.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3330  -14.6120   26.4750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2950  -13.5030   25.6160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3610  -12.8310   24.8470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0840  -10.7770   23.7330 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5420  -10.7530   22.3030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2040   -9.5410   21.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7310   -8.6780   22.7820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2850  -13.8670   26.3280 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0350  -13.0540   25.5340 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2260  -11.5090   24.6490 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220  -13.4720   24.4050 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7090  -15.5280   26.9280 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  1  0
+  7  2  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 10  2  1  0
+ 11  3  1  0
+ 11  1  1  0
+ 12 11  1  0
+ 12  5  2  0
+ 13  6  1  0
+  7 13  1  1
+ 14  6  2  0
+ 15  4  1  0
+M  END
+>  <id>  (12) 
+12
+
+>  <inchikey>  (12) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <alias>  (12) 
+x0421b
+
+>  <smiles>  (12) 
+Cn1cc(Cl)c(C(=O)NC2CCCC2)n1
+
+>  <path>  (12) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0421b/x0421b_hippo.pdb
+
+>  <distance_score>  (12) 
+None
+
+>  <energy_score>  (12) 
+None
+
+>  <compound>  (12) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <compound_id>  (12) 
+5
+
+>  <target>  (12) 
+CpKRS
+
+>  <tags>  (12) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (12) 
+
+
+>  <reference>  (12) 
+
+
+>  <observation_longname>  (12) 
+LYSRSCPZ-x0421_B_612_v1
+
+>  <ConformerSites alias>  (12) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (12) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (12) 
+F2c - x0414/B/701
+
+>  <Quatassemblies alias>  (12) 
+A1 - dimer
+
+>  <Crystalforms alias>  (12) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (12) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (12) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (12) 
+F2c - LYSRSCPZ-x0414/B/701/1
+
+>  <Quatassemblies upload name>  (12) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (12) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (12) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (12) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (12) 
+F2c - x0414/B/701
+
+>  <Quatassemblies short tag>  (12) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (12) 
+F2 - P1211
+
+>  <Centroid res>  (12) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (12) 
+LYSRSCPZ-x0421
+
+>  <Pose>  (12) 
+x0421a
+
+$$$$
+x0421c
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   -0.0180  -13.8440   26.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8950   -9.3810   24.0910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2140  -14.9830   26.9130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4730  -14.7760   26.4290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3920  -13.6840   25.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4230  -12.9950   24.7540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1330  -10.8560   23.7650 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1260  -10.9180   22.2280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3170   -9.4880   21.7180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5460   -8.6300   22.9370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4120  -14.0520   26.3450 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1230  -13.2460   25.5160 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1390  -11.7370   24.3620 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5070  -13.5410   24.5030 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8740  -15.6790   26.8190 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  1  0
+  7  2  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 10  2  1  0
+ 11  3  1  0
+ 11  1  1  0
+ 12 11  1  0
+ 12  5  2  0
+ 13  6  1  0
+  7 13  1  1
+ 14  6  2  0
+ 15  4  1  0
+M  END
+>  <id>  (13) 
+13
+
+>  <inchikey>  (13) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <alias>  (13) 
+x0421c
+
+>  <smiles>  (13) 
+Cn1cc(Cl)c(C(=O)NC2CCCC2)n1
+
+>  <path>  (13) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0421c/x0421c_hippo.pdb
+
+>  <distance_score>  (13) 
+None
+
+>  <energy_score>  (13) 
+None
+
+>  <compound>  (13) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <compound_id>  (13) 
+5
+
+>  <target>  (13) 
+CpKRS
+
+>  <tags>  (13) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (13) 
+
+
+>  <reference>  (13) 
+
+
+>  <observation_longname>  (13) 
+LYSRSCPZ-x0421_C_1202_v1
+
+>  <ConformerSites alias>  (13) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (13) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (13) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (13) 
+A1 - dimer
+
+>  <Crystalforms alias>  (13) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (13) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (13) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (13) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (13) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (13) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (13) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (13) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (13) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (13) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (13) 
+F2 - P1211
+
+>  <Centroid res>  (13) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (13) 
+LYSRSCPZ-x0421
+
+>  <Pose>  (13) 
+x0421a
+
+$$$$
+x0421d
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   -0.1000  -13.5250   26.6870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0000   -9.4690   23.8670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0830  -14.7360   27.0820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3280  -14.6220   26.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2790  -13.5830   25.6170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3200  -12.9870   24.7570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0220  -10.9610   23.5450 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6510  -11.0250   22.0600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0400   -9.6680   21.4630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5340   -8.8120   22.6080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3170  -13.7970   26.4920 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0380  -13.0890   25.5810 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1030  -11.7180   24.3750 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3430  -13.6110   24.4570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6950  -15.5670   26.9660 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  1  0
+  7  2  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 10  2  1  0
+ 11  3  1  0
+ 11  1  1  0
+ 12 11  1  0
+ 12  5  2  0
+  7 13  1  1
+ 13  6  1  0
+ 14  6  2  0
+ 15  4  1  0
+M  END
+>  <id>  (14) 
+14
+
+>  <inchikey>  (14) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <alias>  (14) 
+x0421d
+
+>  <smiles>  (14) 
+Cn1cc(Cl)c(C(=O)NC2CCCC2)n1
+
+>  <path>  (14) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0421d/x0421d_hippo.pdb
+
+>  <distance_score>  (14) 
+None
+
+>  <energy_score>  (14) 
+None
+
+>  <compound>  (14) 
+AEWMHZKRUKXXFH-UHFFFAOYSA-N
+
+>  <compound_id>  (14) 
+5
+
+>  <target>  (14) 
+CpKRS
+
+>  <tags>  (14) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (14) 
+
+
+>  <reference>  (14) 
+
+
+>  <observation_longname>  (14) 
+LYSRSCPZ-x0421_D_802_v1
+
+>  <ConformerSites alias>  (14) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (14) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (14) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (14) 
+A1 - dimer
+
+>  <Crystalforms alias>  (14) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (14) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (14) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (14) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (14) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (14) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (14) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (14) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (14) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (14) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (14) 
+F2 - P1211
+
+>  <Centroid res>  (14) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (14) 
+LYSRSCPZ-x0421
+
+>  <Pose>  (14) 
+x0421a
+
+$$$$
+x0426b
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    3.8320  -24.7100   21.2780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1890  -21.8820   10.7280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3990  -23.7680   11.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6330  -24.4330   17.1700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7150  -25.9090   20.3900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040  -26.2690   18.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8830  -25.5530   16.8710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2700  -25.9840   15.5730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1530  -25.0900   13.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7850  -23.9380   12.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8200  -23.0150   12.7790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5170  -21.9720   11.9260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4930  -25.5670   18.9850 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1390  -24.8960   14.6140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1140  -22.7670   10.3330 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0060  -24.4330   18.4500 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4690  -26.1700   12.7970 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0
+  7  6  2  0
+  7  4  1  0
+  8  7  1  0
+ 10  9  1  0
+ 10  3  1  0
+ 11 10  2  0
+ 12  2  2  0
+ 12 11  1  0
+ 13  6  1  0
+ 13  5  1  0
+ 14  9  1  0
+ 14  8  1  0
+ 15  2  1  0
+ 15  3  2  0
+ 16 13  1  0
+ 16  4  2  0
+ 17  9  2  0
+M  END
+>  <id>  (15) 
+15
+
+>  <inchikey>  (15) 
+BMMWLPQUDGCRRJ-UHFFFAOYSA-N
+
+>  <alias>  (15) 
+x0426b
+
+>  <smiles>  (15) 
+CCn1cc(CNC(=O)c2cccnc2)cn1
+
+>  <path>  (15) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0426b/x0426b_hippo.pdb
+
+>  <distance_score>  (15) 
+None
+
+>  <energy_score>  (15) 
+None
+
+>  <compound>  (15) 
+BMMWLPQUDGCRRJ-UHFFFAOYSA-N
+
+>  <compound_id>  (15) 
+6
+
+>  <target>  (15) 
+CpKRS
+
+>  <tags>  (15) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (15) 
+
+
+>  <reference>  (15) 
+
+
+>  <observation_longname>  (15) 
+LYSRSCPZ-x0426_A_805_v1
+
+>  <ConformerSites alias>  (15) 
+4a - x0426/A/805
+
+>  <CanonSites alias>  (15) 
+4 - x0426/A/805/1
+
+>  <CrystalformSites alias>  (15) 
+F2p - x0426/A/805
+
+>  <Quatassemblies alias>  (15) 
+A1 - dimer
+
+>  <Crystalforms alias>  (15) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (15) 
+4a - LYSRSCPZ-x0426/A/805
+
+>  <CanonSites upload name>  (15) 
+4 - LYSRSCPZ-x0426/A/805/1
+
+>  <CrystalformSites upload name>  (15) 
+F2p - LYSRSCPZ-x0426/A/805/1
+
+>  <Quatassemblies upload name>  (15) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (15) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (15) 
+4a - x0426/A/805
+
+>  <CanonSites short tag>  (15) 
+4 - x0426/A/805/1
+
+>  <CrystalformSites short tag>  (15) 
+F2p - x0426/A/805
+
+>  <Quatassemblies short tag>  (15) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (15) 
+F2 - P1211
+
+>  <Centroid res>  (15) 
+LYSRSCPZ-x0426/B/461/A_v1
+
+>  <Experiment code>  (15) 
+LYSRSCPZ-x0426
+
+>  <Pose>  (15) 
+x0426b
+
+$$$$
+x0426a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    6.4640   -7.8380   24.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0210  -14.9510   28.1610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8570  -15.2060   26.8220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8900  -10.6200   21.2840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5320   -7.8340   23.3560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9870  -10.3280   23.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7580  -11.2930   22.4790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4310  -12.7520   22.5710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2870  -13.8220   24.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4410  -14.2000   25.9590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2470  -13.5570   26.2540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5280  -13.9380   27.3680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2510   -9.1680   22.8210 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7250  -13.1060   23.7950 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1710  -15.5890   27.9070 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1810   -9.3390   21.4790 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4730  -14.1530   24.7310 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0
+  7  4  1  0
+  7  6  2  0
+  8  7  1  0
+ 10  9  1  0
+ 10  3  1  0
+ 11 10  2  0
+ 12 11  1  0
+ 12  2  2  0
+ 13  6  1  0
+ 13  5  1  0
+ 14  9  1  0
+ 14  8  1  0
+ 15  3  2  0
+ 15  2  1  0
+ 16  4  2  0
+ 16 13  1  0
+ 17  9  2  0
+M  END
+>  <id>  (16) 
+16
+
+>  <inchikey>  (16) 
+BMMWLPQUDGCRRJ-UHFFFAOYSA-N
+
+>  <alias>  (16) 
+x0426a
+
+>  <smiles>  (16) 
+CCn1cc(CNC(=O)c2cccnc2)cn1
+
+>  <path>  (16) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0426a/x0426a_hippo.pdb
+
+>  <distance_score>  (16) 
+None
+
+>  <energy_score>  (16) 
+None
+
+>  <compound>  (16) 
+BMMWLPQUDGCRRJ-UHFFFAOYSA-N
+
+>  <compound_id>  (16) 
+6
+
+>  <target>  (16) 
+CpKRS
+
+>  <tags>  (16) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (16) 
+
+
+>  <reference>  (16) 
+
+
+>  <observation_longname>  (16) 
+LYSRSCPZ-x0426_D_802_v1
+
+>  <ConformerSites alias>  (16) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (16) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (16) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (16) 
+A1 - dimer
+
+>  <Crystalforms alias>  (16) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (16) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (16) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (16) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (16) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (16) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (16) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (16) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (16) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (16) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (16) 
+F2 - P1211
+
+>  <Centroid res>  (16) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (16) 
+LYSRSCPZ-x0426
+
+>  <Pose>  (16) 
+x0426a
+
+$$$$
+x0434a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    3.2030  -15.0630   27.7870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8940  -10.1240   24.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1370   -8.7710   24.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3850   -7.9800   23.0760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3850   -8.5310   21.8180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1470   -9.8870   21.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8750  -14.7480   27.8630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320  -13.9920   26.8490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1040  -13.5830   25.7930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560  -13.9110   25.7460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0090  -14.6740   26.7640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3530  -13.4860   24.6170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170  -12.1660   22.5780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8910  -10.6950   22.7530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7460  -15.8090   28.7830 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8220  -12.7000   23.6760 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5350  -13.8400   24.5870 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  1  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  1  1  0
+ 12 10  1  0
+ 14 13  1  0
+ 14  6  2  0
+ 14  2  1  0
+ 15  1  1  0
+ 16 13  1  0
+ 16 12  1  0
+ 17 12  2  0
+M  END
+>  <id>  (17) 
+17
+
+>  <inchikey>  (17) 
+LKIBJWJYXBXEEB-UHFFFAOYSA-N
+
+>  <alias>  (17) 
+x0434a
+
+>  <smiles>  (17) 
+O=C(NCc1ccccc1)c1cccc(F)c1
+
+>  <path>  (17) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0434a/x0434a.pdb
+
+>  <distance_score>  (17) 
+None
+
+>  <energy_score>  (17) 
+None
+
+>  <compound>  (17) 
+LKIBJWJYXBXEEB-UHFFFAOYSA-N
+
+>  <compound_id>  (17) 
+7
+
+>  <target>  (17) 
+CpKRS
+
+>  <tags>  (17) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (17) 
+
+
+>  <reference>  (17) 
+
+
+>  <observation_longname>  (17) 
+LYSRSCPZ-x0434_A_901_v1
+
+>  <ConformerSites alias>  (17) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (17) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (17) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (17) 
+A1 - dimer
+
+>  <Crystalforms alias>  (17) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (17) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (17) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (17) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (17) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (17) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (17) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (17) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (17) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (17) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (17) 
+F2 - P1211
+
+>  <Centroid res>  (17) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (17) 
+LYSRSCPZ-x0434
+
+>  <Pose>  (17) 
+x0434a
+
+$$$$
+x0436a
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.6060    8.1090   38.0570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4770    7.0180   40.2520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4330    7.2440   41.1410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    6.2260   41.9650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5970    4.9760   41.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8050    4.1590   43.9780 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.6260    4.7460   41.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0600    5.7620   40.1800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4640    5.1370   44.5590 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5410    4.4990   44.0330 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9640    3.0790   44.7110 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6630    7.3050   37.5840 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9410    8.0140   39.3560 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1770    3.9020   42.7390 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3710    9.2420   37.0570 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  3  1  0
+  5  4  2  0
+  7  5  1  0
+  8  7  2  0
+  8  2  1  0
+  6  9  1  1
+ 10  6  1  0
+ 11  6  1  0
+ 12  1  1  0
+ 13  1  1  0
+ 13  2  1  0
+ 14  5  1  0
+ 14  6  1  0
+ 15  1  2  0
+M  END
+>  <id>  (18) 
+18
+
+>  <inchikey>  (18) 
+UCOXNOVULREFCO-UHFFFAOYSA-N
+
+>  <alias>  (18) 
+x0436a
+
+>  <smiles>  (18) 
+NC(=S)Nc1ccc(OC(F)(F)F)cc1
+
+>  <path>  (18) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0436a/x0436a_hippo.pdb
+
+>  <distance_score>  (18) 
+None
+
+>  <energy_score>  (18) 
+None
+
+>  <compound>  (18) 
+UCOXNOVULREFCO-UHFFFAOYSA-N
+
+>  <compound_id>  (18) 
+8
+
+>  <target>  (18) 
+CpKRS
+
+>  <tags>  (18) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (18) 
+
+
+>  <reference>  (18) 
+
+
+>  <observation_longname>  (18) 
+LYSRSCPZ-x0436_A_805_v1
+
+>  <ConformerSites alias>  (18) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (18) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (18) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (18) 
+A1 - dimer
+
+>  <Crystalforms alias>  (18) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (18) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (18) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (18) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (18) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (18) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (18) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (18) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (18) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (18) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (18) 
+F2 - P1211
+
+>  <Centroid res>  (18) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (18) 
+LYSRSCPZ-x0436
+
+>  <Pose>  (18) 
+x0436a
+
+$$$$
+x0436b
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.8520    8.7230   38.8060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6090    6.8610   40.3930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7550    5.4830   40.3220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0090    4.6610   41.1450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1060    5.2170   42.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7580    4.2140   44.1450 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9590    6.5920   42.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7070    7.4100   41.2940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7920    4.9800   44.4000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8500    4.5010   45.0660 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1490    2.9670   44.3300 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9860    8.6260   37.4900 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3570    7.7270   39.5530 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3300    4.3870   42.8960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0810   10.0510   39.5460 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  3  1  0
+  5  4  2  0
+  7  5  1  0
+  8  7  2  0
+  8  2  1  0
+  6  9  1  1
+ 10  6  1  0
+ 11  6  1  0
+ 12  1  1  0
+ 13  2  1  0
+ 13  1  1  0
+ 14  5  1  0
+ 14  6  1  0
+ 15  1  2  0
+M  END
+>  <id>  (19) 
+19
+
+>  <inchikey>  (19) 
+UCOXNOVULREFCO-UHFFFAOYSA-N
+
+>  <alias>  (19) 
+x0436b
+
+>  <smiles>  (19) 
+NC(=S)Nc1ccc(OC(F)(F)F)cc1
+
+>  <path>  (19) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0436b/x0436b.pdb
+
+>  <distance_score>  (19) 
+None
+
+>  <energy_score>  (19) 
+None
+
+>  <compound>  (19) 
+UCOXNOVULREFCO-UHFFFAOYSA-N
+
+>  <compound_id>  (19) 
+8
+
+>  <target>  (19) 
+CpKRS
+
+>  <tags>  (19) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (19) 
+
+
+>  <reference>  (19) 
+
+
+>  <observation_longname>  (19) 
+LYSRSCPZ-x0436_B_801_v1
+
+>  <ConformerSites alias>  (19) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (19) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (19) 
+F2j - x0419/A/805
+
+>  <Quatassemblies alias>  (19) 
+A1 - dimer
+
+>  <Crystalforms alias>  (19) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (19) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (19) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (19) 
+F2j - LYSRSCPZ-x0419/A/805/1
+
+>  <Quatassemblies upload name>  (19) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (19) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (19) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (19) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (19) 
+F2j - x0419/A/805
+
+>  <Quatassemblies short tag>  (19) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (19) 
+F2 - P1211
+
+>  <Centroid res>  (19) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (19) 
+LYSRSCPZ-x0436
+
+>  <Pose>  (19) 
+x0436a
+
+$$$$
+x0456a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    1.3160    6.9410   45.6000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9910    5.2130   46.2740 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3530    3.7640   46.2960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4080    4.3060   47.3120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1380    5.7470   45.1500 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4310    5.2040   43.1010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2540    5.7760   41.9790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9810    4.9490   41.1400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7220    5.5270   40.1250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7250    6.9090   39.9900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9950    7.6830   40.8880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9530    9.1850   40.8200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9720    6.0900   43.9930 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2730    7.1170   41.8640 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2400    3.9900   43.1930 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  6
+  4  3  1  0
+  4  2  1  0
+  5  2  1  0
+  5  1  1  1
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 11 10  1  0
+ 12 11  1  0
+ 13  6  1  0
+ 13  5  1  0
+ 14 11  2  0
+ 14  7  1  0
+ 15  6  2  0
+M  END
+>  <id>  (20) 
+20
+
+>  <inchikey>  (20) 
+HZPLHNFJXLSHCY-SECBINFHSA-N
+
+>  <alias>  (20) 
+x0456a
+
+>  <smiles>  (20) 
+Cc1cccc(C(=O)N[C@H](C)C2CC2)n1
+
+>  <path>  (20) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0456a/x0456a.pdb
+
+>  <distance_score>  (20) 
+None
+
+>  <energy_score>  (20) 
+None
+
+>  <compound>  (20) 
+HZPLHNFJXLSHCY-UHFFFAOYSA-N
+
+>  <compound_id>  (20) 
+9
+
+>  <target>  (20) 
+CpKRS
+
+>  <tags>  (20) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (20) 
+
+
+>  <reference>  (20) 
+
+
+>  <observation_longname>  (20) 
+LYSRSCPZ-x0456_A_805_v1
+
+>  <ConformerSites alias>  (20) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (20) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (20) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (20) 
+A1 - dimer
+
+>  <Crystalforms alias>  (20) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (20) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (20) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (20) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (20) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (20) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (20) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (20) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (20) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (20) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (20) 
+F2 - P1211
+
+>  <Centroid res>  (20) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (20) 
+LYSRSCPZ-x0456
+
+>  <Pose>  (20) 
+x0456a
+
+$$$$
+x0472a
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   20.9840    8.1230   25.7760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7680    7.8620   24.1600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6480    6.9470   24.9780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5010    5.5670   24.9360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3030    4.7450   25.7170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2570    5.2820   26.5480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3860    6.6400   26.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6100    7.4840   25.8200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3170    7.1980   27.3870 F   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0420    8.8040   25.0310 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8340   11.0620   25.5590 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0110   10.9950   24.4860 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0100   10.2140   23.2900 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7600   10.3280   24.4860 S   0  0  1  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  7  2  0
+  8  3  1  0
+  9  7  1  0
+ 10  1  1  0
+ 10  2  1  0
+ 14 13  2  0
+ 14 11  1  1
+ 14 10  1  0
+ 14 12  2  0
+M  END
+>  <id>  (21) 
+21
+
+>  <inchikey>  (21) 
+MTNUKOMLMCLFRR-UHFFFAOYSA-N
+
+>  <alias>  (21) 
+x0472a
+
+>  <smiles>  (21) 
+CN(Cc1cccc(F)c1)S(N)(=O)=O
+
+>  <path>  (21) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0472a/x0472a_hippo.pdb
+
+>  <distance_score>  (21) 
+None
+
+>  <energy_score>  (21) 
+None
+
+>  <compound>  (21) 
+MTNUKOMLMCLFRR-UHFFFAOYSA-N
+
+>  <compound_id>  (21) 
+10
+
+>  <target>  (21) 
+CpKRS
+
+>  <tags>  (21) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (21) 
+
+
+>  <reference>  (21) 
+
+
+>  <observation_longname>  (21) 
+LYSRSCPZ-x0472_A_805_v1
+
+>  <ConformerSites alias>  (21) 
+3a - x0472/A/805
+
+>  <CanonSites alias>  (21) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites alias>  (21) 
+F2m - x0472/A/805
+
+>  <Quatassemblies alias>  (21) 
+A1 - dimer
+
+>  <Crystalforms alias>  (21) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (21) 
+3a - LYSRSCPZ-x0472/A/805
+
+>  <CanonSites upload name>  (21) 
+3 - LYSRSCPZ-x0472/A/805/1
+
+>  <CrystalformSites upload name>  (21) 
+F2m - LYSRSCPZ-x0472/A/805/1
+
+>  <Quatassemblies upload name>  (21) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (21) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (21) 
+3a - x0472/A/805
+
+>  <CanonSites short tag>  (21) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites short tag>  (21) 
+F2m - x0472/A/805
+
+>  <Quatassemblies short tag>  (21) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (21) 
+F2 - P1211
+
+>  <Centroid res>  (21) 
+LYSRSCPZ-x0472/B/284/A_v1
+
+>  <Experiment code>  (21) 
+LYSRSCPZ-x0472
+
+>  <Pose>  (21) 
+x0472a
+
+$$$$
+x0472b
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   21.1570    8.1090   25.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1240    8.0400   24.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9720    7.1730   25.1530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0120    7.7290   25.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7910    6.9480   26.7200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5500    5.6020   26.8450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5270    5.0720   26.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7270    5.8110   25.2820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2910    3.7410   26.2260 F   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2120    8.8980   25.0300 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7650   10.0780   23.1870 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9400   10.9440   23.8630 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0200   11.0080   25.4100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7740   10.3460   24.4070 S   0  0  2  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  7  2  0
+  8  3  1  0
+  9  7  1  0
+ 10  1  1  0
+ 10  2  1  0
+ 14 11  1  6
+ 14 13  2  0
+ 14 10  1  0
+ 14 12  2  0
+M  END
+>  <id>  (22) 
+22
+
+>  <inchikey>  (22) 
+MTNUKOMLMCLFRR-UHFFFAOYSA-N
+
+>  <alias>  (22) 
+x0472b
+
+>  <smiles>  (22) 
+CN(Cc1cccc(F)c1)S(N)(=O)=O
+
+>  <path>  (22) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0472b/x0472b_hippo.pdb
+
+>  <distance_score>  (22) 
+None
+
+>  <energy_score>  (22) 
+None
+
+>  <compound>  (22) 
+MTNUKOMLMCLFRR-UHFFFAOYSA-N
+
+>  <compound_id>  (22) 
+10
+
+>  <target>  (22) 
+CpKRS
+
+>  <tags>  (22) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (22) 
+
+
+>  <reference>  (22) 
+
+
+>  <observation_longname>  (22) 
+LYSRSCPZ-x0472_A_806_v1
+
+>  <ConformerSites alias>  (22) 
+3a - x0472/A/805
+
+>  <CanonSites alias>  (22) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites alias>  (22) 
+F2n - x0472/A/806
+
+>  <Quatassemblies alias>  (22) 
+A1 - dimer
+
+>  <Crystalforms alias>  (22) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (22) 
+3a - LYSRSCPZ-x0472/A/805
+
+>  <CanonSites upload name>  (22) 
+3 - LYSRSCPZ-x0472/A/805/1
+
+>  <CrystalformSites upload name>  (22) 
+F2n - LYSRSCPZ-x0472/A/806/1
+
+>  <Quatassemblies upload name>  (22) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (22) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (22) 
+3a - x0472/A/805
+
+>  <CanonSites short tag>  (22) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites short tag>  (22) 
+F2n - x0472/A/806
+
+>  <Quatassemblies short tag>  (22) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (22) 
+F2 - P1211
+
+>  <Centroid res>  (22) 
+LYSRSCPZ-x0472/B/284/A_v1
+
+>  <Experiment code>  (22) 
+LYSRSCPZ-x0472
+
+>  <Pose>  (22) 
+x0472a
+
+$$$$
+x0472c
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   22.3530    8.1250   23.0640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7910    7.9340   25.4360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1590    7.3440   25.6750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2840    8.1430   25.7970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5220    7.5800   26.0780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6580    6.2230   26.2480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5410    5.4550   26.1220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3030    5.9710   25.8430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6410    4.1140   26.2870 F   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6450    8.7160   24.2030 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7490   10.6900   22.9770 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8610   10.8550   24.1960 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7310   10.6520   25.4180 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5500   10.3290   24.3070 S   0  0  2  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  7  2  0
+  8  3  1  0
+  9  7  1  0
+ 10  2  1  0
+ 10  1  1  0
+ 14 13  2  0
+ 14 11  1  6
+ 14 10  1  0
+ 14 12  2  0
+M  END
+>  <id>  (23) 
+23
+
+>  <inchikey>  (23) 
+MTNUKOMLMCLFRR-UHFFFAOYSA-N
+
+>  <alias>  (23) 
+x0472c
+
+>  <smiles>  (23) 
+CN(Cc1cccc(F)c1)S(N)(=O)=O
+
+>  <path>  (23) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0472c/x0472c_hippo.pdb
+
+>  <distance_score>  (23) 
+None
+
+>  <energy_score>  (23) 
+None
+
+>  <compound>  (23) 
+MTNUKOMLMCLFRR-UHFFFAOYSA-N
+
+>  <compound_id>  (23) 
+10
+
+>  <target>  (23) 
+CpKRS
+
+>  <tags>  (23) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (23) 
+
+
+>  <reference>  (23) 
+
+
+>  <observation_longname>  (23) 
+LYSRSCPZ-x0472_C_1301_v1
+
+>  <ConformerSites alias>  (23) 
+3a - x0472/A/805
+
+>  <CanonSites alias>  (23) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites alias>  (23) 
+F2o - x0472/C/1301
+
+>  <Quatassemblies alias>  (23) 
+A1 - dimer
+
+>  <Crystalforms alias>  (23) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (23) 
+3a - LYSRSCPZ-x0472/A/805
+
+>  <CanonSites upload name>  (23) 
+3 - LYSRSCPZ-x0472/A/805/1
+
+>  <CrystalformSites upload name>  (23) 
+F2o - LYSRSCPZ-x0472/C/1301/1
+
+>  <Quatassemblies upload name>  (23) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (23) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (23) 
+3a - x0472/A/805
+
+>  <CanonSites short tag>  (23) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites short tag>  (23) 
+F2o - x0472/C/1301
+
+>  <Quatassemblies short tag>  (23) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (23) 
+F2 - P1211
+
+>  <Centroid res>  (23) 
+LYSRSCPZ-x0472/B/284/A_v1
+
+>  <Experiment code>  (23) 
+LYSRSCPZ-x0472
+
+>  <Pose>  (23) 
+x0472a
+
+$$$$
+x0479c
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+    3.8910    2.9840   45.3250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    7.1760   42.5590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5710    8.5320   39.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6820    9.7080   39.6280 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7410   10.7980   38.6130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5840    9.8850   38.6370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3930    4.2130   45.6620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3460    5.1970   44.6900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8060    4.9360   43.3890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3000    3.6550   43.1030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3470    2.6780   44.0760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4880    5.6800   41.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1330    6.9230   40.5450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8320    8.3400   41.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9420    2.0130   46.2730 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8010    5.9030   42.4040 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1630    8.0100   40.5720 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7540    8.0170   38.3630 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  6
+  5  4  1  0
+  6  5  1  0
+  6  4  1  0
+  7  1  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  1  1  0
+ 13 12  1  0
+ 14  2  1  0
+ 15  1  1  0
+ 16  9  1  0
+ 16 12  1  0
+ 16  2  1  0
+ 17 14  1  0
+ 17 13  1  0
+ 17  3  1  0
+ 18  3  2  0
+M  END
+>  <id>  (24) 
+24
+
+>  <inchikey>  (24) 
+FYCKRJKFEXRNGG-UHFFFAOYSA-N
+
+>  <alias>  (24) 
+x0479c
+
+>  <smiles>  (24) 
+O=C(C1CC1)N1CCN(c2ccc(F)cc2)CC1
+
+>  <path>  (24) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0479c/x0479c_hippo.pdb
+
+>  <distance_score>  (24) 
+None
+
+>  <energy_score>  (24) 
+None
+
+>  <compound>  (24) 
+FYCKRJKFEXRNGG-UHFFFAOYSA-N
+
+>  <compound_id>  (24) 
+11
+
+>  <target>  (24) 
+CpKRS
+
+>  <tags>  (24) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (24) 
+
+
+>  <reference>  (24) 
+
+
+>  <observation_longname>  (24) 
+LYSRSCPZ-x0479_C_1202_v1
+
+>  <ConformerSites alias>  (24) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (24) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (24) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (24) 
+A1 - dimer
+
+>  <Crystalforms alias>  (24) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (24) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (24) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (24) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (24) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (24) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (24) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (24) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (24) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (24) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (24) 
+F2 - P1211
+
+>  <Centroid res>  (24) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (24) 
+LYSRSCPZ-x0479
+
+>  <Pose>  (24) 
+x0479a
+
+$$$$
+x0479a
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+    4.0150    2.9020   45.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1980    7.5260   43.0050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9290    9.1440   39.8260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0780   10.6140   39.8690 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1880   11.3560   38.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3790   11.1920   39.4290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3380    2.7900   43.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3140    3.9310   42.9300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9660    5.1760   43.4780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6530    5.2310   44.8450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6700    4.0860   45.6260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8960    6.4860   41.5520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1960    7.1270   40.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6460    8.7120   42.1780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420    1.7820   45.7990 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9920    6.3260   42.7020 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5670    8.3950   40.7510 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2850    8.6010   38.9270 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  6
+  5  4  1  0
+  6  4  1  0
+  6  5  1  0
+  7  1  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  1  1  0
+ 13 12  1  0
+ 14  2  1  0
+ 15  1  1  0
+ 16  9  1  0
+ 16 12  1  0
+ 16  2  1  0
+ 17 14  1  0
+ 17 13  1  0
+ 17  3  1  0
+ 18  3  2  0
+M  END
+>  <id>  (25) 
+25
+
+>  <inchikey>  (25) 
+FYCKRJKFEXRNGG-UHFFFAOYSA-N
+
+>  <alias>  (25) 
+x0479a
+
+>  <smiles>  (25) 
+O=C(C1CC1)N1CCN(c2ccc(F)cc2)CC1
+
+>  <path>  (25) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0479a/x0479a_hippo.pdb
+
+>  <distance_score>  (25) 
+None
+
+>  <energy_score>  (25) 
+None
+
+>  <compound>  (25) 
+FYCKRJKFEXRNGG-UHFFFAOYSA-N
+
+>  <compound_id>  (25) 
+11
+
+>  <target>  (25) 
+CpKRS
+
+>  <tags>  (25) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (25) 
+
+
+>  <reference>  (25) 
+
+
+>  <observation_longname>  (25) 
+LYSRSCPZ-x0479_A_805_v1
+
+>  <ConformerSites alias>  (25) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (25) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (25) 
+F2k - x0479/A/805
+
+>  <Quatassemblies alias>  (25) 
+A1 - dimer
+
+>  <Crystalforms alias>  (25) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (25) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (25) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (25) 
+F2k - LYSRSCPZ-x0479/A/805/1
+
+>  <Quatassemblies upload name>  (25) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (25) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (25) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (25) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (25) 
+F2k - x0479/A/805
+
+>  <Quatassemblies short tag>  (25) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (25) 
+F2 - P1211
+
+>  <Centroid res>  (25) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (25) 
+LYSRSCPZ-x0479
+
+>  <Pose>  (25) 
+x0479a
+
+$$$$
+x0479b
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+    4.1600    3.3380   44.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5390    7.5410   42.4850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2890   10.3270   40.5560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1970   10.1640   39.0930 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1150   11.3890   38.2480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3570   10.6010   38.2670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5850    4.4650   45.2970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4300    5.5680   44.4750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8630    5.5400   43.1410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4250    4.3530   42.6510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5840    3.2510   43.4790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5010    6.9360   41.1470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8500    8.4090   41.0460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0210    8.9680   42.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3100    2.2530   45.5850 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730    6.6280   42.3210 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7120    9.2920   41.3160 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9350   11.3760   41.0940 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  1
+  5  4  1  0
+  6  4  1  0
+  6  5  1  0
+  7  1  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  1  1  0
+ 13 12  1  0
+ 14  2  1  0
+ 15  1  1  0
+ 16 12  1  0
+ 16  9  1  0
+ 16  2  1  0
+ 17 14  1  0
+ 17 13  1  0
+ 17  3  1  0
+ 18  3  2  0
+M  END
+>  <id>  (26) 
+26
+
+>  <inchikey>  (26) 
+FYCKRJKFEXRNGG-UHFFFAOYSA-N
+
+>  <alias>  (26) 
+x0479b
+
+>  <smiles>  (26) 
+O=C(C1CC1)N1CCN(c2ccc(F)cc2)CC1
+
+>  <path>  (26) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0479b/x0479b_hippo.pdb
+
+>  <distance_score>  (26) 
+None
+
+>  <energy_score>  (26) 
+None
+
+>  <compound>  (26) 
+FYCKRJKFEXRNGG-UHFFFAOYSA-N
+
+>  <compound_id>  (26) 
+11
+
+>  <target>  (26) 
+CpKRS
+
+>  <tags>  (26) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (26) 
+
+
+>  <reference>  (26) 
+
+
+>  <observation_longname>  (26) 
+LYSRSCPZ-x0479_B_801_v1
+
+>  <ConformerSites alias>  (26) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (26) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (26) 
+F2j - x0419/A/805
+
+>  <Quatassemblies alias>  (26) 
+A1 - dimer
+
+>  <Crystalforms alias>  (26) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (26) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (26) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (26) 
+F2j - LYSRSCPZ-x0419/A/805/1
+
+>  <Quatassemblies upload name>  (26) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (26) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (26) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (26) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (26) 
+F2j - x0419/A/805
+
+>  <Quatassemblies short tag>  (26) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (26) 
+F2 - P1211
+
+>  <Centroid res>  (26) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (26) 
+LYSRSCPZ-x0479
+
+>  <Pose>  (26) 
+x0479a
+
+$$$$
+x0483a
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   20.2960   20.3000   28.6290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9930   24.3770   26.8980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.3400   20.7460   27.6570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5530   21.8250   26.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8630   22.7420   27.3240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4460   23.0700   26.9160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5630   22.0680   26.5530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2640   22.3530   26.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8380   23.6670   26.1560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7010   24.6860   26.5180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9490   21.5820   26.6830 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1310   25.5870   25.2700 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5090   20.3670   27.7550 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3570   23.8710   26.8340 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8930   23.2740   24.4930 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1830   24.0390   25.6720 S   0  0  2  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  5  4  1  0
+  6  2  2  0
+  6  5  1  0
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 10  2  1  0
+ 11  3  1  0
+ 11  4  1  0
+ 13  3  2  0
+ 16 15  2  0
+ 16 14  2  0
+ 16 12  1  6
+ 16  9  1  0
+M  END
+>  <id>  (27) 
+27
+
+>  <inchikey>  (27) 
+IIMGUEXQORZTID-UHFFFAOYSA-N
+
+>  <alias>  (27) 
+x0483a
+
+>  <smiles>  (27) 
+CC(=O)NCCc1ccc(S(N)(=O)=O)cc1
+
+>  <path>  (27) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0483a/x0483a.pdb
+
+>  <distance_score>  (27) 
+None
+
+>  <energy_score>  (27) 
+None
+
+>  <compound>  (27) 
+IIMGUEXQORZTID-UHFFFAOYSA-N
+
+>  <compound_id>  (27) 
+12
+
+>  <target>  (27) 
+CpKRS
+
+>  <tags>  (27) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (27) 
+
+
+>  <reference>  (27) 
+
+
+>  <observation_longname>  (27) 
+LYSRSCPZ-x0483_A_901_v1
+
+>  <ConformerSites alias>  (27) 
+5a - x0483/A/901
+
+>  <CanonSites alias>  (27) 
+5 - x0483/A/901/1
+
+>  <CrystalformSites alias>  (27) 
+F2q - x0483/A/901
+
+>  <Quatassemblies alias>  (27) 
+A1 - dimer
+
+>  <Crystalforms alias>  (27) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (27) 
+5a - LYSRSCPZ-x0483/A/901
+
+>  <CanonSites upload name>  (27) 
+5 - LYSRSCPZ-x0483/A/901/1
+
+>  <CrystalformSites upload name>  (27) 
+F2q - LYSRSCPZ-x0483/A/901/1
+
+>  <Quatassemblies upload name>  (27) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (27) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (27) 
+5a - x0483/A/901
+
+>  <CanonSites short tag>  (27) 
+5 - x0483/A/901/1
+
+>  <CrystalformSites short tag>  (27) 
+F2q - x0483/A/901
+
+>  <Quatassemblies short tag>  (27) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (27) 
+F2 - P1211
+
+>  <Centroid res>  (27) 
+LYSRSCPZ-x0483/A/207/A_v1
+
+>  <Experiment code>  (27) 
+LYSRSCPZ-x0483
+
+>  <Pose>  (27) 
+x0483a
+
+$$$$
+x0485b
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    1.7310    6.5500   46.3680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0640    8.2410   41.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1390    9.5310   40.5950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2570   10.1650   41.7100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0910    8.9050   42.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5330    5.3610   45.9300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6360    4.2440   46.7560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    3.1270   46.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9950    3.1500   45.1640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9350    4.2210   44.3090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1910    5.3260   44.6980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8750    6.5300   42.5270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0080    7.9060   41.9310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7190    2.0680   44.7850 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1200    6.4600   43.8530 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2580   10.4920   40.8910 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5750    5.5580   41.8400 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  5  4  1  0
+  6  1  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  6  1  0
+ 13 12  1  0
+ 13  5  2  0
+ 13  2  1  0
+ 14  9  1  0
+ 15 11  1  0
+ 15 12  1  0
+ 16  4  2  0
+ 16  3  1  0
+ 17 12  2  0
+M  END
+>  <id>  (28) 
+28
+
+>  <inchikey>  (28) 
+CUFWRVYZYQAQCS-UHFFFAOYSA-N
+
+>  <alias>  (28) 
+x0485b
+
+>  <smiles>  (28) 
+Cc1ccc(F)cc1NC(=O)c1ccncc1
+
+>  <path>  (28) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0485b/x0485b_hippo.pdb
+
+>  <distance_score>  (28) 
+None
+
+>  <energy_score>  (28) 
+None
+
+>  <compound>  (28) 
+CUFWRVYZYQAQCS-UHFFFAOYSA-N
+
+>  <compound_id>  (28) 
+13
+
+>  <target>  (28) 
+CpKRS
+
+>  <tags>  (28) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (28) 
+
+
+>  <reference>  (28) 
+
+
+>  <observation_longname>  (28) 
+LYSRSCPZ-x0485_D_901_v1
+
+>  <ConformerSites alias>  (28) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (28) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (28) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (28) 
+A1 - dimer
+
+>  <Crystalforms alias>  (28) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (28) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (28) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (28) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (28) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (28) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (28) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (28) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (28) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (28) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (28) 
+F2 - P1211
+
+>  <Centroid res>  (28) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (28) 
+LYSRSCPZ-x0485
+
+>  <Pose>  (28) 
+x0485b
+
+$$$$
+x0485c
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    1.7660    6.4420   46.3980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0880    8.8060   41.2180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6940   10.0200   40.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5880    9.8040   41.5340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8820    8.5790   42.1000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5920    5.3030   45.8760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7190    4.1510   46.6530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4710    3.0670   46.2270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0840    3.1510   45.0120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9980    4.2550   44.2010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2460    5.3430   44.6330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5610    6.7380   42.5400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1650    8.0620   41.9470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8250    2.0980   44.5810 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1450    6.5120   43.8150 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4670   10.5250   40.8340 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2360    5.9510   41.8860 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  5  4  1  0
+  6  1  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  6  1  0
+ 13 12  1  0
+ 13  5  2  0
+ 13  2  1  0
+ 14  9  1  0
+ 15 11  1  0
+ 15 12  1  0
+ 16  4  2  0
+ 16  3  1  0
+ 17 12  2  0
+M  END
+>  <id>  (29) 
+29
+
+>  <inchikey>  (29) 
+CUFWRVYZYQAQCS-UHFFFAOYSA-N
+
+>  <alias>  (29) 
+x0485c
+
+>  <smiles>  (29) 
+Cc1ccc(F)cc1NC(=O)c1ccncc1
+
+>  <path>  (29) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0485c/x0485c_hippo.pdb
+
+>  <distance_score>  (29) 
+None
+
+>  <energy_score>  (29) 
+None
+
+>  <compound>  (29) 
+CUFWRVYZYQAQCS-UHFFFAOYSA-N
+
+>  <compound_id>  (29) 
+13
+
+>  <target>  (29) 
+CpKRS
+
+>  <tags>  (29) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (29) 
+
+
+>  <reference>  (29) 
+
+
+>  <observation_longname>  (29) 
+LYSRSCPZ-x0485_A_805_v1
+
+>  <ConformerSites alias>  (29) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (29) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (29) 
+F2k - x0479/A/805
+
+>  <Quatassemblies alias>  (29) 
+A1 - dimer
+
+>  <Crystalforms alias>  (29) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (29) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (29) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (29) 
+F2k - LYSRSCPZ-x0479/A/805/1
+
+>  <Quatassemblies upload name>  (29) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (29) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (29) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (29) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (29) 
+F2k - x0479/A/805
+
+>  <Quatassemblies short tag>  (29) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (29) 
+F2 - P1211
+
+>  <Centroid res>  (29) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (29) 
+LYSRSCPZ-x0485
+
+>  <Pose>  (29) 
+x0485b
+
+$$$$
+x0485a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    4.4840  -12.2090   22.2270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1110  -14.7540   26.8540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2510  -15.4460   27.6860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5050  -14.0950   27.1550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2790  -13.3440   26.2930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8090  -10.8650   22.8010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2390   -9.8380   21.9580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5580   -8.5790   22.4470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4160   -8.3520   23.7850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9880   -9.3130   24.6640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7030  -10.5810   24.1700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5230  -12.8740   25.2270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6230  -13.6650   26.1380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6980   -7.1130   24.2710 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2230  -11.5620   25.0870 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9630  -15.1370   27.8430 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4670  -13.4100   24.6590 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  5  4  1  0
+  6  1  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 11 10  2  0
+ 11  6  1  0
+ 13 12  1  0
+ 13  5  2  0
+ 13  2  1  0
+ 14  9  1  0
+ 15 12  1  0
+ 15 11  1  0
+ 16  4  2  0
+ 16  3  1  0
+ 17 12  2  0
+M  END
+>  <id>  (30) 
+30
+
+>  <inchikey>  (30) 
+CUFWRVYZYQAQCS-UHFFFAOYSA-N
+
+>  <alias>  (30) 
+x0485a
+
+>  <smiles>  (30) 
+Cc1ccc(F)cc1NC(=O)c1ccncc1
+
+>  <path>  (30) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0485a/x0485a_hippo.pdb
+
+>  <distance_score>  (30) 
+None
+
+>  <energy_score>  (30) 
+None
+
+>  <compound>  (30) 
+CUFWRVYZYQAQCS-UHFFFAOYSA-N
+
+>  <compound_id>  (30) 
+13
+
+>  <target>  (30) 
+CpKRS
+
+>  <tags>  (30) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (30) 
+
+
+>  <reference>  (30) 
+
+
+>  <observation_longname>  (30) 
+LYSRSCPZ-x0485_D_902_v1
+
+>  <ConformerSites alias>  (30) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (30) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (30) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (30) 
+A1 - dimer
+
+>  <Crystalforms alias>  (30) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (30) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (30) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (30) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (30) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (30) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (30) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (30) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (30) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (30) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (30) 
+F2 - P1211
+
+>  <Centroid res>  (30) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (30) 
+LYSRSCPZ-x0485
+
+>  <Pose>  (30) 
+x0485a
+
+$$$$
+x0487b
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    1.4130   13.4800   41.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4440   12.6630   40.5530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6310   10.6580   41.3830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580   10.2600   40.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6070    9.1600   40.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7240    8.7710   40.2770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0990    9.4840   39.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3620   10.5820   38.7430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2470   10.9610   39.4670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6190   11.3390   40.5710 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8300    9.3510   39.1080 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4620   13.1980   39.9180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5870    9.7400   37.0400 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4760    7.5440   38.1640 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5280    8.9730   38.2510 S   0  0  2  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+  9  4  1  0
+ 10  3  1  0
+ 10  2  1  0
+ 12  2  2  0
+ 15  7  1  0
+ 15 13  2  0
+ 15 14  2  0
+ 15 11  1  1
+M  END
+>  <id>  (31) 
+31
+
+>  <inchikey>  (31) 
+AHQONKCJXWTTOW-UHFFFAOYSA-N
+
+>  <alias>  (31) 
+x0487b
+
+>  <smiles>  (31) 
+CC(=O)NCc1ccc(S(N)(=O)=O)cc1
+
+>  <path>  (31) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0487b/x0487b_hippo.pdb
+
+>  <distance_score>  (31) 
+None
+
+>  <energy_score>  (31) 
+None
+
+>  <compound>  (31) 
+AHQONKCJXWTTOW-UHFFFAOYSA-N
+
+>  <compound_id>  (31) 
+14
+
+>  <target>  (31) 
+CpKRS
+
+>  <tags>  (31) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (31) 
+
+
+>  <reference>  (31) 
+
+
+>  <observation_longname>  (31) 
+LYSRSCPZ-x0487_D_901_v1
+
+>  <ConformerSites alias>  (31) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (31) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (31) 
+F2l - x0487/D/901
+
+>  <Quatassemblies alias>  (31) 
+A1 - dimer
+
+>  <Crystalforms alias>  (31) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (31) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (31) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (31) 
+F2l - LYSRSCPZ-x0487/D/901/1
+
+>  <Quatassemblies upload name>  (31) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (31) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (31) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (31) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (31) 
+F2l - x0487/D/901
+
+>  <Quatassemblies short tag>  (31) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (31) 
+F2 - P1211
+
+>  <Centroid res>  (31) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (31) 
+LYSRSCPZ-x0487
+
+>  <Pose>  (31) 
+x0487b
+
+$$$$
+x0487a
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    0.6720  -23.9820   14.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5020  -25.1170   15.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0030  -26.2830   17.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7580  -25.3160   17.9310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5700  -24.3320   17.3810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2770  -23.4580   18.1890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1740  -23.5670   19.5650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3940  -24.5600   20.1290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6870  -25.4230   19.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0930  -25.6510   16.1440 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2350  -21.7400   19.8140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4950  -25.5230   14.4100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7590  -23.3870   21.5370 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2200  -21.4910   21.1570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0920  -22.5010   20.6350 S   0  0  2  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+  9  4  1  0
+ 10  2  1  0
+ 10  3  1  0
+ 12  2  2  0
+ 15  7  1  0
+ 15 14  2  0
+ 15 13  2  0
+ 15 11  1  6
+M  END
+>  <id>  (32) 
+32
+
+>  <inchikey>  (32) 
+AHQONKCJXWTTOW-UHFFFAOYSA-N
+
+>  <alias>  (32) 
+x0487a
+
+>  <smiles>  (32) 
+CC(=O)NCc1ccc(S(N)(=O)=O)cc1
+
+>  <path>  (32) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0487a/x0487a_hippo.pdb
+
+>  <distance_score>  (32) 
+None
+
+>  <energy_score>  (32) 
+None
+
+>  <compound>  (32) 
+AHQONKCJXWTTOW-UHFFFAOYSA-N
+
+>  <compound_id>  (32) 
+14
+
+>  <target>  (32) 
+CpKRS
+
+>  <tags>  (32) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (32) 
+
+
+>  <reference>  (32) 
+
+
+>  <observation_longname>  (32) 
+LYSRSCPZ-x0487_B_801_v1
+
+>  <ConformerSites alias>  (32) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (32) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (32) 
+F2e - x0487/B/801
+
+>  <Quatassemblies alias>  (32) 
+A1 - dimer
+
+>  <Crystalforms alias>  (32) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (32) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (32) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (32) 
+F2e - LYSRSCPZ-x0487/B/801/1
+
+>  <Quatassemblies upload name>  (32) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (32) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (32) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (32) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (32) 
+F2e - x0487/B/801
+
+>  <Quatassemblies short tag>  (32) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (32) 
+F2 - P1211
+
+>  <Centroid res>  (32) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (32) 
+LYSRSCPZ-x0487
+
+>  <Pose>  (32) 
+x0487a
+
+$$$$
+x0489a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    5.4420   -7.8960   22.7150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4230  -14.5280   27.1210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7470  -15.9600   28.3200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7900  -15.7400   27.4510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7440   -8.2660   24.1120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0180   -9.9160   24.2100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7630  -11.1570   23.4040 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8410  -12.2070   23.6700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2470  -13.5540   23.9960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3170  -12.4450   25.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3770  -11.7330   23.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4850  -14.3030   26.2320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3580  -13.4720   25.1550 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5650  -15.3500   28.1650 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6600  -14.9190   26.4100 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -9.6500   24.3110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550   -9.2530   24.7150 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  5  1  1  0
+  7  6  1  1
+  8  7  1  0
+  9  8  1  0
+ 11 10  1  0
+ 11  7  1  0
+ 12  2  2  0
+ 13 12  1  0
+ 13 10  1  0
+ 13  9  1  0
+ 14  2  1  0
+ 14  3  2  0
+ 15 12  1  0
+ 15  4  2  0
+ 16  6  1  0
+ 16  5  1  0
+ 17  6  2  0
+M  END
+>  <id>  (33) 
+33
+
+>  <inchikey>  (33) 
+QYHCUDIPSWPYON-UHFFFAOYSA-N
+
+>  <alias>  (33) 
+x0489a
+
+>  <smiles>  (33) 
+CCOC(=O)C1CCN(c2cnccn2)CC1
+
+>  <path>  (33) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0489a/x0489a.pdb
+
+>  <distance_score>  (33) 
+None
+
+>  <energy_score>  (33) 
+None
+
+>  <compound>  (33) 
+QYHCUDIPSWPYON-UHFFFAOYSA-N
+
+>  <compound_id>  (33) 
+15
+
+>  <target>  (33) 
+CpKRS
+
+>  <tags>  (33) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (33) 
+
+
+>  <reference>  (33) 
+
+
+>  <observation_longname>  (33) 
+LYSRSCPZ-x0489_A_901_v1
+
+>  <ConformerSites alias>  (33) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (33) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (33) 
+F1f - x0489/A/901
+
+>  <Quatassemblies alias>  (33) 
+A1 - dimer
+
+>  <Crystalforms alias>  (33) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (33) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (33) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (33) 
+F1f - LYSRSCPZ-x0489/A/901/1
+
+>  <Quatassemblies upload name>  (33) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (33) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (33) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (33) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (33) 
+F1f - x0489/A/901
+
+>  <Quatassemblies short tag>  (33) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (33) 
+F1 - P21221
+
+>  <Centroid res>  (33) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (33) 
+LYSRSCPZ-x0489
+
+>  <Pose>  (33) 
+x0489a
+
+$$$$
+x0492a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.4100  -13.3260   24.7310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5520  -13.6940   26.9450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6360  -11.7870   22.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1660  -10.4400   23.1150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9690  -10.0010   24.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1040   -8.6020   23.9240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3510   -8.2690   22.8300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5170  -13.8040   25.8330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9540  -14.7910   26.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870  -14.6880   27.8050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9050  -12.3910   23.9130 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1940  -15.2420   27.6970 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100  -13.2410   25.9470 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5420  -13.7790   24.6260 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7710   -9.3990   22.3220 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  8  1  1  0
+  9  8  1  0
+ 10  2  2  0
+ 11  3  1  0
+ 11  1  1  0
+ 12  9  2  0
+ 12 10  1  0
+ 13  8  2  0
+ 13  2  1  0
+ 14  1  2  0
+ 15  7  1  0
+ 15  4  1  0
+M  END
+>  <id>  (34) 
+34
+
+>  <inchikey>  (34) 
+PIDSEZUHJRRXFS-UHFFFAOYSA-N
+
+>  <alias>  (34) 
+x0492a
+
+>  <smiles>  (34) 
+O=C(NCc1ccco1)c1cnccn1
+
+>  <path>  (34) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0492a/x0492a.pdb
+
+>  <distance_score>  (34) 
+None
+
+>  <energy_score>  (34) 
+None
+
+>  <compound>  (34) 
+PIDSEZUHJRRXFS-UHFFFAOYSA-N
+
+>  <compound_id>  (34) 
+16
+
+>  <target>  (34) 
+CpKRS
+
+>  <tags>  (34) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (34) 
+
+
+>  <reference>  (34) 
+
+
+>  <observation_longname>  (34) 
+LYSRSCPZ-x0492_A_901_v1
+
+>  <ConformerSites alias>  (34) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (34) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (34) 
+F1f - x0489/A/901
+
+>  <Quatassemblies alias>  (34) 
+A1 - dimer
+
+>  <Crystalforms alias>  (34) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (34) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (34) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (34) 
+F1f - LYSRSCPZ-x0489/A/901/1
+
+>  <Quatassemblies upload name>  (34) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (34) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (34) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (34) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (34) 
+F1f - x0489/A/901
+
+>  <Quatassemblies short tag>  (34) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (34) 
+F1 - P21221
+
+>  <Centroid res>  (34) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (34) 
+LYSRSCPZ-x0492
+
+>  <Pose>  (34) 
+x0492a
+
+$$$$
+x0492b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.4540  -13.3870   24.8680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7290  -13.7040   27.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5970  -11.8690   22.9430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0890  -10.4950   23.1860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9850  -10.0000   24.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0430   -8.6080   23.8350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1500   -8.3320   22.8360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6260  -13.8470   26.0290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0960  -14.8370   26.8740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020  -14.6850   28.1020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9190  -12.4340   24.1000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3910  -15.2630   27.9270 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4310  -13.2710   26.2080 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5680  -13.8520   24.6660 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5560   -9.4950   22.4250 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  8  1  1  0
+  9  8  1  0
+ 10  2  2  0
+ 11  3  1  0
+ 11  1  1  0
+ 12  9  2  0
+ 12 10  1  0
+ 13  8  2  0
+ 13  2  1  0
+ 14  1  2  0
+ 15  7  1  0
+ 15  4  1  0
+M  END
+>  <id>  (35) 
+35
+
+>  <inchikey>  (35) 
+PIDSEZUHJRRXFS-UHFFFAOYSA-N
+
+>  <alias>  (35) 
+x0492b
+
+>  <smiles>  (35) 
+O=C(NCc1ccco1)c1cnccn1
+
+>  <path>  (35) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0492b/x0492b.pdb
+
+>  <distance_score>  (35) 
+None
+
+>  <energy_score>  (35) 
+None
+
+>  <compound>  (35) 
+PIDSEZUHJRRXFS-UHFFFAOYSA-N
+
+>  <compound_id>  (35) 
+16
+
+>  <target>  (35) 
+CpKRS
+
+>  <tags>  (35) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (35) 
+
+
+>  <reference>  (35) 
+
+
+>  <observation_longname>  (35) 
+LYSRSCPZ-x0492_B_703_v1
+
+>  <ConformerSites alias>  (35) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (35) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (35) 
+F1g - x0492/B/703
+
+>  <Quatassemblies alias>  (35) 
+A1 - dimer
+
+>  <Crystalforms alias>  (35) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (35) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (35) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (35) 
+F1g - LYSRSCPZ-x0492/B/703/1
+
+>  <Quatassemblies upload name>  (35) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (35) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (35) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (35) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (35) 
+F1g - x0492/B/703
+
+>  <Quatassemblies short tag>  (35) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (35) 
+F1 - P21221
+
+>  <Centroid res>  (35) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (35) 
+LYSRSCPZ-x0492
+
+>  <Pose>  (35) 
+x0492a
+
+$$$$
+x0540a
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    5.3880   -7.6940   22.2150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3980   -8.8230   23.2370 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.3420   -8.4910   24.3850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -9.2010   23.7700 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9440  -10.6890   24.0980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2670  -12.4870   25.7610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1580  -12.8170   26.7310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9660  -10.8800   27.7950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3730  -10.1790   26.5210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8330   -8.8740   22.8720 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1930  -11.0740   25.3700 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7080  -11.5080   23.2020 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8420  -11.7300   27.5970 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  3  2  1  0
+  4  2  1  0
+  5  4  1  0
+  7  6  1  0
+  9  8  1  0
+  4 10  1  6
+ 11  6  1  0
+ 11  9  1  0
+ 11  5  1  0
+ 12  5  2  0
+ 13  7  1  0
+ 13  8  1  0
+M  CHG  1  10   1
+M  END
+>  <id>  (36) 
+36
+
+>  <inchikey>  (36) 
+GUDFDFVIXKMPIB-MRVPVSSYSA-O
+
+>  <alias>  (36) 
+x0540a
+
+>  <smiles>  (36) 
+CC(C)[C@@H]([NH3+])C(=O)N1CCOCC1
+
+>  <path>  (36) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0540a/x0540a.pdb
+
+>  <distance_score>  (36) 
+None
+
+>  <energy_score>  (36) 
+None
+
+>  <compound>  (36) 
+GUDFDFVIXKMPIB-UHFFFAOYSA-O
+
+>  <compound_id>  (36) 
+17
+
+>  <target>  (36) 
+CpKRS
+
+>  <tags>  (36) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (36) 
+
+
+>  <reference>  (36) 
+
+
+>  <observation_longname>  (36) 
+LYSRSCPZ-x0540_A_805_v1
+
+>  <ConformerSites alias>  (36) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (36) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (36) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (36) 
+A1 - dimer
+
+>  <Crystalforms alias>  (36) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (36) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (36) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (36) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (36) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (36) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (36) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (36) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (36) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (36) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (36) 
+F2 - P1211
+
+>  <Centroid res>  (36) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (36) 
+LYSRSCPZ-x0540
+
+>  <Pose>  (36) 
+x0540a
+
+$$$$
+x0540b
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    6.3180   -8.6920   23.9310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1590   -8.5660   22.9470 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4550   -9.2990   21.6390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8370   -9.0160   23.6260 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9080  -10.4830   24.0290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4250  -12.2320   25.6470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3840  -12.6500   26.6570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2250  -10.4760   27.4910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2300   -9.9610   26.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6000   -8.8150   22.7970 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2330  -10.8190   25.2970 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6740  -11.3370   23.1730 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4630  -11.8420   27.8260 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  3  2  1  0
+  4  2  1  0
+  5  4  1  0
+  7  6  1  0
+  9  8  1  0
+  4 10  1  6
+ 11  6  1  0
+ 11  9  1  0
+ 11  5  1  0
+ 12  5  2  0
+ 13  7  1  0
+ 13  8  1  0
+M  CHG  1  10   1
+M  END
+>  <id>  (37) 
+37
+
+>  <inchikey>  (37) 
+GUDFDFVIXKMPIB-MRVPVSSYSA-O
+
+>  <alias>  (37) 
+x0540b
+
+>  <smiles>  (37) 
+CC(C)[C@@H]([NH3+])C(=O)N1CCOCC1
+
+>  <path>  (37) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0540b/x0540b_hippo.pdb
+
+>  <distance_score>  (37) 
+None
+
+>  <energy_score>  (37) 
+None
+
+>  <compound>  (37) 
+GUDFDFVIXKMPIB-UHFFFAOYSA-O
+
+>  <compound_id>  (37) 
+17
+
+>  <target>  (37) 
+CpKRS
+
+>  <tags>  (37) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (37) 
+
+
+>  <reference>  (37) 
+
+
+>  <observation_longname>  (37) 
+LYSRSCPZ-x0540_C_1301_v1
+
+>  <ConformerSites alias>  (37) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (37) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (37) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (37) 
+A1 - dimer
+
+>  <Crystalforms alias>  (37) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (37) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (37) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (37) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (37) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (37) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (37) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (37) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (37) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (37) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (37) 
+F2 - P1211
+
+>  <Centroid res>  (37) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (37) 
+LYSRSCPZ-x0540
+
+>  <Pose>  (37) 
+x0540a
+
+$$$$
+x0555a
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    0.4090  -11.4480   24.7240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7120   -9.6580   22.7850 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1290   -8.8340   23.9930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3700   -9.1390   21.5180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0310  -13.0250   25.5770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1580  -13.5620   26.5200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6000  -14.5100   27.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9170  -14.9280   27.3540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7900  -14.4090   26.4380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3710  -13.4440   25.5270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3760  -12.9080   24.5660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0110  -11.1370   22.9990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1680  -11.6960   24.0440 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6870  -12.0730   24.6570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3700  -13.5750   24.2930 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4930  -16.1350   28.4610 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  1
+  4  2  1  0
+  6  5  2  0
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 10  5  1  0
+ 11 10  1  0
+ 12  2  1  0
+ 13 12  1  0
+ 13 11  1  0
+ 14  5  1  0
+ 14  1  1  0
+ 15 11  2  0
+ 16  8  1  0
+M  END
+>  <id>  (38) 
+38
+
+>  <inchikey>  (38) 
+GSFUSGKNYXRUQM-UHFFFAOYSA-N
+
+>  <alias>  (38) 
+x0555a
+
+>  <smiles>  (38) 
+COc1ccc(Cl)cc1C(=O)NCC(C)C
+
+>  <path>  (38) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0555a/x0555a.pdb
+
+>  <distance_score>  (38) 
+None
+
+>  <energy_score>  (38) 
+None
+
+>  <compound>  (38) 
+GSFUSGKNYXRUQM-UHFFFAOYSA-N
+
+>  <compound_id>  (38) 
+18
+
+>  <target>  (38) 
+CpKRS
+
+>  <tags>  (38) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (38) 
+
+
+>  <reference>  (38) 
+
+
+>  <observation_longname>  (38) 
+LYSRSCPZ-x0555_A_901_v1
+
+>  <ConformerSites alias>  (38) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (38) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (38) 
+F1f - x0489/A/901
+
+>  <Quatassemblies alias>  (38) 
+A1 - dimer
+
+>  <Crystalforms alias>  (38) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (38) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (38) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (38) 
+F1f - LYSRSCPZ-x0489/A/901/1
+
+>  <Quatassemblies upload name>  (38) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (38) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (38) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (38) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (38) 
+F1f - x0489/A/901
+
+>  <Quatassemblies short tag>  (38) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (38) 
+F1 - P21221
+
+>  <Centroid res>  (38) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (38) 
+LYSRSCPZ-x0555
+
+>  <Pose>  (38) 
+x0555a
+
+$$$$
+x0602a
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    5.7720   -8.5580   24.7050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6120  -12.5720   22.4590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4000   -8.5820   22.2610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9900  -10.6060   23.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7050  -11.2450   24.8300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3460  -12.5860   24.8280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000  -13.2900   26.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8960  -15.7190   25.6950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3980  -15.6860   25.7010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2970  -13.2530   23.6170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3600   -9.3000   23.5260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5240  -14.6490   26.1850 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9510  -11.2810   22.4230 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5160  -16.6970   25.2880 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  9  8  1  0
+ 10  6  1  0
+ 10  2  2  0
+ 11  4  1  0
+ 11  3  1  0
+ 11  1  1  0
+ 12  8  1  0
+ 12  7  1  0
+ 13  2  1  0
+ 13  4  2  0
+ 14  8  2  0
+M  END
+>  <id>  (39) 
+39
+
+>  <inchikey>  (39) 
+BKIVWGJUNJZCKF-UHFFFAOYSA-N
+
+>  <alias>  (39) 
+x0602a
+
+>  <smiles>  (39) 
+CC(=O)NCc1ccnc(N(C)C)c1
+
+>  <path>  (39) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0602a/x0602a_hippo.pdb
+
+>  <distance_score>  (39) 
+None
+
+>  <energy_score>  (39) 
+None
+
+>  <compound>  (39) 
+BKIVWGJUNJZCKF-UHFFFAOYSA-N
+
+>  <compound_id>  (39) 
+19
+
+>  <target>  (39) 
+CpKRS
+
+>  <tags>  (39) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (39) 
+
+
+>  <reference>  (39) 
+
+
+>  <observation_longname>  (39) 
+LYSRSCPZ-x0602_B_701_v1
+
+>  <ConformerSites alias>  (39) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (39) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (39) 
+F2c - x0414/B/701
+
+>  <Quatassemblies alias>  (39) 
+A1 - dimer
+
+>  <Crystalforms alias>  (39) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (39) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (39) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (39) 
+F2c - LYSRSCPZ-x0414/B/701/1
+
+>  <Quatassemblies upload name>  (39) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (39) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (39) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (39) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (39) 
+F2c - x0414/B/701
+
+>  <Quatassemblies short tag>  (39) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (39) 
+F2 - P1211
+
+>  <Centroid res>  (39) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (39) 
+LYSRSCPZ-x0602
+
+>  <Pose>  (39) 
+x0602a
+
+$$$$
+x0602b
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    6.0030   -8.3820   24.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5520  -12.3510   22.4810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5780   -8.4170   22.2640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1970  -10.4450   23.6040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0610  -11.1150   24.8420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6550  -12.4400   24.8600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4950  -13.1760   26.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2900  -15.3130   25.8250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9390  -15.9570   25.8670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4020  -13.0670   23.6510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5890   -9.1440   23.5220 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3080  -14.0330   26.2120 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9400  -11.0740   22.4340 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2920  -15.9280   25.4380 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  9  8  1  0
+ 10  6  1  0
+ 10  2  2  0
+ 11  4  1  0
+ 11  3  1  0
+ 11  1  1  0
+ 12  8  1  0
+ 12  7  1  0
+ 13  2  1  0
+ 13  4  2  0
+ 14  8  2  0
+M  END
+>  <id>  (40) 
+40
+
+>  <inchikey>  (40) 
+BKIVWGJUNJZCKF-UHFFFAOYSA-N
+
+>  <alias>  (40) 
+x0602b
+
+>  <smiles>  (40) 
+CC(=O)NCc1ccnc(N(C)C)c1
+
+>  <path>  (40) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0602b/x0602b_hippo.pdb
+
+>  <distance_score>  (40) 
+None
+
+>  <energy_score>  (40) 
+None
+
+>  <compound>  (40) 
+BKIVWGJUNJZCKF-UHFFFAOYSA-N
+
+>  <compound_id>  (40) 
+19
+
+>  <target>  (40) 
+CpKRS
+
+>  <tags>  (40) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (40) 
+
+
+>  <reference>  (40) 
+
+
+>  <observation_longname>  (40) 
+LYSRSCPZ-x0602_D_802_v1
+
+>  <ConformerSites alias>  (40) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (40) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (40) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (40) 
+A1 - dimer
+
+>  <Crystalforms alias>  (40) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (40) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (40) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (40) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (40) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (40) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (40) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (40) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (40) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (40) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (40) 
+F2 - P1211
+
+>  <Centroid res>  (40) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (40) 
+LYSRSCPZ-x0602
+
+>  <Pose>  (40) 
+x0602a
+
+$$$$
+x0606a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.3870    4.6150   42.5160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0030    5.3020   39.2430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3010    4.9580   44.7400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7090    3.8010   45.4030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2820    3.6140   46.6970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4860    4.5620   47.3040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1350    5.6710   46.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8470    5.3780   41.3290 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3890    6.7780   41.1360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9980    6.7870   39.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6520    5.3030   43.4250 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5270    5.8880   45.3130 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6900    3.4270   42.5930 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7290    7.2670   39.8450 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0760    4.6580   40.1230 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  1  1  1
+  9  8  1  0
+ 10  2  1  0
+ 11  1  1  0
+ 11  3  1  0
+ 12  3  1  0
+ 12  7  2  0
+ 13  1  2  0
+ 14  9  1  0
+ 14 10  1  0
+ 15  8  1  0
+ 15  2  1  0
+M  END
+>  <id>  (41) 
+41
+
+>  <inchikey>  (41) 
+MYQOETKNJQIOKN-QMMMGPOBSA-N
+
+>  <alias>  (41) 
+x0606a
+
+>  <smiles>  (41) 
+O=C(Nc1ccccn1)[C@@H]1COCCO1
+
+>  <path>  (41) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0606a/x0606a_hippo.pdb
+
+>  <distance_score>  (41) 
+None
+
+>  <energy_score>  (41) 
+None
+
+>  <compound>  (41) 
+MYQOETKNJQIOKN-UHFFFAOYSA-N
+
+>  <compound_id>  (41) 
+20
+
+>  <target>  (41) 
+CpKRS
+
+>  <tags>  (41) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (41) 
+
+
+>  <reference>  (41) 
+
+
+>  <observation_longname>  (41) 
+LYSRSCPZ-x0606_A_805_v1
+
+>  <ConformerSites alias>  (41) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (41) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (41) 
+F2j - x0419/A/805
+
+>  <Quatassemblies alias>  (41) 
+A1 - dimer
+
+>  <Crystalforms alias>  (41) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (41) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (41) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (41) 
+F2j - LYSRSCPZ-x0419/A/805/1
+
+>  <Quatassemblies upload name>  (41) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (41) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (41) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (41) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (41) 
+F2j - x0419/A/805
+
+>  <Quatassemblies short tag>  (41) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (41) 
+F2 - P1211
+
+>  <Centroid res>  (41) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (41) 
+LYSRSCPZ-x0606
+
+>  <Pose>  (41) 
+x0606a
+
+$$$$
+x0606b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.2430    4.6050   42.4740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1680    7.4620   40.3270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2130    4.9610   44.7040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4080    5.7400   45.5370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1040    5.2570   46.7880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6080    4.0430   47.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3940    3.3400   46.3100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0120    5.3760   41.4420 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.0960    4.6750   40.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160    6.7270   39.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5740    5.3320   43.3960 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7070    3.7730   45.0760 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3110    3.3820   42.4810 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8920    5.4350   39.2170 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4390    6.6780   41.2790 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  1  1  1
+  9  8  1  0
+ 10  2  1  0
+ 11  1  1  0
+ 11  3  1  0
+ 12  7  2  0
+ 12  3  1  0
+ 13  1  2  0
+ 14  9  1  0
+ 14 10  1  0
+ 15  8  1  0
+ 15  2  1  0
+M  END
+>  <id>  (42) 
+42
+
+>  <inchikey>  (42) 
+MYQOETKNJQIOKN-MRVPVSSYSA-N
+
+>  <alias>  (42) 
+x0606b
+
+>  <smiles>  (42) 
+O=C(Nc1ccccn1)[C@H]1COCCO1
+
+>  <path>  (42) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0606b/x0606b_hippo.pdb
+
+>  <distance_score>  (42) 
+None
+
+>  <energy_score>  (42) 
+None
+
+>  <compound>  (42) 
+MYQOETKNJQIOKN-UHFFFAOYSA-N
+
+>  <compound_id>  (42) 
+20
+
+>  <target>  (42) 
+CpKRS
+
+>  <tags>  (42) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (42) 
+
+
+>  <reference>  (42) 
+
+
+>  <observation_longname>  (42) 
+LYSRSCPZ-x0606_B_801_v1
+
+>  <ConformerSites alias>  (42) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (42) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (42) 
+F2k - x0479/A/805
+
+>  <Quatassemblies alias>  (42) 
+A1 - dimer
+
+>  <Crystalforms alias>  (42) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (42) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (42) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (42) 
+F2k - LYSRSCPZ-x0479/A/805/1
+
+>  <Quatassemblies upload name>  (42) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (42) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (42) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (42) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (42) 
+F2k - x0479/A/805
+
+>  <Quatassemblies short tag>  (42) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (42) 
+F2 - P1211
+
+>  <Centroid res>  (42) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (42) 
+LYSRSCPZ-x0606
+
+>  <Pose>  (42) 
+x0606a
+
+$$$$
+x0606c
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    3.9930    4.8160   42.4800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7510    5.3750   39.2990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0990    5.2190   44.7270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3370    6.0010   45.5880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0900    5.5140   46.8480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6100    4.2970   47.2280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3500    3.5940   46.3130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2950    5.4740   41.1700 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6090    6.9440   41.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0660    6.8150   39.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4120    5.5830   43.4180 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6010    4.0280   45.0660 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2670    3.6330   42.6480 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9570    7.5110   40.0550 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3770    4.7660   40.5430 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  1  1  1
+  9  8  1  0
+ 10  2  1  0
+ 11  1  1  0
+ 11  3  1  0
+ 12  7  2  0
+ 12  3  1  0
+ 13  1  2  0
+ 14  9  1  0
+ 14 10  1  0
+ 15  8  1  0
+ 15  2  1  0
+M  END
+>  <id>  (43) 
+43
+
+>  <inchikey>  (43) 
+MYQOETKNJQIOKN-MRVPVSSYSA-N
+
+>  <alias>  (43) 
+x0606c
+
+>  <smiles>  (43) 
+O=C(Nc1ccccn1)[C@H]1COCCO1
+
+>  <path>  (43) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0606c/x0606c_hippo.pdb
+
+>  <distance_score>  (43) 
+None
+
+>  <energy_score>  (43) 
+None
+
+>  <compound>  (43) 
+MYQOETKNJQIOKN-UHFFFAOYSA-N
+
+>  <compound_id>  (43) 
+20
+
+>  <target>  (43) 
+CpKRS
+
+>  <tags>  (43) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (43) 
+
+
+>  <reference>  (43) 
+
+
+>  <observation_longname>  (43) 
+LYSRSCPZ-x0606_D_901_v1
+
+>  <ConformerSites alias>  (43) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (43) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (43) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (43) 
+A1 - dimer
+
+>  <Crystalforms alias>  (43) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (43) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (43) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (43) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (43) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (43) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (43) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (43) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (43) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (43) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (43) 
+F2 - P1211
+
+>  <Centroid res>  (43) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (43) 
+LYSRSCPZ-x0606
+
+>  <Pose>  (43) 
+x0606a
+
+$$$$
+x0502b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   -9.4640  -14.6000   49.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4900  -17.2940   43.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.5190  -15.7770   43.4380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2030  -13.3660   48.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9810  -11.5630   47.8260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9010  -12.9020   47.1600 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1610  -13.3170   46.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.5610  -15.1720   45.7100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2980  -15.2970   44.2230 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -11.2510  -16.3530   43.8670 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0360  -17.6600   43.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1550  -12.5540   48.6480 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4350  -14.6230   46.4530 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8470  -12.4720   45.8980 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1050  -11.5000   46.5500 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  1  1  0
+  6  4  2  0
+  7  6  1  0
+  9  3  1  0
+  9  8  1  1
+ 10  9  1  0
+ 11  2  1  0
+ 11 10  1  0
+ 12  5  2  0
+ 12  4  1  0
+ 13  8  1  0
+ 13  7  1  0
+ 14  7  2  0
+ 15  6  1  0
+ 15  5  1  0
+M  END
+>  <id>  (44) 
+44
+
+>  <inchikey>  (44) 
+RCMGKXYHVRDOAC-UHFFFAOYSA-N
+
+>  <alias>  (44) 
+x0502b
+
+>  <smiles>  (44) 
+Cc1ncsc1C(=O)NCC1CCCC1
+
+>  <path>  (44) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0502b/x0502b.pdb
+
+>  <distance_score>  (44) 
+None
+
+>  <energy_score>  (44) 
+None
+
+>  <compound>  (44) 
+RCMGKXYHVRDOAC-UHFFFAOYSA-N
+
+>  <compound_id>  (44) 
+21
+
+>  <target>  (44) 
+CpKRS
+
+>  <tags>  (44) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (44) 
+
+
+>  <reference>  (44) 
+
+
+>  <observation_longname>  (44) 
+LYSRSCPZ-x0502_A_901_v1
+
+>  <ConformerSites alias>  (44) 
+6a - x0502/A/901
+
+>  <CanonSites alias>  (44) 
+6 - x0502/A/901/1
+
+>  <CrystalformSites alias>  (44) 
+F1r - x0502/A/901
+
+>  <Quatassemblies alias>  (44) 
+A1 - dimer
+
+>  <Crystalforms alias>  (44) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (44) 
+6a - LYSRSCPZ-x0502/A/901
+
+>  <CanonSites upload name>  (44) 
+6 - LYSRSCPZ-x0502/A/901/1
+
+>  <CrystalformSites upload name>  (44) 
+F1r - LYSRSCPZ-x0502/A/901/1
+
+>  <Quatassemblies upload name>  (44) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (44) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (44) 
+6a - x0502/A/901
+
+>  <CanonSites short tag>  (44) 
+6 - x0502/A/901/1
+
+>  <CrystalformSites short tag>  (44) 
+F1r - x0502/A/901
+
+>  <Quatassemblies short tag>  (44) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (44) 
+F1 - P21221
+
+>  <Centroid res>  (44) 
+LYSRSCPZ-x0502/A/259/A_v1
+
+>  <Experiment code>  (44) 
+LYSRSCPZ-x0502
+
+>  <Pose>  (44) 
+x0502b
+
+$$$$
+x0502a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.6530  -15.7490   27.1240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5450   -8.7070   23.9510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4680   -9.7240   24.2970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4480  -14.8860   26.9560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4520  -14.2010   27.6060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2610  -13.8890   26.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1620  -13.3320   25.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2780  -11.9070   23.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1060  -10.4030   22.9650 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9580   -9.7210   21.8800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3690   -8.3970   22.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3960  -15.0610   27.8390 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5740  -12.5420   24.1110 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3640  -13.5980   25.0460 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7000  -13.2110   26.2400 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  1  1  0
+  6  4  2  0
+  7  6  1  0
+  9  8  1  1
+  9  3  1  0
+ 10  9  1  0
+ 11 10  1  0
+ 11  2  1  0
+ 12  4  1  0
+ 12  5  2  0
+ 13  8  1  0
+ 13  7  1  0
+ 14  7  2  0
+ 15  6  1  0
+ 15  5  1  0
+M  END
+>  <id>  (45) 
+45
+
+>  <inchikey>  (45) 
+RCMGKXYHVRDOAC-UHFFFAOYSA-N
+
+>  <alias>  (45) 
+x0502a
+
+>  <smiles>  (45) 
+Cc1ncsc1C(=O)NCC1CCCC1
+
+>  <path>  (45) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0502a/x0502a.pdb
+
+>  <distance_score>  (45) 
+None
+
+>  <energy_score>  (45) 
+None
+
+>  <compound>  (45) 
+RCMGKXYHVRDOAC-UHFFFAOYSA-N
+
+>  <compound_id>  (45) 
+21
+
+>  <target>  (45) 
+CpKRS
+
+>  <tags>  (45) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (45) 
+
+
+>  <reference>  (45) 
+
+
+>  <observation_longname>  (45) 
+LYSRSCPZ-x0502_A_1001_v1
+
+>  <ConformerSites alias>  (45) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (45) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (45) 
+F1f - x0489/A/901
+
+>  <Quatassemblies alias>  (45) 
+A1 - dimer
+
+>  <Crystalforms alias>  (45) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (45) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (45) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (45) 
+F1f - LYSRSCPZ-x0489/A/901/1
+
+>  <Quatassemblies upload name>  (45) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (45) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (45) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (45) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (45) 
+F1f - x0489/A/901
+
+>  <Quatassemblies short tag>  (45) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (45) 
+F1 - P21221
+
+>  <Centroid res>  (45) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (45) 
+LYSRSCPZ-x0502
+
+>  <Pose>  (45) 
+x0502a
+
+$$$$
+x0502c
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.6160  -15.6000   27.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1540   -8.4210   23.7820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4240   -9.7310   24.0320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4240  -14.7150   26.8730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4210  -14.0090   27.5220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2390  -13.7360   25.9280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1280  -13.2390   24.8600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1730  -11.9390   22.7590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9360  -10.6450   22.9280 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8820   -9.7020   21.7280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3200   -8.3470   22.2800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3760  -14.8620   27.7630 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5530  -12.4030   23.9920 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3050  -13.5870   24.8160 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6920  -13.0180   26.1600 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  1  1  0
+  6  4  2  0
+  7  6  1  0
+  9  8  1  6
+  9  3  1  0
+ 10  9  1  0
+ 11 10  1  0
+ 11  2  1  0
+ 12  4  1  0
+ 12  5  2  0
+ 13  8  1  0
+ 13  7  1  0
+ 14  7  2  0
+ 15  6  1  0
+ 15  5  1  0
+M  END
+>  <id>  (46) 
+46
+
+>  <inchikey>  (46) 
+RCMGKXYHVRDOAC-UHFFFAOYSA-N
+
+>  <alias>  (46) 
+x0502c
+
+>  <smiles>  (46) 
+Cc1ncsc1C(=O)NCC1CCCC1
+
+>  <path>  (46) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0502c/x0502c.pdb
+
+>  <distance_score>  (46) 
+None
+
+>  <energy_score>  (46) 
+None
+
+>  <compound>  (46) 
+RCMGKXYHVRDOAC-UHFFFAOYSA-N
+
+>  <compound_id>  (46) 
+21
+
+>  <target>  (46) 
+CpKRS
+
+>  <tags>  (46) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (46) 
+
+
+>  <reference>  (46) 
+
+
+>  <observation_longname>  (46) 
+LYSRSCPZ-x0502_B_701_v1
+
+>  <ConformerSites alias>  (46) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (46) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (46) 
+F1g - x0492/B/703
+
+>  <Quatassemblies alias>  (46) 
+A1 - dimer
+
+>  <Crystalforms alias>  (46) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (46) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (46) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (46) 
+F1g - LYSRSCPZ-x0492/B/703/1
+
+>  <Quatassemblies upload name>  (46) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (46) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (46) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (46) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (46) 
+F1g - x0492/B/703
+
+>  <Quatassemblies short tag>  (46) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (46) 
+F1 - P21221
+
+>  <Centroid res>  (46) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (46) 
+LYSRSCPZ-x0502
+
+>  <Pose>  (46) 
+x0502a
+
+$$$$
+x0504c
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    4.7250    9.2980   40.5390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3800    8.8590   40.0050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4720    7.6940   41.9040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1400    7.0310   42.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9090    5.0340   43.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0190    4.3150   44.7040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8120    3.6300   47.0260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6550    3.1440   45.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4170    2.2410   44.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5130    8.5590   40.8770 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1870    6.1600   43.4090 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5430    2.7860   46.3640 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4710    7.4420   42.5710 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4750    4.5940   42.4110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2510    4.9380   46.1080 S   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  5  1  0
+  8  6  2  0
+  9  8  1  0
+ 10  3  1  0
+ 10  2  1  0
+ 10  1  1  0
+ 11  5  1  0
+ 11  4  1  0
+ 12  8  1  0
+ 12  7  2  0
+ 13  3  2  0
+ 14  5  2  0
+ 15  7  1  0
+ 15  6  1  0
+M  END
+>  <id>  (47) 
+47
+
+>  <inchikey>  (47) 
+VISCEWOYYMVEGD-UHFFFAOYSA-N
+
+>  <alias>  (47) 
+x0504c
+
+>  <smiles>  (47) 
+Cc1ncsc1C(=O)NCC(=O)N(C)C
+
+>  <path>  (47) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0504c/x0504c_hippo.pdb
+
+>  <distance_score>  (47) 
+None
+
+>  <energy_score>  (47) 
+None
+
+>  <compound>  (47) 
+VISCEWOYYMVEGD-UHFFFAOYSA-N
+
+>  <compound_id>  (47) 
+22
+
+>  <target>  (47) 
+CpKRS
+
+>  <tags>  (47) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (47) 
+
+
+>  <reference>  (47) 
+
+
+>  <observation_longname>  (47) 
+LYSRSCPZ-x0504_D_802_v1
+
+>  <ConformerSites alias>  (47) 
+2a - x0407/D/802
+
+>  <CanonSites alias>  (47) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites alias>  (47) 
+F2i - x0407/D/802
+
+>  <Quatassemblies alias>  (47) 
+A1 - dimer
+
+>  <Crystalforms alias>  (47) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (47) 
+2a - LYSRSCPZ-x0407/D/802
+
+>  <CanonSites upload name>  (47) 
+2 - LYSRSCPZ-x0407/D/802/1
+
+>  <CrystalformSites upload name>  (47) 
+F2i - LYSRSCPZ-x0407/D/802/1
+
+>  <Quatassemblies upload name>  (47) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (47) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (47) 
+2a - x0407/D/802
+
+>  <CanonSites short tag>  (47) 
+2 - x0407/D/802/1
+
+>  <CrystalformSites short tag>  (47) 
+F2i - x0407/D/802
+
+>  <Quatassemblies short tag>  (47) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (47) 
+F2 - P1211
+
+>  <Centroid res>  (47) 
+LYSRSCPZ-x0407/C/542/D_v1
+
+>  <Experiment code>  (47) 
+LYSRSCPZ-x0504
+
+>  <Pose>  (47) 
+x0504c
+
+$$$$
+x0504a
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.8230   -8.7820   24.1380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4650   -9.2900   24.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5940  -10.3300   22.7630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1420  -11.7870   22.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0280  -13.1670   24.9290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1250  -13.7580   25.9710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2400  -14.2840   27.4190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2830  -14.8570   26.7840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4410  -15.8020   26.8330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6200   -9.5480   23.8360 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5390  -12.1700   24.1720 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2310  -15.0880   27.6490 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9990   -9.9040   21.6800 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1680  -13.6120   24.7950 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5890  -13.0500   26.3090 S   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  5  1  0
+  8  6  2  0
+  9  8  1  0
+ 10  3  1  0
+ 10  2  1  0
+ 10  1  1  0
+ 11  5  1  0
+ 11  4  1  0
+ 12  8  1  0
+ 12  7  2  0
+ 13  3  2  0
+ 14  5  2  0
+ 15  6  1  0
+ 15  7  1  0
+M  END
+>  <id>  (48) 
+48
+
+>  <inchikey>  (48) 
+VISCEWOYYMVEGD-UHFFFAOYSA-N
+
+>  <alias>  (48) 
+x0504a
+
+>  <smiles>  (48) 
+Cc1ncsc1C(=O)NCC(=O)N(C)C
+
+>  <path>  (48) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0504a/x0504a_hippo.pdb
+
+>  <distance_score>  (48) 
+None
+
+>  <energy_score>  (48) 
+None
+
+>  <compound>  (48) 
+VISCEWOYYMVEGD-UHFFFAOYSA-N
+
+>  <compound_id>  (48) 
+22
+
+>  <target>  (48) 
+CpKRS
+
+>  <tags>  (48) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (48) 
+
+
+>  <reference>  (48) 
+
+
+>  <observation_longname>  (48) 
+LYSRSCPZ-x0504_A_805_v1
+
+>  <ConformerSites alias>  (48) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (48) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (48) 
+F2c - x0414/B/701
+
+>  <Quatassemblies alias>  (48) 
+A1 - dimer
+
+>  <Crystalforms alias>  (48) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (48) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (48) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (48) 
+F2c - LYSRSCPZ-x0414/B/701/1
+
+>  <Quatassemblies upload name>  (48) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (48) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (48) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (48) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (48) 
+F2c - x0414/B/701
+
+>  <Quatassemblies short tag>  (48) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (48) 
+F2 - P1211
+
+>  <Centroid res>  (48) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (48) 
+LYSRSCPZ-x0504
+
+>  <Pose>  (48) 
+x0504a
+
+$$$$
+x0504b
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.9110   -7.8370   23.4580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3120   -9.2300   21.5230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7120   -9.9230   23.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1340  -11.2180   23.2630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9560  -13.0660   24.8530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0880  -13.7670   25.8360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3170  -14.2960   27.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2940  -14.8920   26.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4760  -15.8050   26.5630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2740   -9.0570   22.9740 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4140  -12.0190   24.2260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900  -15.1550   27.5120 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6540   -9.6930   25.0310 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1110  -13.4430   24.6680 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5400  -13.1280   26.2040 S   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  6  5  1  0
+  8  6  2  0
+  9  8  1  0
+ 10  2  1  0
+ 10  3  1  0
+ 10  1  1  0
+ 11  5  1  0
+ 11  4  1  0
+ 12  8  1  0
+ 12  7  2  0
+ 13  3  2  0
+ 14  5  2  0
+ 15  6  1  0
+ 15  7  1  0
+M  END
+>  <id>  (49) 
+49
+
+>  <inchikey>  (49) 
+VISCEWOYYMVEGD-UHFFFAOYSA-N
+
+>  <alias>  (49) 
+x0504b
+
+>  <smiles>  (49) 
+Cc1ncsc1C(=O)NCC(=O)N(C)C
+
+>  <path>  (49) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0504b/x0504b_hippo.pdb
+
+>  <distance_score>  (49) 
+None
+
+>  <energy_score>  (49) 
+None
+
+>  <compound>  (49) 
+VISCEWOYYMVEGD-UHFFFAOYSA-N
+
+>  <compound_id>  (49) 
+22
+
+>  <target>  (49) 
+CpKRS
+
+>  <tags>  (49) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (49) 
+
+
+>  <reference>  (49) 
+
+
+>  <observation_longname>  (49) 
+LYSRSCPZ-x0504_A_901_v1
+
+>  <ConformerSites alias>  (49) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (49) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (49) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (49) 
+A1 - dimer
+
+>  <Crystalforms alias>  (49) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (49) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (49) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (49) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (49) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (49) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (49) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (49) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (49) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (49) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (49) 
+F2 - P1211
+
+>  <Centroid res>  (49) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (49) 
+LYSRSCPZ-x0504
+
+>  <Pose>  (49) 
+x0504a
+
+$$$$
+x0634a
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    3.1240  -12.0290   22.2530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5620  -12.6090   23.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3210  -14.0000   25.2830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3360  -14.6360   25.9840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0060  -15.2330   27.1510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6980  -15.1850   27.5930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7560  -14.5230   26.8230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900  -15.8130   28.8760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0590  -13.9280   25.6710 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0800  -15.5300   29.3340 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6120  -13.3940   24.1100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0900  -16.5500   29.4700 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  6  1  0
+  9  7  2  0
+  9  3  1  0
+ 10  8  1  0
+ 11  3  1  0
+ 11  2  1  0
+ 12  8  2  0
+M  END
+>  <id>  (50) 
+50
+
+>  <inchikey>  (50) 
+BCFWYDOMOVRTHG-UHFFFAOYSA-N
+
+>  <alias>  (50) 
+x0634a
+
+>  <smiles>  (50) 
+CCOc1ccc(C(N)=O)cn1
+
+>  <path>  (50) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0634a/x0634a_hippo.pdb
+
+>  <distance_score>  (50) 
+None
+
+>  <energy_score>  (50) 
+None
+
+>  <compound>  (50) 
+BCFWYDOMOVRTHG-UHFFFAOYSA-N
+
+>  <compound_id>  (50) 
+23
+
+>  <target>  (50) 
+CpKRS
+
+>  <tags>  (50) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (50) 
+
+
+>  <reference>  (50) 
+
+
+>  <observation_longname>  (50) 
+LYSRSCPZ-x0634_A_805_v1
+
+>  <ConformerSites alias>  (50) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (50) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (50) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (50) 
+A1 - dimer
+
+>  <Crystalforms alias>  (50) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (50) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (50) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (50) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (50) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (50) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (50) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (50) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (50) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (50) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (50) 
+F2 - P1211
+
+>  <Centroid res>  (50) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (50) 
+LYSRSCPZ-x0634
+
+>  <Pose>  (50) 
+x0634a
+
+$$$$
+x0634b
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    5.1510  -11.8080   22.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1330  -12.3810   23.1820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1840  -13.9180   25.0510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8300  -13.6840   25.2730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2770  -14.1950   26.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0480  -14.9350   27.2840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3880  -15.1160   26.9740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4560  -15.4790   28.5480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9570  -14.6190   25.8680 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1600  -15.3030   28.7550 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7860  -13.4320   23.9330 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880  -16.0310   29.3850 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  6  1  0
+  9  7  2  0
+  9  3  1  0
+ 10  8  1  0
+ 11  3  1  0
+ 11  2  1  0
+ 12  8  2  0
+M  END
+>  <id>  (51) 
+51
+
+>  <inchikey>  (51) 
+BCFWYDOMOVRTHG-UHFFFAOYSA-N
+
+>  <alias>  (51) 
+x0634b
+
+>  <smiles>  (51) 
+CCOc1ccc(C(N)=O)cn1
+
+>  <path>  (51) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0634b/x0634b.pdb
+
+>  <distance_score>  (51) 
+None
+
+>  <energy_score>  (51) 
+None
+
+>  <compound>  (51) 
+BCFWYDOMOVRTHG-UHFFFAOYSA-N
+
+>  <compound_id>  (51) 
+23
+
+>  <target>  (51) 
+CpKRS
+
+>  <tags>  (51) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (51) 
+
+
+>  <reference>  (51) 
+
+
+>  <observation_longname>  (51) 
+LYSRSCPZ-x0634_A_901_v1
+
+>  <ConformerSites alias>  (51) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (51) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (51) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (51) 
+A1 - dimer
+
+>  <Crystalforms alias>  (51) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (51) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (51) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (51) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (51) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (51) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (51) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (51) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (51) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (51) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (51) 
+F2 - P1211
+
+>  <Centroid res>  (51) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (51) 
+LYSRSCPZ-x0634
+
+>  <Pose>  (51) 
+x0634a
+
+$$$$
+x0639a
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   21.2880    6.5160   23.9630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0110    9.2650   24.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3740    9.0260   24.8830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2950    9.7120   24.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8690   10.6330   23.1870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5220   10.8630   23.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5900   10.1810   23.7710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8400    7.6080   24.8240 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6960    7.2890   26.3940 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1830    9.2210   26.6110 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9240    8.3220   25.7780 S   0  0  1  0  0  0  0  0  0  0  0  0
+   20.9200   10.5430   23.4710 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  7  2  1  0
+  8  1  1  0
+ 11 10  2  0
+ 11  8  1  6
+ 11  9  2  0
+ 11  2  1  0
+ 12  7  1  0
+M  END
+>  <id>  (52) 
+52
+
+>  <inchikey>  (52) 
+OSFAUZAAZLLTSW-UHFFFAOYSA-N
+
+>  <alias>  (52) 
+x0639a
+
+>  <smiles>  (52) 
+CNS(=O)(=O)c1ccccc1Cl
+
+>  <path>  (52) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0639a/x0639a_hippo.pdb
+
+>  <distance_score>  (52) 
+None
+
+>  <energy_score>  (52) 
+None
+
+>  <compound>  (52) 
+OSFAUZAAZLLTSW-UHFFFAOYSA-N
+
+>  <compound_id>  (52) 
+24
+
+>  <target>  (52) 
+CpKRS
+
+>  <tags>  (52) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (52) 
+
+
+>  <reference>  (52) 
+
+
+>  <observation_longname>  (52) 
+LYSRSCPZ-x0639_A_805_v1
+
+>  <ConformerSites alias>  (52) 
+3a - x0472/A/805
+
+>  <CanonSites alias>  (52) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites alias>  (52) 
+F2n - x0472/A/806
+
+>  <Quatassemblies alias>  (52) 
+A1 - dimer
+
+>  <Crystalforms alias>  (52) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (52) 
+3a - LYSRSCPZ-x0472/A/805
+
+>  <CanonSites upload name>  (52) 
+3 - LYSRSCPZ-x0472/A/805/1
+
+>  <CrystalformSites upload name>  (52) 
+F2n - LYSRSCPZ-x0472/A/806/1
+
+>  <Quatassemblies upload name>  (52) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (52) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (52) 
+3a - x0472/A/805
+
+>  <CanonSites short tag>  (52) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites short tag>  (52) 
+F2n - x0472/A/806
+
+>  <Quatassemblies short tag>  (52) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (52) 
+F2 - P1211
+
+>  <Centroid res>  (52) 
+LYSRSCPZ-x0472/B/284/A_v1
+
+>  <Experiment code>  (52) 
+LYSRSCPZ-x0639
+
+>  <Pose>  (52) 
+x0639a
+
+$$$$
+x0639b
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   21.2730    6.5360   24.0110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4960    9.3710   24.5860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5310   10.0700   23.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8940   10.8870   22.8380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2180   11.0490   22.5190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1920   10.3900   23.2200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8310    9.5330   24.2430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7710    7.4180   25.0600 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7680    7.4160   26.4170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0910    9.2140   26.6920 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8330    8.3370   25.8540 S   0  0  1  0  0  0  0  0  0  0  0  0
+   25.1020    8.7170   25.0670 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  7  2  1  0
+  8  1  1  0
+ 11 10  2  0
+ 11  8  1  6
+ 11  9  2  0
+ 11  2  1  0
+ 12  7  1  0
+M  END
+>  <id>  (53) 
+53
+
+>  <inchikey>  (53) 
+OSFAUZAAZLLTSW-UHFFFAOYSA-N
+
+>  <alias>  (53) 
+x0639b
+
+>  <smiles>  (53) 
+CNS(=O)(=O)c1ccccc1Cl
+
+>  <path>  (53) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0639b/x0639b_hippo.pdb
+
+>  <distance_score>  (53) 
+None
+
+>  <energy_score>  (53) 
+None
+
+>  <compound>  (53) 
+OSFAUZAAZLLTSW-UHFFFAOYSA-N
+
+>  <compound_id>  (53) 
+24
+
+>  <target>  (53) 
+CpKRS
+
+>  <tags>  (53) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (53) 
+
+
+>  <reference>  (53) 
+
+
+>  <observation_longname>  (53) 
+LYSRSCPZ-x0639_C_1301_v1
+
+>  <ConformerSites alias>  (53) 
+3a - x0472/A/805
+
+>  <CanonSites alias>  (53) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites alias>  (53) 
+F2o - x0472/C/1301
+
+>  <Quatassemblies alias>  (53) 
+A1 - dimer
+
+>  <Crystalforms alias>  (53) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (53) 
+3a - LYSRSCPZ-x0472/A/805
+
+>  <CanonSites upload name>  (53) 
+3 - LYSRSCPZ-x0472/A/805/1
+
+>  <CrystalformSites upload name>  (53) 
+F2o - LYSRSCPZ-x0472/C/1301/1
+
+>  <Quatassemblies upload name>  (53) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (53) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (53) 
+3a - x0472/A/805
+
+>  <CanonSites short tag>  (53) 
+3 - x0472/A/805/1
+
+>  <CrystalformSites short tag>  (53) 
+F2o - x0472/C/1301
+
+>  <Quatassemblies short tag>  (53) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (53) 
+F2 - P1211
+
+>  <Centroid res>  (53) 
+LYSRSCPZ-x0472/B/284/A_v1
+
+>  <Experiment code>  (53) 
+LYSRSCPZ-x0639
+
+>  <Pose>  (53) 
+x0639a
+
+$$$$
+x0639c
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    6.6560  -38.0610    8.0720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1770  -37.1570   11.1090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3220  -38.0040   11.8110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8200  -38.8260   12.8090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1650  -38.8380   13.0960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0250  -38.0090   12.4130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5280  -37.1690   11.4270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0070  -36.6810    8.4200 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0770  -36.2440    9.8670 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0820  -34.7910    9.9750 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5040  -36.1000    9.8470 S   0  0  1  0  0  0  0  0  0  0  0  0
+    9.6260  -36.1440   10.5740 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  3  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  7  2  1  0
+  8  1  1  0
+ 11  9  2  0
+ 11 10  2  0
+ 11  8  1  6
+ 11  2  1  0
+ 12  7  1  0
+M  END
+>  <id>  (54) 
+54
+
+>  <inchikey>  (54) 
+OSFAUZAAZLLTSW-UHFFFAOYSA-N
+
+>  <alias>  (54) 
+x0639c
+
+>  <smiles>  (54) 
+CNS(=O)(=O)c1ccccc1Cl
+
+>  <path>  (54) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0639c/x0639c_hippo.pdb
+
+>  <distance_score>  (54) 
+None
+
+>  <energy_score>  (54) 
+None
+
+>  <compound>  (54) 
+OSFAUZAAZLLTSW-UHFFFAOYSA-N
+
+>  <compound_id>  (54) 
+24
+
+>  <target>  (54) 
+CpKRS
+
+>  <tags>  (54) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (54) 
+
+
+>  <reference>  (54) 
+
+
+>  <observation_longname>  (54) 
+LYSRSCPZ-x0639_B_801_v1
+
+>  <ConformerSites alias>  (54) 
+7a - x0639/B/801
+
+>  <CanonSites alias>  (54) 
+7 - x0639/B/801/1
+
+>  <CrystalformSites alias>  (54) 
+F2s - x0639/B/801
+
+>  <Quatassemblies alias>  (54) 
+A1 - dimer
+
+>  <Crystalforms alias>  (54) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (54) 
+7a - LYSRSCPZ-x0639/B/801
+
+>  <CanonSites upload name>  (54) 
+7 - LYSRSCPZ-x0639/B/801/1
+
+>  <CrystalformSites upload name>  (54) 
+F2s - LYSRSCPZ-x0639/B/801/1
+
+>  <Quatassemblies upload name>  (54) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (54) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (54) 
+7a - x0639/B/801
+
+>  <CanonSites short tag>  (54) 
+7 - x0639/B/801/1
+
+>  <CrystalformSites short tag>  (54) 
+F2s - x0639/B/801
+
+>  <Quatassemblies short tag>  (54) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (54) 
+F2 - P1211
+
+>  <Centroid res>  (54) 
+LYSRSCPZ-x0639/B/353/B_v1
+
+>  <Experiment code>  (54) 
+LYSRSCPZ-x0639
+
+>  <Pose>  (54) 
+x0639c
+
+$$$$
+x0646a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    5.7110   -8.1980   24.8870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3390   -9.0520   23.7190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5690   -8.7680   22.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5940  -10.9490   22.8330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9750  -12.3100   22.7300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2600  -13.6050   24.7880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5770  -14.2850   25.9200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0460  -15.3580   26.6880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0650  -15.6500   27.5750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5170  -12.8000   24.0220 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0610  -14.7930   27.3470 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3530  -13.9430   26.3330 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6800  -10.2550   23.9380 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4440  -13.8300   24.5520 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2420  -10.1460   21.4430 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  2  0
+  5  4  1  0
+  7  6  1  0
+  8  7  1  0
+  9  8  2  0
+ 10  6  1  0
+ 10  5  1  0
+ 11  9  1  0
+ 12  7  2  0
+ 12 11  1  0
+ 13  4  2  0
+ 13  2  1  0
+ 14  6  2  0
+ 15  4  1  0
+ 15  3  1  0
+M  END
+>  <id>  (55) 
+55
+
+>  <inchikey>  (55) 
+URRZFISTFWQMHO-UHFFFAOYSA-N
+
+>  <alias>  (55) 
+x0646a
+
+>  <smiles>  (55) 
+Cc1csc(CNC(=O)c2cc[nH]n2)n1
+
+>  <path>  (55) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0646a/x0646a.pdb
+
+>  <distance_score>  (55) 
+None
+
+>  <energy_score>  (55) 
+None
+
+>  <compound>  (55) 
+URRZFISTFWQMHO-UHFFFAOYSA-N
+
+>  <compound_id>  (55) 
+25
+
+>  <target>  (55) 
+CpKRS
+
+>  <tags>  (55) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (55) 
+
+
+>  <reference>  (55) 
+
+
+>  <observation_longname>  (55) 
+LYSRSCPZ-x0646_A_805_v1
+
+>  <ConformerSites alias>  (55) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (55) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (55) 
+F2c - x0414/B/701
+
+>  <Quatassemblies alias>  (55) 
+A1 - dimer
+
+>  <Crystalforms alias>  (55) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (55) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (55) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (55) 
+F2c - LYSRSCPZ-x0414/B/701/1
+
+>  <Quatassemblies upload name>  (55) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (55) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (55) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (55) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (55) 
+F2c - x0414/B/701
+
+>  <Quatassemblies short tag>  (55) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (55) 
+F2 - P1211
+
+>  <Centroid res>  (55) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (55) 
+LYSRSCPZ-x0646
+
+>  <Pose>  (55) 
+x0646a
+
+$$$$
+x0654a
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    3.9830  -14.0400   24.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9360  -14.6890   26.2210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6240  -14.9520   27.6750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6750  -15.9040   28.0820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1310  -15.7610   26.6550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7330  -12.5780   22.9430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3130  -11.2210   23.2660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1150  -10.6300   24.5080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6370   -9.3980   24.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3770   -8.7180   23.8450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9230   -7.4210   24.1530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5650   -9.2760   22.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0460  -10.5300   22.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2150  -13.2880   24.0940 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4030   -6.4300   24.4360 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3690  -14.7520   25.9200 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2020  -14.1480   24.7170 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2760  -16.1130   28.1710 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  5  4  1  0
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 11 10  1  0
+ 12 10  1  0
+ 13  7  1  0
+ 13 12  2  0
+ 14  6  1  0
+ 14  1  1  0
+ 15 11  3  0
+ 16  5  1  0
+ 16  2  1  0
+ 16  1  1  0
+ 17  1  2  0
+ 18  4  1  0
+ 18  3  1  0
+M  END
+>  <id>  (56) 
+56
+
+>  <inchikey>  (56) 
+ZXWAHHRBFVCEAR-UHFFFAOYSA-N
+
+>  <alias>  (56) 
+x0654a
+
+>  <smiles>  (56) 
+N#Cc1ccc(CNC(=O)N2CCOCC2)cc1
+
+>  <path>  (56) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0654a/x0654a_hippo.pdb
+
+>  <distance_score>  (56) 
+None
+
+>  <energy_score>  (56) 
+None
+
+>  <compound>  (56) 
+ZXWAHHRBFVCEAR-UHFFFAOYSA-N
+
+>  <compound_id>  (56) 
+26
+
+>  <target>  (56) 
+CpKRS
+
+>  <tags>  (56) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (56) 
+
+
+>  <reference>  (56) 
+
+
+>  <observation_longname>  (56) 
+LYSRSCPZ-x0654_A_805_v1
+
+>  <ConformerSites alias>  (56) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (56) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (56) 
+F2c - x0414/B/701
+
+>  <Quatassemblies alias>  (56) 
+A1 - dimer
+
+>  <Crystalforms alias>  (56) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (56) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (56) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (56) 
+F2c - LYSRSCPZ-x0414/B/701/1
+
+>  <Quatassemblies upload name>  (56) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (56) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (56) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (56) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (56) 
+F2c - x0414/B/701
+
+>  <Quatassemblies short tag>  (56) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (56) 
+F2 - P1211
+
+>  <Centroid res>  (56) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (56) 
+LYSRSCPZ-x0654
+
+>  <Pose>  (56) 
+x0654a
+
+$$$$
+x0654b
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    4.0120  -12.7560   23.9260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7880  -10.8190   22.5600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8650   -9.8270   22.9170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2170   -9.0230   24.4240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1670  -10.4600   24.8920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5350  -14.7530   25.2490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6170  -15.1520   26.3650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0550  -15.9440   27.4140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2030  -16.3000   28.4310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8900  -15.8600   28.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9650  -16.2060   29.4670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4440  -15.0620   27.3750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090  -14.7080   26.3620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4630  -13.3390   25.0480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1690  -16.4930   30.2730 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2870  -11.4110   23.7910 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4930  -13.3940   23.0310 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3660   -8.7030   23.6320 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  5  4  1  0
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 11 10  1  0
+ 12 10  1  0
+ 13  7  1  0
+ 13 12  2  0
+ 14  6  1  0
+ 14  1  1  0
+ 15 11  3  0
+ 16  1  1  0
+ 16  5  1  0
+ 16  2  1  0
+ 17  1  2  0
+ 18  4  1  0
+ 18  3  1  0
+M  END
+>  <id>  (57) 
+57
+
+>  <inchikey>  (57) 
+ZXWAHHRBFVCEAR-UHFFFAOYSA-N
+
+>  <alias>  (57) 
+x0654b
+
+>  <smiles>  (57) 
+N#Cc1ccc(CNC(=O)N2CCOCC2)cc1
+
+>  <path>  (57) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0654b/x0654b_hippo.pdb
+
+>  <distance_score>  (57) 
+None
+
+>  <energy_score>  (57) 
+None
+
+>  <compound>  (57) 
+ZXWAHHRBFVCEAR-UHFFFAOYSA-N
+
+>  <compound_id>  (57) 
+26
+
+>  <target>  (57) 
+CpKRS
+
+>  <tags>  (57) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (57) 
+
+
+>  <reference>  (57) 
+
+
+>  <observation_longname>  (57) 
+LYSRSCPZ-x0654_C_1301_v1
+
+>  <ConformerSites alias>  (57) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (57) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (57) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies alias>  (57) 
+A1 - dimer
+
+>  <Crystalforms alias>  (57) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (57) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (57) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (57) 
+F2b - LYSRSCPZ-x0407/C/1202/1
+
+>  <Quatassemblies upload name>  (57) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (57) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (57) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (57) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (57) 
+F2b - x0407/C/1202
+
+>  <Quatassemblies short tag>  (57) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (57) 
+F2 - P1211
+
+>  <Centroid res>  (57) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (57) 
+LYSRSCPZ-x0654
+
+>  <Pose>  (57) 
+x0654a
+
+$$$$
+x0654c
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    4.0340  -14.0980   24.8510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3100  -15.4810   26.8820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4760  -16.4700   27.6570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9160  -14.6960   27.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0720  -14.7100   26.3030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6790  -12.6320   22.9200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2770  -11.2850   23.2460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0510  -10.6640   24.4650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5840   -9.4270   24.7430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3660   -8.7790   23.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9240   -7.4800   24.0910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5930   -9.3780   22.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0530  -10.6240   22.3080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2110  -13.3570   24.0810 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3850   -6.4590   24.3800 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860  -14.7340   25.9410 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2410  -14.1830   24.6120 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4540  -15.8550   28.4320 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  5  4  1  0
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 11 10  1  0
+ 12 10  1  0
+ 13  7  1  0
+ 13 12  2  0
+ 14  6  1  0
+ 14  1  1  0
+ 15 11  3  0
+ 16  5  1  0
+ 16  2  1  0
+ 16  1  1  0
+ 17  1  2  0
+ 18  3  1  0
+ 18  4  1  0
+M  END
+>  <id>  (58) 
+58
+
+>  <inchikey>  (58) 
+ZXWAHHRBFVCEAR-UHFFFAOYSA-N
+
+>  <alias>  (58) 
+x0654c
+
+>  <smiles>  (58) 
+N#Cc1ccc(CNC(=O)N2CCOCC2)cc1
+
+>  <path>  (58) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0654c/x0654c_hippo.pdb
+
+>  <distance_score>  (58) 
+None
+
+>  <energy_score>  (58) 
+None
+
+>  <compound>  (58) 
+ZXWAHHRBFVCEAR-UHFFFAOYSA-N
+
+>  <compound_id>  (58) 
+26
+
+>  <target>  (58) 
+CpKRS
+
+>  <tags>  (58) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (58) 
+
+
+>  <reference>  (58) 
+
+
+>  <observation_longname>  (58) 
+LYSRSCPZ-x0654_D_901_v1
+
+>  <ConformerSites alias>  (58) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (58) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (58) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (58) 
+A1 - dimer
+
+>  <Crystalforms alias>  (58) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (58) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (58) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (58) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (58) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (58) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (58) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (58) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (58) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (58) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (58) 
+F2 - P1211
+
+>  <Centroid res>  (58) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (58) 
+LYSRSCPZ-x0654
+
+>  <Pose>  (58) 
+x0654a
+
+$$$$
+x0675a
+     RDKit          3D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+    4.0000  -20.7630   21.9880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0880  -25.9640   19.5590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7720  -22.0980   21.7200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1000  -20.1100   21.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9920  -20.8180   20.7100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7770  -22.1570   20.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6600  -22.8110   20.9330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4320  -24.2760   20.6460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6660  -23.9560   18.3720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6070  -24.3390   17.3710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2920  -26.4490   18.1490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3620  -24.5310   19.6810 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4900  -25.7470   17.2060 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8710  -19.8850   22.9790 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  4  1  1  0
+  5  4  2  0
+  6  5  1  0
+  7  3  1  0
+  7  6  2  0
+  8  7  1  0
+ 10  9  1  0
+ 11  2  1  0
+ 12  9  1  0
+ 12  8  1  0
+ 12  2  1  0
+ 13 11  1  0
+ 13 10  1  0
+ 14  1  1  0
+M  END
+>  <id>  (59) 
+59
+
+>  <inchikey>  (59) 
+NWMZWMSJQLEJTG-UHFFFAOYSA-N
+
+>  <alias>  (59) 
+x0675a
+
+>  <smiles>  (59) 
+Clc1cccc(CN2CCOCC2)c1
+
+>  <path>  (59) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0675a/x0675a.pdb
+
+>  <distance_score>  (59) 
+None
+
+>  <energy_score>  (59) 
+None
+
+>  <compound>  (59) 
+NWMZWMSJQLEJTG-UHFFFAOYSA-N
+
+>  <compound_id>  (59) 
+27
+
+>  <target>  (59) 
+CpKRS
+
+>  <tags>  (59) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (59) 
+
+
+>  <reference>  (59) 
+
+
+>  <observation_longname>  (59) 
+LYSRSCPZ-x0675_A_901_v1
+
+>  <ConformerSites alias>  (59) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (59) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (59) 
+F2h - x0675/A/901
+
+>  <Quatassemblies alias>  (59) 
+A1 - dimer
+
+>  <Crystalforms alias>  (59) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (59) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (59) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (59) 
+F2h - LYSRSCPZ-x0675/A/901/1
+
+>  <Quatassemblies upload name>  (59) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (59) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (59) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (59) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (59) 
+F2h - x0675/A/901
+
+>  <Quatassemblies short tag>  (59) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (59) 
+F2 - P1211
+
+>  <Centroid res>  (59) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (59) 
+LYSRSCPZ-x0675
+
+>  <Pose>  (59) 
+x0675a
+
+$$$$
+x0675b
+     RDKit          3D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+   -2.4330  -25.5240   25.8560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4500  -30.3710   22.9360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4510  -26.7340   25.1950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5670  -24.5230   25.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7050  -24.7460   24.4370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7100  -25.9560   23.7660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5820  -26.9670   24.1410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6000  -28.2860   23.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7050  -29.6550   25.2210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8400  -30.6380   25.3720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5690  -31.6710   23.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5530  -29.2200   23.8320 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7600  -31.7270   24.4600 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5290  -25.2540   27.1820 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  4  1  1  0
+  5  4  2  0
+  6  5  1  0
+  7  6  2  0
+  7  3  1  0
+  8  7  1  0
+ 10  9  1  0
+ 11  2  1  0
+ 12  9  1  0
+ 12  8  1  0
+ 12  2  1  0
+ 13 11  1  0
+ 13 10  1  0
+ 14  1  1  0
+M  END
+>  <id>  (60) 
+60
+
+>  <inchikey>  (60) 
+NWMZWMSJQLEJTG-UHFFFAOYSA-N
+
+>  <alias>  (60) 
+x0675b
+
+>  <smiles>  (60) 
+Clc1cccc(CN2CCOCC2)c1
+
+>  <path>  (60) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0675b/x0675b_hippo.pdb
+
+>  <distance_score>  (60) 
+None
+
+>  <energy_score>  (60) 
+None
+
+>  <compound>  (60) 
+NWMZWMSJQLEJTG-UHFFFAOYSA-N
+
+>  <compound_id>  (60) 
+27
+
+>  <target>  (60) 
+CpKRS
+
+>  <tags>  (60) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (60) 
+
+
+>  <reference>  (60) 
+
+
+>  <observation_longname>  (60) 
+LYSRSCPZ-x0675_A_805_v1
+
+>  <ConformerSites alias>  (60) 
+8a - x0675/A/805
+
+>  <CanonSites alias>  (60) 
+8 - x0675/A/805/1
+
+>  <CrystalformSites alias>  (60) 
+F2t - x0675/A/805
+
+>  <Quatassemblies alias>  (60) 
+A1 - dimer
+
+>  <Crystalforms alias>  (60) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (60) 
+8a - LYSRSCPZ-x0675/A/805
+
+>  <CanonSites upload name>  (60) 
+8 - LYSRSCPZ-x0675/A/805/1
+
+>  <CrystalformSites upload name>  (60) 
+F2t - LYSRSCPZ-x0675/A/805/1
+
+>  <Quatassemblies upload name>  (60) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (60) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (60) 
+8a - x0675/A/805
+
+>  <CanonSites short tag>  (60) 
+8 - x0675/A/805/1
+
+>  <CrystalformSites short tag>  (60) 
+F2t - x0675/A/805
+
+>  <Quatassemblies short tag>  (60) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (60) 
+F2 - P1211
+
+>  <Centroid res>  (60) 
+LYSRSCPZ-x0675/D/533/A_v1
+
+>  <Experiment code>  (60) 
+LYSRSCPZ-x0675
+
+>  <Pose>  (60) 
+x0675b
+
+$$$$
+x0759b
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    0.7620  -12.7980   26.4620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2920   -9.6740   22.4480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2740   -8.1970   22.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3450   -7.8220   24.1270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -8.7940   25.0630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6080  -10.2400   24.8340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7500  -13.7690   27.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4450  -15.1240   27.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6480  -15.9710   27.4770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9680  -14.2370   26.4650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6270  -13.9180   25.1930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7170  -12.5380   23.1840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1500  -12.0620   23.0810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3410  -10.5970   23.4100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5170  -14.3270   28.1550 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000  -12.7990   24.5560 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6070  -15.1940   28.4000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4650  -14.6720   24.7190 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  3  1  0
+  5  4  1  0
+  6  5  1  0
+  7  1  1  0
+  9  8  1  0
+ 10  7  1  0
+ 10  8  2  0
+ 11 10  1  0
+ 13 12  1  0
+ 14 13  1  0
+ 14  2  2  0
+ 14  6  1  0
+ 15  7  2  0
+ 16 12  1  0
+ 16 11  1  0
+ 17 15  1  0
+ 17  8  1  0
+ 18 11  2  0
+M  END
+>  <id>  (61) 
+61
+
+>  <inchikey>  (61) 
+CDMDKICUIFSGRO-UHFFFAOYSA-N
+
+>  <alias>  (61) 
+x0759b
+
+>  <smiles>  (61) 
+Cc1noc(C)c1C(=O)NCCC1=CCCCC1
+
+>  <path>  (61) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0759b/x0759b.pdb
+
+>  <distance_score>  (61) 
+None
+
+>  <energy_score>  (61) 
+None
+
+>  <compound>  (61) 
+CDMDKICUIFSGRO-UHFFFAOYSA-N
+
+>  <compound_id>  (61) 
+28
+
+>  <target>  (61) 
+CpKRS
+
+>  <tags>  (61) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (61) 
+
+
+>  <reference>  (61) 
+
+
+>  <observation_longname>  (61) 
+LYSRSCPZ-x0759_B_601_v1
+
+>  <ConformerSites alias>  (61) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (61) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (61) 
+F1g - x0492/B/703
+
+>  <Quatassemblies alias>  (61) 
+A1 - dimer
+
+>  <Crystalforms alias>  (61) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (61) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (61) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (61) 
+F1g - LYSRSCPZ-x0492/B/703/1
+
+>  <Quatassemblies upload name>  (61) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (61) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (61) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (61) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (61) 
+F1g - x0492/B/703
+
+>  <Quatassemblies short tag>  (61) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (61) 
+F1 - P21221
+
+>  <Centroid res>  (61) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (61) 
+LYSRSCPZ-x0759
+
+>  <Pose>  (61) 
+x0759a
+
+$$$$
+x0759a
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    5.1710  -16.5200   27.7380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0410  -10.4840   22.4850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4590   -9.3400   21.6080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2960   -8.0230   22.2880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8060   -8.0920   23.6880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0200   -9.0880   24.5130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8110  -15.9710   27.6980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9780  -14.8660   27.2510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8290  -14.0560   26.7990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2590  -15.0400   26.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9260  -14.3970   25.6760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8270  -12.7520   23.8900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3190  -11.5270   24.6520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7960  -10.3780   23.7950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9490  -16.3460   28.6090 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2100  -13.7290   24.7780 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7570  -15.6420   28.3170 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1450  -14.5130   25.5180 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  3  1  0
+  5  4  1  0
+  6  5  1  0
+  7  1  1  0
+  9  8  1  0
+ 10  8  2  0
+ 10  7  1  0
+ 11 10  1  0
+ 13 12  1  0
+ 14 13  1  0
+ 14  6  2  0
+ 14  2  1  0
+ 15  7  2  0
+ 16 12  1  0
+ 16 11  1  0
+ 17 15  1  0
+ 17  8  1  0
+ 18 11  2  0
+M  END
+>  <id>  (62) 
+62
+
+>  <inchikey>  (62) 
+CDMDKICUIFSGRO-UHFFFAOYSA-N
+
+>  <alias>  (62) 
+x0759a
+
+>  <smiles>  (62) 
+Cc1noc(C)c1C(=O)NCCC1=CCCCC1
+
+>  <path>  (62) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0759a/x0759a.pdb
+
+>  <distance_score>  (62) 
+None
+
+>  <energy_score>  (62) 
+None
+
+>  <compound>  (62) 
+CDMDKICUIFSGRO-UHFFFAOYSA-N
+
+>  <compound_id>  (62) 
+28
+
+>  <target>  (62) 
+CpKRS
+
+>  <tags>  (62) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (62) 
+
+
+>  <reference>  (62) 
+
+
+>  <observation_longname>  (62) 
+LYSRSCPZ-x0759_A_645_v1
+
+>  <ConformerSites alias>  (62) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (62) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (62) 
+F1f - x0489/A/901
+
+>  <Quatassemblies alias>  (62) 
+A1 - dimer
+
+>  <Crystalforms alias>  (62) 
+F1 - P21221
+
+>  <ConformerSites upload name>  (62) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (62) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (62) 
+F1f - LYSRSCPZ-x0489/A/901/1
+
+>  <Quatassemblies upload name>  (62) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (62) 
+F1 - P21221
+
+>  <ConformerSites short tag>  (62) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (62) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (62) 
+F1f - x0489/A/901
+
+>  <Quatassemblies short tag>  (62) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (62) 
+F1 - P21221
+
+>  <Centroid res>  (62) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (62) 
+LYSRSCPZ-x0759
+
+>  <Pose>  (62) 
+x0759a
+
+$$$$
+x0787a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    3.0480  -17.4420   27.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4520  -10.0120   24.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6890   -7.2900   24.4840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1380   -9.4010   23.1440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9570  -16.5410   27.2330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4580  -15.1970   26.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7900  -14.0300   26.5710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4330  -13.1960   25.6240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6590  -13.7250   25.2400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5740  -13.3940   24.1230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9140  -11.6220   22.4690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1690  -10.3940   23.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0740  -12.5560   23.1960 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9060   -8.8800   24.9480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9520   -8.5090   24.1480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7120  -13.8570   24.0960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1050  -15.0260   26.2720 S   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0
+  6  5  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 12 11  1  0
+ 12  2  1  0
+ 12  4  2  0
+ 13 11  1  0
+ 13 10  1  0
+ 14  2  2  0
+ 15 14  1  0
+ 15  4  1  0
+ 15  3  1  0
+ 16 10  2  0
+ 17  9  1  0
+ 17  6  1  0
+M  END
+>  <id>  (63) 
+63
+
+>  <inchikey>  (63) 
+IMEUOMKMOTYOQB-UHFFFAOYSA-N
+
+>  <alias>  (63) 
+x0787a
+
+>  <smiles>  (63) 
+CCc1ccc(C(=O)NCc2cnn(C)c2)s1
+
+>  <path>  (63) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0787a/x0787a_hippo.pdb
+
+>  <distance_score>  (63) 
+None
+
+>  <energy_score>  (63) 
+None
+
+>  <compound>  (63) 
+IMEUOMKMOTYOQB-UHFFFAOYSA-N
+
+>  <compound_id>  (63) 
+29
+
+>  <target>  (63) 
+CpKRS
+
+>  <tags>  (63) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (63) 
+
+
+>  <reference>  (63) 
+
+
+>  <observation_longname>  (63) 
+LYSRSCPZ-x0787_A_805_v1
+
+>  <ConformerSites alias>  (63) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (63) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (63) 
+F2d - x0421/D/802
+
+>  <Quatassemblies alias>  (63) 
+A1 - dimer
+
+>  <Crystalforms alias>  (63) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (63) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (63) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (63) 
+F2d - LYSRSCPZ-x0421/D/802/1
+
+>  <Quatassemblies upload name>  (63) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (63) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (63) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (63) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (63) 
+F2d - x0421/D/802
+
+>  <Quatassemblies short tag>  (63) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (63) 
+F2 - P1211
+
+>  <Centroid res>  (63) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (63) 
+LYSRSCPZ-x0787
+
+>  <Pose>  (63) 
+x0787a
+
+$$$$
+x0787b
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    3.4300  -16.2180   29.3840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1250   -9.1200   21.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4360   -7.3820   24.6180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5700   -9.6540   23.9290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4890  -16.2630   28.2510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6860  -15.1410   27.2480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8610  -14.1040   26.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2910  -13.3430   25.8410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5490  -13.7360   25.4010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4460  -13.1980   24.3480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6260  -11.5930   22.4930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0750  -10.1840   22.7340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9550  -12.1520   23.6540 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6040   -8.0020   22.3880 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8840   -8.3600   23.6820 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5590  -13.6930   24.1640 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1170  -15.0930   26.2870 S   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0
+  6  5  1  0
+  7  6  2  0
+  8  7  1  0
+  9  8  2  0
+ 10  9  1  0
+ 12 11  1  0
+ 12  2  1  0
+ 12  4  2  0
+ 13 11  1  0
+ 13 10  1  0
+ 14  2  2  0
+ 15 14  1  0
+ 15  4  1  0
+ 15  3  1  0
+ 16 10  2  0
+ 17  9  1  0
+ 17  6  1  0
+M  END
+>  <id>  (64) 
+64
+
+>  <inchikey>  (64) 
+IMEUOMKMOTYOQB-UHFFFAOYSA-N
+
+>  <alias>  (64) 
+x0787b
+
+>  <smiles>  (64) 
+CCc1ccc(C(=O)NCc2cnn(C)c2)s1
+
+>  <path>  (64) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/CpKRS/aligned_files/x0787b/x0787b.pdb
+
+>  <distance_score>  (64) 
+None
+
+>  <energy_score>  (64) 
+None
+
+>  <compound>  (64) 
+IMEUOMKMOTYOQB-UHFFFAOYSA-N
+
+>  <compound_id>  (64) 
+29
+
+>  <target>  (64) 
+CpKRS
+
+>  <tags>  (64) 
+['hits', '[Other] upload_1 2024-12-12']
+
+>  <inspirations>  (64) 
+
+
+>  <reference>  (64) 
+
+
+>  <observation_longname>  (64) 
+LYSRSCPZ-x0787_A_901_v1
+
+>  <ConformerSites alias>  (64) 
+1a - x0602/B/701
+
+>  <CanonSites alias>  (64) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites alias>  (64) 
+F2a - x0407/A/805
+
+>  <Quatassemblies alias>  (64) 
+A1 - dimer
+
+>  <Crystalforms alias>  (64) 
+F2 - P1211
+
+>  <ConformerSites upload name>  (64) 
+1a - LYSRSCPZ-x0602/B/701
+
+>  <CanonSites upload name>  (64) 
+1 - LYSRSCPZ-x0602/B/701/1
+
+>  <CrystalformSites upload name>  (64) 
+F2a - LYSRSCPZ-x0407/A/805/1
+
+>  <Quatassemblies upload name>  (64) 
+A1 - dimer
+
+>  <Crystalforms upload name>  (64) 
+F2 - P1211
+
+>  <ConformerSites short tag>  (64) 
+1a - x0602/B/701
+
+>  <CanonSites short tag>  (64) 
+1 - x0602/B/701/1
+
+>  <CrystalformSites short tag>  (64) 
+F2a - x0407/A/805
+
+>  <Quatassemblies short tag>  (64) 
+A1 - dimer
+
+>  <Crystalforms short tag>  (64) 
+F2 - P1211
+
+>  <Centroid res>  (64) 
+LYSRSCPZ-x0602/B/520/B_v1
+
+>  <Experiment code>  (64) 
+LYSRSCPZ-x0787
+
+>  <Pose>  (64) 
+x0787a
+
+$$$$
