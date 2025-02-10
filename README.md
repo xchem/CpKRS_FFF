@@ -42,45 +42,45 @@ Skip this section if you have run a FFF campaign with this template before
 - [x] Setup target in BulkDock 
 
 ```
-cp -v TARGET_NAME.zip $BULK/TARGETS
+cp -v CpKRS.zip $BULK/TARGETS
 cd $BULK
-python -m bulkdock extract TARGET_NAME
-python -m bulkdock setup TARGET_NAME
+python -m bulkdock extract CpKRS
+python -m bulkdock setup CpKRS
 ```
 
-- [x] Copy the `aligned_files` directory from `$BULK/TARGETS/TARGET_NAME/aligned_files` into this repository
+- [x] Copy the `aligned_files` directory from `$BULK/TARGETS/CpKRS/aligned_files` into this repository
 
 ```
 cd - 
-cp -rv $BULK/TARGETS/TARGET_NAME/aligned_files .
+cp -rv $BULK/TARGETS/CpKRS/aligned_files .
 ```
 
 ## 3. Compound Design
 
-- [ ] run the notebook `hippo/1_merge_prep.ipynb`
+- [x] run the notebook `hippo/1_merge_prep.ipynb`
 
 ### Fragmenstein
 
 For each merging hypothesis
 
-- [ ] go to the fragmenstein subdirectory `cd fragmenstein`
-- [ ] queue fragmenstein job 
+- [x] go to the fragmenstein subdirectory `cd fragmenstein`
+- [x] queue fragmenstein job 
 
-```sb.sh --job-name "fragmenstein" $HOME2/slurm/run_bash_with_conda.sh run_fragmenstein.sh HYPOTHESIS_NICKNAME```
+```sb.sh --job-name "CpKRS_iter1_fragmenstein" $HOME2/slurm/run_bash_with_conda.sh run_fragmenstein.sh iter1```
 
-This will create outputs in the chosen HYPOTHESIS_NICKNAME subdirectory:
+This will create outputs in the chosen iter1 subdirectory:
 
-- **`HYPOTHESIS_NICKNAME_fstein_bulkdock_input.csv`: use this for BulkDock placement**
+- **`iter1_fstein_bulkdock_input.csv`: use this for BulkDock placement**
 - `output`: fragmenstein merge poses in subdirectories
 - `output.sdf`: fragmenstein merge ligand conformers
 - `output.csv`: fragmenstein merge metadata
 
-- [ ] placement with bulkdock
+- [ ] placement with bulkdock (running)
 
 ```
-cp -v HYPOTHESIS_NICKNAME/HYPOTHESIS_NICKNAME_fstein_bulkdock_input.csv $BULK/INPUTS/TARGET_HYPOTHESIS_NICKNAME_fstein.csv
+cp -v iter1/iter1_fstein_bulkdock_input.csv $BULK/INPUTS/TARGET_iter1_fstein.csv
 cd $BULK
-python -m bulkdock place TARGET_NAME INPUTS/TARGET_HYPOTHESIS_NICKNAME_fstein.csv
+python -m bulkdock place CpKRS INPUTS/TARGET_iter1_fstein.csv
 ```
 
 - [ ] monitor placements (until complete)
@@ -99,26 +99,26 @@ sb.sh --job-name "bulkdock_out" $HOME2/slurm/run_python.sh -m bulkdock to-fragal
 
 Running Fragment Knitting currently requires access to a specific VM known as `graph-sw-2`. If you don't have access, skip this section
 
-- [ ] `git add`, `commit` and `push` the contents of `aligned_files` and `knitwork` to the repository
-- [ ] `git clone` the repository on `graph-sw-2`
-- [ ] navigate to the `knitwork` subdirectory
+- [x] `git add`, `commit` and `push` the contents of `aligned_files` and `knitwork` to the repository
+- [x] `git clone` the repository on `graph-sw-2`
+- [x] navigate to the `knitwork` subdirectory
 
 Then, for each merging hypothesis:
 
-- [ ] Run the "fragment" step of FragmentKnitwork: `./run_fragment.sh HYPOTHESIS_NICKNAME`
-- [ ] Run the pure "knitting" step of FragmentKnitwork: `./run_knitwork_pure.sh HYPOTHESIS_NICKNAME`
-- [ ] Run the impure "knitting" step of FragmentKnitwork: `./run_knitwork_impure.sh HYPOTHESIS_NICKNAME`
-- [ ] Create the BulkDock inputs: `python to_bulkdock.py HYPOTHESIS_NICKNAME`
-- [ ] `git add`, `commit` and `push` the CSVs created by the previous step
-- [ ] back on `cepheus-slurm` pull the latest changes
-- [ ] Run BulkDock placement as for Fragmenstein above
+- [x] Run the "fragment" step of FragmentKnitwork: `./run_fragment.sh iter1`
+- [x] Run the pure "knitting" step of FragmentKnitwork: `./run_knitwork_pure.sh iter1`
+- [x] Run the impure "knitting" step of FragmentKnitwork: `./run_knitwork_impure.sh iter1`
+- [x] Create the BulkDock inputs: `python to_bulkdock.py iter1`
+- [x] `git add`, `commit` and `push` the CSVs created by the previous step
+- [x] back on `cepheus-slurm` pull the latest changes
+- [ ] Run BulkDock placement as for Fragmenstein above (running)
 
 ```
-cp -v HYPOTHESIS_NICKNAME/HYPOTHESIS_NICKNAME_knitwork_pure.csv $BULK/INPUTS/TARGET_HYPOTHESIS_NICKNAME_knitwork_pure.csv
-cp -v HYPOTHESIS_NICKNAME/HYPOTHESIS_NICKNAME_knitwork_impure.csv $BULK/INPUTS/TARGET_HYPOTHESIS_NICKNAME_knitwork_impure.csv
+cp -v iter1/iter1_knitwork_pure.csv $BULK/INPUTS/TARGET_iter1_knitwork_pure.csv
+cp -v iter1/iter1_knitwork_impure.csv $BULK/INPUTS/TARGET_iter1_knitwork_impure.csv
 cd $BULK
-python -m bulkdock place TARGET_NAME INPUTS/TARGET_HYPOTHESIS_NICKNAME_knitwork_pure.csv
-python -m bulkdock place TARGET_NAME INPUTS/TARGET_HYPOTHESIS_NICKNAME_knitwork_impure.csv
+python -m bulkdock place CpKRS INPUTS/TARGET_iter1_knitwork_pure.csv
+python -m bulkdock place CpKRS INPUTS/TARGET_iter1_knitwork_impure.csv
 ```
 
 - [ ] Export Fragalysis SDF as for Fragmenstein
