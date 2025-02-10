@@ -43,7 +43,7 @@ def create_bulkdock_inputs(subdir: str):
 
     df = pd.DataFrame(data)
 
-    outfile = subdir / f"{subdir.name}_fstein_bulkdock_input.csv"
+    outfile = f"{subdir.name}_fstein_bulkdock_input.csv"
     mrich.writing(outfile)
     df.to_csv(outfile, index=False)
 
