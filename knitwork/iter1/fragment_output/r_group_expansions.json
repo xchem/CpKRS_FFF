@@ -1,0 +1,501 @@
+{
+  "x0501a": {
+    "CCCC(=O)[Xe]": [],
+    "[Xe]N1CCOCC1": [],
+    "[Xe]c1ccccc1": [],
+    "O=CCCC[Xe]": []
+  },
+  "x0501b": {
+    "CCCC(=O)[Xe]": [],
+    "[Xe]N1CCOCC1": [],
+    "[Xe]c1ccccc1": [],
+    "O=CCCC[Xe]": []
+  },
+  "x0407c": {
+    "[Xe]C1CCCO1": [
+      "[Xe]c1nncs1"
+    ]
+  },
+  "x0407a": {
+    "[Xe]C1CCCO1": [
+      "[Xe]c1nncs1"
+    ]
+  },
+  "x0407b": {
+    "[Xe]C1CCCO1": [
+      "[Xe]c1nncs1"
+    ]
+  },
+  "x0414a": {},
+  "x0414b": {},
+  "x0419b": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "CC(=O)[Xe]"
+    ],
+    "[Xe]N1CCOCC1": []
+  },
+  "x0419a": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "CC(=O)[Xe]"
+    ],
+    "[Xe]N1CCOCC1": []
+  },
+  "x0419c": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "CC(=O)[Xe]"
+    ],
+    "[Xe]N1CCOCC1": []
+  },
+  "x0421a": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]n1cccn1": [
+      "Cl[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cn[nH]c1": [
+      "C[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cc[nH]n1": [
+      "Cl[Xe]",
+      "C[Xe]"
+    ]
+  },
+  "x0421b": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]n1cccn1": [
+      "Cl[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cn[nH]c1": [
+      "C[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cc[nH]n1": [
+      "Cl[Xe]",
+      "C[Xe]"
+    ]
+  },
+  "x0421c": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]n1cccn1": [
+      "Cl[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cn[nH]c1": [
+      "C[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cc[nH]n1": [
+      "Cl[Xe]",
+      "C[Xe]"
+    ]
+  },
+  "x0421d": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]n1cccn1": [
+      "Cl[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cn[nH]c1": [
+      "C[Xe]",
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cc[nH]n1": [
+      "Cl[Xe]",
+      "C[Xe]"
+    ]
+  },
+  "x0426b": {
+    "[Xe]c1cn[nH]c1": [
+      "CC[Xe]"
+    ],
+    "[Xe]n1cccn1": [
+      "O=CNC[Xe]"
+    ],
+    "[Xe]c1cccnc1": []
+  },
+  "x0426a": {
+    "[Xe]c1cn[nH]c1": [
+      "CC[Xe]"
+    ],
+    "[Xe]n1cccn1": [
+      "O=CNC[Xe]"
+    ],
+    "[Xe]c1cccnc1": []
+  },
+  "x0434a": {
+    "[Xe]c1ccccc1": [
+      "F[Xe]",
+      "CNC(=O)[Xe]"
+    ]
+  },
+  "x0436a": {
+    "[Xe]c1ccccc1": [
+      "NC(=S)N[Xe]",
+      "FC(F)(F)O[Xe]"
+    ]
+  },
+  "x0436b": {
+    "[Xe]c1ccccc1": [
+      "NC(=S)N[Xe]",
+      "FC(F)(F)O[Xe]"
+    ]
+  },
+  "x0456a": {
+    "[Xe]c1ccccn1": [
+      "C[Xe]"
+    ],
+    "CCNC(=O)[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]C1CC1": [],
+    "CC([Xe])NC=O": []
+  },
+  "x0472a": {
+    "[Xe]c1ccccc1": [
+      "F[Xe]",
+      "CN(C[Xe])S(N)(=O)=O"
+    ]
+  },
+  "x0472b": {
+    "[Xe]c1ccccc1": [
+      "F[Xe]",
+      "CN(C[Xe])S(N)(=O)=O"
+    ]
+  },
+  "x0472c": {
+    "[Xe]c1ccccc1": [
+      "F[Xe]",
+      "CN(C[Xe])S(N)(=O)=O"
+    ]
+  },
+  "x0479c": {
+    "[Xe]c1ccccc1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ],
+    "[Xe]C1CC1": [],
+    "[Xe]N1CCNCC1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ]
+  },
+  "x0479a": {
+    "[Xe]c1ccccc1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ],
+    "[Xe]C1CC1": [],
+    "[Xe]N1CCNCC1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ]
+  },
+  "x0479b": {
+    "[Xe]c1ccccc1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ],
+    "[Xe]C1CC1": [],
+    "[Xe]N1CCNCC1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ]
+  },
+  "x0483a": {
+    "[Xe]c1ccccc1": [
+      "NS(=O)(=O)[Xe]"
+    ],
+    "CC(=O)NCC[Xe]": [
+      "NS(=O)(=O)[Xe]"
+    ]
+  },
+  "x0485b": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "F[Xe]",
+      "C[Xe]"
+    ],
+    "[Xe]c1ccncc1": []
+  },
+  "x0485c": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "F[Xe]",
+      "C[Xe]"
+    ],
+    "[Xe]c1ccncc1": []
+  },
+  "x0485a": {
+    "[Xe]c1ccccc1": [
+      "O=CN[Xe]",
+      "F[Xe]",
+      "C[Xe]"
+    ],
+    "[Xe]c1ccncc1": []
+  },
+  "x0487b": {
+    "[Xe]c1ccccc1": [
+      "NS(=O)(=O)[Xe]"
+    ],
+    "CC(=O)NC[Xe]": [
+      "NS(=O)(=O)[Xe]"
+    ]
+  },
+  "x0487a": {
+    "[Xe]c1ccccc1": [
+      "NS(=O)(=O)[Xe]"
+    ],
+    "CC(=O)NC[Xe]": [
+      "NS(=O)(=O)[Xe]"
+    ]
+  },
+  "x0489a": {
+    "CCOC(=O)[Xe]": [],
+    "[Xe]C1CCNCC1": [],
+    "[Xe]c1cnccn1": [],
+    "[Xe]N1CCCCC1": []
+  },
+  "x0492a": {
+    "[Xe]c1ccco1": [],
+    "[Xe]c1cnccn1": []
+  },
+  "x0492b": {
+    "[Xe]c1ccco1": [],
+    "[Xe]c1cnccn1": []
+  },
+  "x0540a": {},
+  "x0540b": {},
+  "x0555a": {
+    "CC(C)CNC(=O)[Xe]": [
+      "CO[Xe]",
+      "Cl[Xe]"
+    ],
+    "[Xe]c1ccccc1": [
+      "CO[Xe]",
+      "Cl[Xe]"
+    ]
+  },
+  "x0602a": {
+    "[Xe]c1ccncc1": [
+      "CN(C)[Xe]"
+    ],
+    "CC(=O)NC[Xe]": [
+      "CN(C)[Xe]"
+    ],
+    "[Xe]c1ccccn1": []
+  },
+  "x0602b": {
+    "[Xe]c1ccncc1": [
+      "CN(C)[Xe]"
+    ],
+    "CC(=O)NC[Xe]": [
+      "CN(C)[Xe]"
+    ],
+    "[Xe]c1ccccn1": []
+  },
+  "x0606a": {
+    "[Xe]C1COCCO1": [],
+    "[Xe]c1ccccn1": []
+  },
+  "x0606b": {
+    "[Xe]C1COCCO1": [],
+    "[Xe]c1ccccn1": []
+  },
+  "x0606c": {
+    "[Xe]C1COCCO1": [],
+    "[Xe]c1ccccn1": []
+  },
+  "x0502b": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]c1cncs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": [
+      "CNC(=O)[Xe]"
+    ]
+  },
+  "x0502a": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]c1cncs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": [
+      "CNC(=O)[Xe]"
+    ]
+  },
+  "x0502c": {
+    "[Xe]C1CCCC1": [],
+    "[Xe]c1cncs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": [
+      "CNC(=O)[Xe]"
+    ]
+  },
+  "x0504c": {
+    "CN(C)C(=O)CNC(=O)[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cncs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": []
+  },
+  "x0504a": {
+    "CN(C)C(=O)CNC(=O)[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cncs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": []
+  },
+  "x0504b": {
+    "CN(C)C(=O)CNC(=O)[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cncs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": []
+  },
+  "x0634a": {
+    "[Xe]c1ccccn1": [
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cccnc1": [
+      "CCO[Xe]"
+    ]
+  },
+  "x0634b": {
+    "[Xe]c1ccccn1": [
+      "NC(=O)[Xe]"
+    ],
+    "[Xe]c1cccnc1": [
+      "CCO[Xe]"
+    ]
+  },
+  "x0639a": {
+    "[Xe]c1ccccc1": [
+      "Cl[Xe]",
+      "CNS(=O)(=O)[Xe]"
+    ]
+  },
+  "x0639b": {
+    "[Xe]c1ccccc1": [
+      "Cl[Xe]",
+      "CNS(=O)(=O)[Xe]"
+    ]
+  },
+  "x0639c": {
+    "[Xe]c1ccccc1": [
+      "Cl[Xe]",
+      "CNS(=O)(=O)[Xe]"
+    ]
+  },
+  "x0646a": {
+    "[Xe]c1cc[nH]n1": [],
+    "[Xe]c1nccs1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cscn1": [
+      "O=CNC[Xe]"
+    ]
+  },
+  "x0654a": {
+    "[Xe]c1ccccc1": [
+      "O=CNC[Xe]",
+      "N#C[Xe]"
+    ],
+    "[Xe]N1CCOCC1": []
+  },
+  "x0654b": {
+    "[Xe]c1ccccc1": [
+      "O=CNC[Xe]",
+      "N#C[Xe]"
+    ],
+    "[Xe]N1CCOCC1": []
+  },
+  "x0654c": {
+    "[Xe]c1ccccc1": [
+      "O=CNC[Xe]",
+      "N#C[Xe]"
+    ],
+    "[Xe]N1CCOCC1": []
+  },
+  "x0675a": {
+    "[Xe]N1CCOCC1": [],
+    "[Xe]c1ccccc1": [
+      "C[Xe]",
+      "Cl[Xe]"
+    ]
+  },
+  "x0675b": {
+    "[Xe]N1CCOCC1": [],
+    "[Xe]c1ccccc1": [
+      "C[Xe]",
+      "Cl[Xe]"
+    ]
+  },
+  "x0759b": {
+    "[Xe]c1ccno1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1ccon1": [
+      "C[Xe]"
+    ],
+    "CCNC(=O)[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cnoc1": [
+      "C[Xe]"
+    ],
+    "O=CNCC[Xe]": [],
+    "[Xe]C1=CCCCC1": []
+  },
+  "x0759a": {
+    "[Xe]c1ccno1": [
+      "C[Xe]"
+    ],
+    "[Xe]c1ccon1": [
+      "C[Xe]"
+    ],
+    "CCNC(=O)[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]c1cnoc1": [
+      "C[Xe]"
+    ],
+    "O=CNCC[Xe]": [],
+    "[Xe]C1=CCCCC1": []
+  },
+  "x0787a": {
+    "[Xe]c1cccs1": [
+      "CC[Xe]",
+      "CNC(=O)[Xe]"
+    ],
+    "[Xe]c1cn[nH]c1": [
+      "C[Xe]"
+    ],
+    "[Xe]n1cccn1": [
+      "O=CNC[Xe]"
+    ]
+  },
+  "x0787b": {
+    "[Xe]c1cccs1": [
+      "CC[Xe]",
+      "CNC(=O)[Xe]"
+    ],
+    "[Xe]c1cn[nH]c1": [
+      "C[Xe]"
+    ],
+    "[Xe]n1cccn1": [
+      "O=CNC[Xe]"
+    ]
+  }
+}
