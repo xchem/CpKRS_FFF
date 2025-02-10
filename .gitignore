@@ -174,3 +174,5 @@ cython_debug/
 **/knitwork_impure_output/*_impure_merge.json
 **/knitwork_impure_output/prolif_prioritized
 **/knitwork_temp
+
+fragmenstein/*/output
