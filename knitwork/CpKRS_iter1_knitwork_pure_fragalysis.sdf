@@ -94,6 +94,9 @@ fragmenstein_error
 >  <exports>  (1) 
 exports
 
+>  <score_inspiration>  (1) 
+score_inspiration
+
 >  <HIPPO Pose ID>  (1) 
 HIPPO Pose ID
 
@@ -167,44 +170,17 @@ $$$$
  16 12  1  0
  22 17  1  0
 M  END
+>  <original SMILES>  (1) 
+O=C(Cc1cncs1)OCCc1ccnn1-c1ccccc1
+
 >  <original ID>  (1) 
 WDZNYRFTLQSZDQ-UHFFFAOYSA-N
-
->  <SLURM_JOB_NAME>  (1) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch115
-
->  <distance_score>  (1) 
-0.981116
 
 >  <inchikey>  (1) 
 WDZNYRFTLQSZDQ-UHFFFAOYSA-N
 
->  <energy_score>  (1) 
--37.100923
-
->  <exports>  (1) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch115_302006.sdf']
-
->  <HIPPO Compound ID>  (1) 
-8414
-
->  <ref_pdb>  (1) 
-x0502b
-
->  <original SMILES>  (1) 
-O=C(Cc1cncs1)OCCc1ccnn1-c1ccccc1
-
->  <fragmenstein_outcome>  (1) 
-acceptable
-
->  <fragmenstein_runtime>  (1) 
-4.648124
-
->  <SLURM_JOB_ID>  (1) 
-302006
-
->  <csv_name>  (1) 
-CpKRS_iter1_knitwork_pure_split1000_batch115.csv
+>  <fragmenstein_error>  (1) 
+None
 
 >  <ref_mols>  (1) 
 x0502b,x0787b
@@ -212,23 +188,47 @@ x0502b,x0787b
 >  <HIPPO Pose ID>  (1) 
 1789
 
->  <fragmenstein_error>  (1) 
-None
-
 >  <fragmenstein_mode>  (1) 
 expansion
 
->  <alias>  (1) 
-None
+>  <fragmenstein_outcome>  (1) 
+acceptable
 
->  <tags>  (1) 
-['Fragmenstein placed']
+>  <name>  (1) 
+WDZNYRFTLQSZDQ-UHFFFAOYSA-N
 
 >  <scratch_subdir>  (1) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302006/C8414-P44
 
->  <name>  (1) 
-WDZNYRFTLQSZDQ-UHFFFAOYSA-N
+>  <distance_score>  (1) 
+0.981116
+
+>  <ref_pdb>  (1) 
+x0502b
+
+>  <alias>  (1) 
+None
+
+>  <HIPPO Compound ID>  (1) 
+8414
+
+>  <SLURM_JOB_ID>  (1) 
+302006
+
+>  <tags>  (1) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (1) 
+CpKRS_iter1_knitwork_pure_split1000_batch115.csv
+
+>  <energy_score>  (1) 
+-37.100923
+
+>  <score_inspiration>  (1) 
+0.373775
+
+>  <fragmenstein_runtime>  (1) 
+4.648124
 
 $$$$
 5256
@@ -273,44 +273,17 @@ $$$$
   9  4  1  0
  18 11  1  0
 M  END
+>  <original SMILES>  (2) 
+C[C@@H](Cc1cnccn1)Nc1cc(CO)ncn1
+
 >  <original ID>  (2) 
 NRSJBZYWOZHGJJ-VIFPVBQESA-N
-
->  <SLURM_JOB_NAME>  (2) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (2) 
-0.902777
 
 >  <inchikey>  (2) 
 NRSJBZYWOZHGJJ-VIFPVBQESA-N
 
->  <energy_score>  (2) 
--12.302349
-
->  <exports>  (2) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (2) 
-1083
-
->  <ref_pdb>  (2) 
-x0492b
-
->  <original SMILES>  (2) 
-C[C@@H](Cc1cnccn1)Nc1cc(CO)ncn1
-
->  <fragmenstein_outcome>  (2) 
-acceptable
-
->  <fragmenstein_runtime>  (2) 
-2.250591
-
->  <SLURM_JOB_ID>  (2) 
-301900
-
->  <csv_name>  (2) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (2) 
+None
 
 >  <ref_mols>  (2) 
 x0414a,x0492b
@@ -318,23 +291,47 @@ x0414a,x0492b
 >  <HIPPO Pose ID>  (2) 
 5256
 
->  <fragmenstein_error>  (2) 
-None
-
 >  <fragmenstein_mode>  (2) 
 expansion
 
->  <alias>  (2) 
-None
+>  <fragmenstein_outcome>  (2) 
+acceptable
 
->  <tags>  (2) 
-['Fragmenstein placed']
+>  <name>  (2) 
+NRSJBZYWOZHGJJ-VIFPVBQESA-N
 
 >  <scratch_subdir>  (2) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1083-P35
 
->  <name>  (2) 
-NRSJBZYWOZHGJJ-VIFPVBQESA-N
+>  <distance_score>  (2) 
+0.902777
+
+>  <ref_pdb>  (2) 
+x0492b
+
+>  <alias>  (2) 
+None
+
+>  <HIPPO Compound ID>  (2) 
+1083
+
+>  <SLURM_JOB_ID>  (2) 
+301900
+
+>  <tags>  (2) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (2) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (2) 
+-12.302349
+
+>  <score_inspiration>  (2) 
+0.532718
+
+>  <fragmenstein_runtime>  (2) 
+2.250591
 
 $$$$
 7925
@@ -373,44 +370,17 @@ $$$$
  15  2  1  0
  14 10  1  0
 M  END
+>  <original SMILES>  (3) 
+C=C1CCN(C[C@H](N)Cc2cncs2)C1
+
 >  <original ID>  (3) 
 QCMBMCNEXNYOFQ-SNVBAGLBSA-N
-
->  <SLURM_JOB_NAME>  (3) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (3) 
-0.863406
 
 >  <inchikey>  (3) 
 QCMBMCNEXNYOFQ-SNVBAGLBSA-N
 
->  <energy_score>  (3) 
--59.115315
-
->  <exports>  (3) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (3) 
-1192
-
->  <ref_pdb>  (3) 
-x0502a
-
->  <original SMILES>  (3) 
-C=C1CCN(C[C@H](N)Cc2cncs2)C1
-
->  <fragmenstein_outcome>  (3) 
-acceptable
-
->  <fragmenstein_runtime>  (3) 
-2.421151
-
->  <SLURM_JOB_ID>  (3) 
-301900
-
->  <csv_name>  (3) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (3) 
+None
 
 >  <ref_mols>  (3) 
 x0414a,x0502a
@@ -418,23 +388,47 @@ x0414a,x0502a
 >  <HIPPO Pose ID>  (3) 
 7925
 
->  <fragmenstein_error>  (3) 
-None
-
 >  <fragmenstein_mode>  (3) 
 expansion
 
->  <alias>  (3) 
-None
+>  <fragmenstein_outcome>  (3) 
+acceptable
 
->  <tags>  (3) 
-['Fragmenstein placed']
+>  <name>  (3) 
+QCMBMCNEXNYOFQ-SNVBAGLBSA-N
 
 >  <scratch_subdir>  (3) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1192-P45
 
->  <name>  (3) 
-QCMBMCNEXNYOFQ-SNVBAGLBSA-N
+>  <distance_score>  (3) 
+0.863406
+
+>  <ref_pdb>  (3) 
+x0502a
+
+>  <alias>  (3) 
+None
+
+>  <HIPPO Compound ID>  (3) 
+1192
+
+>  <SLURM_JOB_ID>  (3) 
+301900
+
+>  <tags>  (3) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (3) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (3) 
+-59.115315
+
+>  <score_inspiration>  (3) 
+0.559943
+
+>  <fragmenstein_runtime>  (3) 
+2.421151
 
 $$$$
 8542
@@ -473,44 +467,17 @@ $$$$
   8  4  1  0
  15 10  1  0
 M  END
+>  <original SMILES>  (4) 
+N[C@H](Cc1cncs1)CN1CC[C@@H](F)C1
+
 >  <original ID>  (4) 
 PCYGYXDHHYJWIB-RKDXNWHRSA-N
-
->  <SLURM_JOB_NAME>  (4) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (4) 
-0.789255
 
 >  <inchikey>  (4) 
 PCYGYXDHHYJWIB-RKDXNWHRSA-N
 
->  <energy_score>  (4) 
--71.560047
-
->  <exports>  (4) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (4) 
-1257
-
->  <ref_pdb>  (4) 
-x0502a
-
->  <original SMILES>  (4) 
-N[C@H](Cc1cncs1)CN1CC[C@@H](F)C1
-
->  <fragmenstein_outcome>  (4) 
-acceptable
-
->  <fragmenstein_runtime>  (4) 
-2.069632
-
->  <SLURM_JOB_ID>  (4) 
-301900
-
->  <csv_name>  (4) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (4) 
+None
 
 >  <ref_mols>  (4) 
 x0414a,x0502a
@@ -518,23 +485,47 @@ x0414a,x0502a
 >  <HIPPO Pose ID>  (4) 
 8542
 
->  <fragmenstein_error>  (4) 
-None
-
 >  <fragmenstein_mode>  (4) 
 expansion
 
->  <alias>  (4) 
-None
+>  <fragmenstein_outcome>  (4) 
+acceptable
 
->  <tags>  (4) 
-['Fragmenstein placed']
+>  <name>  (4) 
+PCYGYXDHHYJWIB-RKDXNWHRSA-N
 
 >  <scratch_subdir>  (4) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1257-P45
 
->  <name>  (4) 
-PCYGYXDHHYJWIB-RKDXNWHRSA-N
+>  <distance_score>  (4) 
+0.789255
+
+>  <ref_pdb>  (4) 
+x0502a
+
+>  <alias>  (4) 
+None
+
+>  <HIPPO Compound ID>  (4) 
+1257
+
+>  <SLURM_JOB_ID>  (4) 
+301900
+
+>  <tags>  (4) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (4) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (4) 
+-71.560047
+
+>  <score_inspiration>  (4) 
+0.569808
+
+>  <fragmenstein_runtime>  (4) 
+2.069632
 
 $$$$
 9225
@@ -574,44 +565,17 @@ $$$$
  15 10  1  0
  14 12  1  0
 M  END
+>  <original SMILES>  (5) 
+N[C@@H](Cc1cncs1)CN1C[C@H]2C[C@H]2C1
+
 >  <original ID>  (5) 
 WYFMZCMUDFTPIA-AEJSXWLSSA-N
-
->  <SLURM_JOB_NAME>  (5) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (5) 
-0.960768
 
 >  <inchikey>  (5) 
 WYFMZCMUDFTPIA-AEJSXWLSSA-N
 
->  <energy_score>  (5) 
--78.812046
-
->  <exports>  (5) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (5) 
-1189
-
->  <ref_pdb>  (5) 
-x0502c
-
->  <original SMILES>  (5) 
-N[C@@H](Cc1cncs1)CN1C[C@H]2C[C@H]2C1
-
->  <fragmenstein_outcome>  (5) 
-acceptable
-
->  <fragmenstein_runtime>  (5) 
-2.117117
-
->  <SLURM_JOB_ID>  (5) 
-301900
-
->  <csv_name>  (5) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (5) 
+None
 
 >  <ref_mols>  (5) 
 x0414a,x0502c
@@ -619,23 +583,47 @@ x0414a,x0502c
 >  <HIPPO Pose ID>  (5) 
 9225
 
->  <fragmenstein_error>  (5) 
-None
-
 >  <fragmenstein_mode>  (5) 
 expansion
 
->  <alias>  (5) 
-None
+>  <fragmenstein_outcome>  (5) 
+acceptable
 
->  <tags>  (5) 
-['Fragmenstein placed']
+>  <name>  (5) 
+WYFMZCMUDFTPIA-AEJSXWLSSA-N
 
 >  <scratch_subdir>  (5) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1189-P46
 
->  <name>  (5) 
-WYFMZCMUDFTPIA-AEJSXWLSSA-N
+>  <distance_score>  (5) 
+0.960768
+
+>  <ref_pdb>  (5) 
+x0502c
+
+>  <alias>  (5) 
+None
+
+>  <HIPPO Compound ID>  (5) 
+1189
+
+>  <SLURM_JOB_ID>  (5) 
+301900
+
+>  <tags>  (5) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (5) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (5) 
+-78.812046
+
+>  <score_inspiration>  (5) 
+0.531652
+
+>  <fragmenstein_runtime>  (5) 
+2.117117
 
 $$$$
 9236
@@ -674,44 +662,17 @@ $$$$
  15  2  1  0
  14 10  1  0
 M  END
+>  <original SMILES>  (6) 
+C=C1CCN(C[C@@H](N)Cc2cncs2)C1
+
 >  <original ID>  (6) 
 QCMBMCNEXNYOFQ-JTQLQIEISA-N
-
->  <SLURM_JOB_NAME>  (6) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (6) 
-0.816265
 
 >  <inchikey>  (6) 
 QCMBMCNEXNYOFQ-JTQLQIEISA-N
 
->  <energy_score>  (6) 
--65.393985
-
->  <exports>  (6) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (6) 
-1192
-
->  <ref_pdb>  (6) 
-x0502c
-
->  <original SMILES>  (6) 
-C=C1CCN(C[C@@H](N)Cc2cncs2)C1
-
->  <fragmenstein_outcome>  (6) 
-acceptable
-
->  <fragmenstein_runtime>  (6) 
-3.419573
-
->  <SLURM_JOB_ID>  (6) 
-301900
-
->  <csv_name>  (6) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (6) 
+None
 
 >  <ref_mols>  (6) 
 x0414a,x0502c
@@ -719,23 +680,47 @@ x0414a,x0502c
 >  <HIPPO Pose ID>  (6) 
 9236
 
->  <fragmenstein_error>  (6) 
-None
-
 >  <fragmenstein_mode>  (6) 
 expansion
 
->  <alias>  (6) 
-None
+>  <fragmenstein_outcome>  (6) 
+acceptable
 
->  <tags>  (6) 
-['Fragmenstein placed']
+>  <name>  (6) 
+QCMBMCNEXNYOFQ-JTQLQIEISA-N
 
 >  <scratch_subdir>  (6) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1192-P46
 
->  <name>  (6) 
-QCMBMCNEXNYOFQ-JTQLQIEISA-N
+>  <distance_score>  (6) 
+0.816265
+
+>  <ref_pdb>  (6) 
+x0502c
+
+>  <alias>  (6) 
+None
+
+>  <HIPPO Compound ID>  (6) 
+1192
+
+>  <SLURM_JOB_ID>  (6) 
+301900
+
+>  <tags>  (6) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (6) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (6) 
+-65.393985
+
+>  <score_inspiration>  (6) 
+0.529781
+
+>  <fragmenstein_runtime>  (6) 
+3.419573
 
 $$$$
 9366
@@ -774,44 +759,17 @@ $$$$
   8  4  1  0
  15 10  1  0
 M  END
+>  <original SMILES>  (7) 
+N[C@H](Cc1cncs1)CN1CC[C@H](F)C1
+
 >  <original ID>  (7) 
 PCYGYXDHHYJWIB-DTWKUNHWSA-N
-
->  <SLURM_JOB_NAME>  (7) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (7) 
-0.833326
 
 >  <inchikey>  (7) 
 PCYGYXDHHYJWIB-DTWKUNHWSA-N
 
->  <energy_score>  (7) 
--71.40314
-
->  <exports>  (7) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (7) 
-1257
-
->  <ref_pdb>  (7) 
-x0502c
-
->  <original SMILES>  (7) 
-N[C@H](Cc1cncs1)CN1CC[C@H](F)C1
-
->  <fragmenstein_outcome>  (7) 
-acceptable
-
->  <fragmenstein_runtime>  (7) 
-2.061391
-
->  <SLURM_JOB_ID>  (7) 
-301900
-
->  <csv_name>  (7) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (7) 
+None
 
 >  <ref_mols>  (7) 
 x0414a,x0502c
@@ -819,23 +777,47 @@ x0414a,x0502c
 >  <HIPPO Pose ID>  (7) 
 9366
 
->  <fragmenstein_error>  (7) 
-None
-
 >  <fragmenstein_mode>  (7) 
 expansion
 
->  <alias>  (7) 
-None
+>  <fragmenstein_outcome>  (7) 
+acceptable
 
->  <tags>  (7) 
-['Fragmenstein placed']
+>  <name>  (7) 
+PCYGYXDHHYJWIB-DTWKUNHWSA-N
 
 >  <scratch_subdir>  (7) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1257-P46
 
->  <name>  (7) 
-PCYGYXDHHYJWIB-DTWKUNHWSA-N
+>  <distance_score>  (7) 
+0.833326
+
+>  <ref_pdb>  (7) 
+x0502c
+
+>  <alias>  (7) 
+None
+
+>  <HIPPO Compound ID>  (7) 
+1257
+
+>  <SLURM_JOB_ID>  (7) 
+301900
+
+>  <tags>  (7) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (7) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (7) 
+-71.40314
+
+>  <score_inspiration>  (7) 
+0.54208
+
+>  <fragmenstein_runtime>  (7) 
+2.061391
 
 $$$$
 9368
@@ -874,44 +856,17 @@ $$$$
  15  2  1  0
  14 10  1  0
 M  END
+>  <original SMILES>  (8) 
+C[C@H]1CCN(C[C@@H](N)Cc2cncs2)C1
+
 >  <original ID>  (8) 
 NYGAVMKMZIGVKL-UWVGGRQHSA-N
-
->  <SLURM_JOB_NAME>  (8) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch009
-
->  <distance_score>  (8) 
-0.948863
 
 >  <inchikey>  (8) 
 NYGAVMKMZIGVKL-UWVGGRQHSA-N
 
->  <energy_score>  (8) 
--77.857821
-
->  <exports>  (8) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf']
-
->  <HIPPO Compound ID>  (8) 
-1258
-
->  <ref_pdb>  (8) 
-x0502c
-
->  <original SMILES>  (8) 
-C[C@H]1CCN(C[C@@H](N)Cc2cncs2)C1
-
->  <fragmenstein_outcome>  (8) 
-acceptable
-
->  <fragmenstein_runtime>  (8) 
-2.719226
-
->  <SLURM_JOB_ID>  (8) 
-301900
-
->  <csv_name>  (8) 
-CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+>  <fragmenstein_error>  (8) 
+None
 
 >  <ref_mols>  (8) 
 x0414a,x0502c
@@ -919,23 +874,47 @@ x0414a,x0502c
 >  <HIPPO Pose ID>  (8) 
 9368
 
->  <fragmenstein_error>  (8) 
-None
-
 >  <fragmenstein_mode>  (8) 
 expansion
 
->  <alias>  (8) 
-None
+>  <fragmenstein_outcome>  (8) 
+acceptable
 
->  <tags>  (8) 
-['Fragmenstein placed']
+>  <name>  (8) 
+NYGAVMKMZIGVKL-UWVGGRQHSA-N
 
 >  <scratch_subdir>  (8) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/301900/C1258-P46
 
->  <name>  (8) 
-NYGAVMKMZIGVKL-UWVGGRQHSA-N
+>  <distance_score>  (8) 
+0.948863
+
+>  <ref_pdb>  (8) 
+x0502c
+
+>  <alias>  (8) 
+None
+
+>  <HIPPO Compound ID>  (8) 
+1258
+
+>  <SLURM_JOB_ID>  (8) 
+301900
+
+>  <tags>  (8) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (8) 
+CpKRS_iter1_knitwork_pure_split1000_batch009.csv
+
+>  <energy_score>  (8) 
+-77.857821
+
+>  <score_inspiration>  (8) 
+0.514102
+
+>  <fragmenstein_runtime>  (8) 
+2.719226
 
 $$$$
 10518
@@ -963,44 +942,17 @@ $$$$
   9 10  2  0
  10  5  1  0
 M  END
+>  <original SMILES>  (9) 
+C[C@H](N)Cc1ccccn1
+
 >  <original ID>  (9) 
 OKWKKGILOAMUGL-ZETCQYMHSA-N
-
->  <SLURM_JOB_NAME>  (9) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch103
-
->  <distance_score>  (9) 
-0.943468
 
 >  <inchikey>  (9) 
 OKWKKGILOAMUGL-ZETCQYMHSA-N
 
->  <energy_score>  (9) 
--7.926724
-
->  <exports>  (9) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf']
-
->  <HIPPO Compound ID>  (9) 
-3555
-
->  <ref_pdb>  (9) 
-x0634b
-
->  <original SMILES>  (9) 
-C[C@H](N)Cc1ccccn1
-
->  <fragmenstein_outcome>  (9) 
-acceptable
-
->  <fragmenstein_runtime>  (9) 
-3.859197
-
->  <SLURM_JOB_ID>  (9) 
-304143
-
->  <csv_name>  (9) 
-CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+>  <fragmenstein_error>  (9) 
+None
 
 >  <ref_mols>  (9) 
 x0414a,x0634b
@@ -1008,23 +960,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (9) 
 10518
 
->  <fragmenstein_error>  (9) 
-None
-
 >  <fragmenstein_mode>  (9) 
 expansion
 
->  <alias>  (9) 
-None
+>  <fragmenstein_outcome>  (9) 
+acceptable
 
->  <tags>  (9) 
-['Fragmenstein placed']
+>  <name>  (9) 
+OKWKKGILOAMUGL-ZETCQYMHSA-N
 
 >  <scratch_subdir>  (9) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304143/C3555-P51
 
->  <name>  (9) 
-OKWKKGILOAMUGL-ZETCQYMHSA-N
+>  <distance_score>  (9) 
+0.943468
+
+>  <ref_pdb>  (9) 
+x0634b
+
+>  <alias>  (9) 
+None
+
+>  <HIPPO Compound ID>  (9) 
+3555
+
+>  <SLURM_JOB_ID>  (9) 
+304143
+
+>  <tags>  (9) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (9) 
+CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+
+>  <energy_score>  (9) 
+-7.926724
+
+>  <score_inspiration>  (9) 
+0.638507
+
+>  <fragmenstein_runtime>  (9) 
+3.859197
 
 $$$$
 13891
@@ -1080,44 +1056,17 @@ $$$$
  16 11  1  0
  22 17  1  0
 M  END
+>  <original SMILES>  (10) 
+CCNC(=O)[C@@H]1CCCN(c2nccnc2-c2ccccc2)C1
+
 >  <original ID>  (10) 
 NYHRRDRZJJGKRJ-OAHLLOKOSA-N
-
->  <SLURM_JOB_NAME>  (10) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch054
-
->  <distance_score>  (10) 
-0.723252
 
 >  <inchikey>  (10) 
 NYHRRDRZJJGKRJ-OAHLLOKOSA-N
 
->  <energy_score>  (10) 
--12.703363
-
->  <exports>  (10) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch054_304094.sdf']
-
->  <HIPPO Compound ID>  (10) 
-14108
-
->  <ref_pdb>  (10) 
-x0456a
-
->  <original SMILES>  (10) 
-CCNC(=O)[C@@H]1CCCN(c2nccnc2-c2ccccc2)C1
-
->  <fragmenstein_outcome>  (10) 
-acceptable
-
->  <fragmenstein_runtime>  (10) 
-29.434076
-
->  <SLURM_JOB_ID>  (10) 
-304094
-
->  <csv_name>  (10) 
-CpKRS_iter1_knitwork_pure_split1000_batch054.csv
+>  <fragmenstein_error>  (10) 
+None
 
 >  <ref_mols>  (10) 
 x0456a,x0492b
@@ -1125,23 +1074,47 @@ x0456a,x0492b
 >  <HIPPO Pose ID>  (10) 
 13891
 
->  <fragmenstein_error>  (10) 
-None
-
 >  <fragmenstein_mode>  (10) 
 expansion
 
->  <alias>  (10) 
-None
+>  <fragmenstein_outcome>  (10) 
+acceptable
 
->  <tags>  (10) 
-['Fragmenstein placed']
+>  <name>  (10) 
+NYHRRDRZJJGKRJ-OAHLLOKOSA-N
 
 >  <scratch_subdir>  (10) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304094/C14108-P20
 
->  <name>  (10) 
-NYHRRDRZJJGKRJ-OAHLLOKOSA-N
+>  <distance_score>  (10) 
+0.723252
+
+>  <ref_pdb>  (10) 
+x0456a
+
+>  <alias>  (10) 
+None
+
+>  <HIPPO Compound ID>  (10) 
+14108
+
+>  <SLURM_JOB_ID>  (10) 
+304094
+
+>  <tags>  (10) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (10) 
+CpKRS_iter1_knitwork_pure_split1000_batch054.csv
+
+>  <energy_score>  (10) 
+-12.703363
+
+>  <score_inspiration>  (10) 
+0.279104
+
+>  <fragmenstein_runtime>  (10) 
+29.434076
 
 $$$$
 16102
@@ -1184,44 +1157,17 @@ $$$$
  17  5  1  0
  15 10  1  0
 M  END
+>  <original SMILES>  (11) 
+C[C@H](N)Cc1ccnc(-c2ncccc2Br)n1
+
 >  <original ID>  (11) 
 SSSYFELTSAMCRT-QMMMGPOBSA-N
-
->  <SLURM_JOB_NAME>  (11) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch103
-
->  <distance_score>  (11) 
-0.669612
 
 >  <inchikey>  (11) 
 SSSYFELTSAMCRT-QMMMGPOBSA-N
 
->  <energy_score>  (11) 
--35.441767
-
->  <exports>  (11) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf']
-
->  <HIPPO Compound ID>  (11) 
-3614
-
->  <ref_pdb>  (11) 
-x0634b
-
->  <original SMILES>  (11) 
-C[C@H](N)Cc1ccnc(-c2ncccc2Br)n1
-
->  <fragmenstein_outcome>  (11) 
-acceptable
-
->  <fragmenstein_runtime>  (11) 
-5.080982
-
->  <SLURM_JOB_ID>  (11) 
-304143
-
->  <csv_name>  (11) 
-CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+>  <fragmenstein_error>  (11) 
+None
 
 >  <ref_mols>  (11) 
 x0414a,x0634b
@@ -1229,23 +1175,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (11) 
 16102
 
->  <fragmenstein_error>  (11) 
-None
-
 >  <fragmenstein_mode>  (11) 
 expansion
 
->  <alias>  (11) 
-None
+>  <fragmenstein_outcome>  (11) 
+acceptable
 
->  <tags>  (11) 
-['Fragmenstein placed']
+>  <name>  (11) 
+SSSYFELTSAMCRT-QMMMGPOBSA-N
 
 >  <scratch_subdir>  (11) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304143/C3614-P51
 
->  <name>  (11) 
-SSSYFELTSAMCRT-QMMMGPOBSA-N
+>  <distance_score>  (11) 
+0.669612
+
+>  <ref_pdb>  (11) 
+x0634b
+
+>  <alias>  (11) 
+None
+
+>  <HIPPO Compound ID>  (11) 
+3614
+
+>  <SLURM_JOB_ID>  (11) 
+304143
+
+>  <tags>  (11) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (11) 
+CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+
+>  <energy_score>  (11) 
+-35.441767
+
+>  <score_inspiration>  (11) 
+0.546766
+
+>  <fragmenstein_runtime>  (11) 
+5.080982
 
 $$$$
 16284
@@ -1288,44 +1258,17 @@ $$$$
  17  5  1  0
  16 10  1  0
 M  END
+>  <original SMILES>  (12) 
+C[C@H](N)Cc1ccnc(-c2ccc(Cl)cn2)n1
+
 >  <original ID>  (12) 
 UJCSGVLOPZMDJD-QMMMGPOBSA-N
-
->  <SLURM_JOB_NAME>  (12) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch103
-
->  <distance_score>  (12) 
-0.658834
 
 >  <inchikey>  (12) 
 UJCSGVLOPZMDJD-QMMMGPOBSA-N
 
->  <energy_score>  (12) 
--10.562826
-
->  <exports>  (12) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf']
-
->  <HIPPO Compound ID>  (12) 
-3616
-
->  <ref_pdb>  (12) 
-x0634b
-
->  <original SMILES>  (12) 
-C[C@H](N)Cc1ccnc(-c2ccc(Cl)cn2)n1
-
->  <fragmenstein_outcome>  (12) 
-acceptable
-
->  <fragmenstein_runtime>  (12) 
-4.916618
-
->  <SLURM_JOB_ID>  (12) 
-304143
-
->  <csv_name>  (12) 
-CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+>  <fragmenstein_error>  (12) 
+None
 
 >  <ref_mols>  (12) 
 x0414a,x0634b
@@ -1333,23 +1276,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (12) 
 16284
 
->  <fragmenstein_error>  (12) 
-None
-
 >  <fragmenstein_mode>  (12) 
 expansion
 
->  <alias>  (12) 
-None
+>  <fragmenstein_outcome>  (12) 
+acceptable
 
->  <tags>  (12) 
-['Fragmenstein placed']
+>  <name>  (12) 
+UJCSGVLOPZMDJD-QMMMGPOBSA-N
 
 >  <scratch_subdir>  (12) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304143/C3616-P51
 
->  <name>  (12) 
-UJCSGVLOPZMDJD-QMMMGPOBSA-N
+>  <distance_score>  (12) 
+0.658834
+
+>  <ref_pdb>  (12) 
+x0634b
+
+>  <alias>  (12) 
+None
+
+>  <HIPPO Compound ID>  (12) 
+3616
+
+>  <SLURM_JOB_ID>  (12) 
+304143
+
+>  <tags>  (12) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (12) 
+CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+
+>  <energy_score>  (12) 
+-10.562826
+
+>  <score_inspiration>  (12) 
+0.640891
+
+>  <fragmenstein_runtime>  (12) 
+4.916618
 
 $$$$
 16508
@@ -1392,44 +1359,17 @@ $$$$
  17  5  1  0
  16 10  1  0
 M  END
+>  <original SMILES>  (13) 
+C[C@@H](N)Cc1ccnc(-c2ccc(Br)cn2)n1
+
 >  <original ID>  (13) 
 KHZCRBCBTIIALF-MRVPVSSYSA-N
-
->  <SLURM_JOB_NAME>  (13) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch103
-
->  <distance_score>  (13) 
-0.817955
 
 >  <inchikey>  (13) 
 KHZCRBCBTIIALF-MRVPVSSYSA-N
 
->  <energy_score>  (13) 
--13.659148
-
->  <exports>  (13) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf']
-
->  <HIPPO Compound ID>  (13) 
-3618
-
->  <ref_pdb>  (13) 
-x0634b
-
->  <original SMILES>  (13) 
-C[C@@H](N)Cc1ccnc(-c2ccc(Br)cn2)n1
-
->  <fragmenstein_outcome>  (13) 
-acceptable
-
->  <fragmenstein_runtime>  (13) 
-4.909985
-
->  <SLURM_JOB_ID>  (13) 
-304143
-
->  <csv_name>  (13) 
-CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+>  <fragmenstein_error>  (13) 
+None
 
 >  <ref_mols>  (13) 
 x0414a,x0634b
@@ -1437,23 +1377,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (13) 
 16508
 
->  <fragmenstein_error>  (13) 
-None
-
 >  <fragmenstein_mode>  (13) 
 expansion
 
->  <alias>  (13) 
-None
+>  <fragmenstein_outcome>  (13) 
+acceptable
 
->  <tags>  (13) 
-['Fragmenstein placed']
+>  <name>  (13) 
+KHZCRBCBTIIALF-MRVPVSSYSA-N
 
 >  <scratch_subdir>  (13) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304143/C3618-P51
 
->  <name>  (13) 
-KHZCRBCBTIIALF-MRVPVSSYSA-N
+>  <distance_score>  (13) 
+0.817955
+
+>  <ref_pdb>  (13) 
+x0634b
+
+>  <alias>  (13) 
+None
+
+>  <HIPPO Compound ID>  (13) 
+3618
+
+>  <SLURM_JOB_ID>  (13) 
+304143
+
+>  <tags>  (13) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (13) 
+CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+
+>  <energy_score>  (13) 
+-13.659148
+
+>  <score_inspiration>  (13) 
+0.600645
+
+>  <fragmenstein_runtime>  (13) 
+4.909985
 
 $$$$
 16615
@@ -1509,44 +1473,17 @@ $$$$
  16 11  1  0
  22 17  1  0
 M  END
+>  <original SMILES>  (14) 
+CCNC(=O)[C@@H]1CCCN(c2nccnc2-c2ccccc2)C1
+
 >  <original ID>  (14) 
 NYHRRDRZJJGKRJ-OAHLLOKOSA-N
-
->  <SLURM_JOB_NAME>  (14) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch051
-
->  <distance_score>  (14) 
-0.723252
 
 >  <inchikey>  (14) 
 NYHRRDRZJJGKRJ-OAHLLOKOSA-N
 
->  <energy_score>  (14) 
--12.703363
-
->  <exports>  (14) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch051_304091.sdf']
-
->  <HIPPO Compound ID>  (14) 
-14108
-
->  <ref_pdb>  (14) 
-x0456a
-
->  <original SMILES>  (14) 
-CCNC(=O)[C@@H]1CCCN(c2nccnc2-c2ccccc2)C1
-
->  <fragmenstein_outcome>  (14) 
-acceptable
-
->  <fragmenstein_runtime>  (14) 
-30.091926
-
->  <SLURM_JOB_ID>  (14) 
-304091
-
->  <csv_name>  (14) 
-CpKRS_iter1_knitwork_pure_split1000_batch051.csv
+>  <fragmenstein_error>  (14) 
+None
 
 >  <ref_mols>  (14) 
 x0456a,x0492a
@@ -1554,23 +1491,47 @@ x0456a,x0492a
 >  <HIPPO Pose ID>  (14) 
 16615
 
->  <fragmenstein_error>  (14) 
-None
-
 >  <fragmenstein_mode>  (14) 
 expansion
 
->  <alias>  (14) 
-None
+>  <fragmenstein_outcome>  (14) 
+acceptable
 
->  <tags>  (14) 
-['Fragmenstein placed']
+>  <name>  (14) 
+NYHRRDRZJJGKRJ-OAHLLOKOSA-N
 
 >  <scratch_subdir>  (14) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304091/C14108-P20
 
->  <name>  (14) 
-NYHRRDRZJJGKRJ-OAHLLOKOSA-N
+>  <distance_score>  (14) 
+0.723252
+
+>  <ref_pdb>  (14) 
+x0456a
+
+>  <alias>  (14) 
+None
+
+>  <HIPPO Compound ID>  (14) 
+14108
+
+>  <SLURM_JOB_ID>  (14) 
+304091
+
+>  <tags>  (14) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (14) 
+CpKRS_iter1_knitwork_pure_split1000_batch051.csv
+
+>  <energy_score>  (14) 
+-12.703363
+
+>  <score_inspiration>  (14) 
+0.279104
+
+>  <fragmenstein_runtime>  (14) 
+30.091926
 
 $$$$
 16976
@@ -1613,44 +1574,17 @@ $$$$
  17  2  1  0
  16  7  1  0
 M  END
+>  <original SMILES>  (15) 
+Cc1cccc(-c2nccc(C[C@@H](C)N)n2)n1
+
 >  <original ID>  (15) 
 RIRTWUYARZZKGA-SECBINFHSA-N
-
->  <SLURM_JOB_NAME>  (15) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch103
-
->  <distance_score>  (15) 
-0.897972
 
 >  <inchikey>  (15) 
 RIRTWUYARZZKGA-SECBINFHSA-N
 
->  <energy_score>  (15) 
--14.581079
-
->  <exports>  (15) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf']
-
->  <HIPPO Compound ID>  (15) 
-3623
-
->  <ref_pdb>  (15) 
-x0634b
-
->  <original SMILES>  (15) 
-Cc1cccc(-c2nccc(C[C@@H](C)N)n2)n1
-
->  <fragmenstein_outcome>  (15) 
-acceptable
-
->  <fragmenstein_runtime>  (15) 
-6.017352
-
->  <SLURM_JOB_ID>  (15) 
-304143
-
->  <csv_name>  (15) 
-CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+>  <fragmenstein_error>  (15) 
+None
 
 >  <ref_mols>  (15) 
 x0414a,x0634b
@@ -1658,23 +1592,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (15) 
 16976
 
->  <fragmenstein_error>  (15) 
-None
-
 >  <fragmenstein_mode>  (15) 
 expansion
 
->  <alias>  (15) 
-None
+>  <fragmenstein_outcome>  (15) 
+acceptable
 
->  <tags>  (15) 
-['Fragmenstein placed']
+>  <name>  (15) 
+RIRTWUYARZZKGA-SECBINFHSA-N
 
 >  <scratch_subdir>  (15) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304143/C3623-P51
 
->  <name>  (15) 
-RIRTWUYARZZKGA-SECBINFHSA-N
+>  <distance_score>  (15) 
+0.897972
+
+>  <ref_pdb>  (15) 
+x0634b
+
+>  <alias>  (15) 
+None
+
+>  <HIPPO Compound ID>  (15) 
+3623
+
+>  <SLURM_JOB_ID>  (15) 
+304143
+
+>  <tags>  (15) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (15) 
+CpKRS_iter1_knitwork_pure_split1000_batch103.csv
+
+>  <energy_score>  (15) 
+-14.581079
+
+>  <score_inspiration>  (15) 
+0.52052
+
+>  <fragmenstein_runtime>  (15) 
+6.017352
 
 $$$$
 17958
@@ -1713,44 +1671,17 @@ $$$$
  10  6  1  0
  15 11  1  0
 M  END
+>  <original SMILES>  (16) 
+C[C@@H](NCCc1cscn1)[C@H]1CCCO1
+
 >  <original ID>  (16) 
 VKZZAYWZJFCRDH-MWLCHTKSSA-N
-
->  <SLURM_JOB_NAME>  (16) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch004
-
->  <distance_score>  (16) 
-0.984738
 
 >  <inchikey>  (16) 
 VKZZAYWZJFCRDH-MWLCHTKSSA-N
 
->  <energy_score>  (16) 
--53.99762
-
->  <exports>  (16) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch004_304044.sdf']
-
->  <HIPPO Compound ID>  (16) 
-26908
-
->  <ref_pdb>  (16) 
-x0407c
-
->  <original SMILES>  (16) 
-C[C@@H](NCCc1cscn1)[C@H]1CCCO1
-
->  <fragmenstein_outcome>  (16) 
-acceptable
-
->  <fragmenstein_runtime>  (16) 
-3.830639
-
->  <SLURM_JOB_ID>  (16) 
-304044
-
->  <csv_name>  (16) 
-CpKRS_iter1_knitwork_pure_split1000_batch004.csv
+>  <fragmenstein_error>  (16) 
+None
 
 >  <ref_mols>  (16) 
 x0407c,x0504c
@@ -1758,23 +1689,47 @@ x0407c,x0504c
 >  <HIPPO Pose ID>  (16) 
 17958
 
->  <fragmenstein_error>  (16) 
-None
-
 >  <fragmenstein_mode>  (16) 
 expansion
 
->  <alias>  (16) 
-None
+>  <fragmenstein_outcome>  (16) 
+acceptable
 
->  <tags>  (16) 
-['Fragmenstein placed']
+>  <name>  (16) 
+VKZZAYWZJFCRDH-MWLCHTKSSA-N
 
 >  <scratch_subdir>  (16) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304044/C26908-P3
 
->  <name>  (16) 
-VKZZAYWZJFCRDH-MWLCHTKSSA-N
+>  <distance_score>  (16) 
+0.984738
+
+>  <ref_pdb>  (16) 
+x0407c
+
+>  <alias>  (16) 
+None
+
+>  <HIPPO Compound ID>  (16) 
+26908
+
+>  <SLURM_JOB_ID>  (16) 
+304044
+
+>  <tags>  (16) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (16) 
+CpKRS_iter1_knitwork_pure_split1000_batch004.csv
+
+>  <energy_score>  (16) 
+-53.99762
+
+>  <score_inspiration>  (16) 
+0.650447
+
+>  <fragmenstein_runtime>  (16) 
+3.830639
 
 $$$$
 18169
@@ -1813,44 +1768,17 @@ $$$$
  10  6  1  0
  15 11  1  0
 M  END
+>  <original SMILES>  (17) 
+C[C@@H](NCCc1cscn1)[C@H]1CCCO1
+
 >  <original ID>  (17) 
 VKZZAYWZJFCRDH-MWLCHTKSSA-N
-
->  <SLURM_JOB_NAME>  (17) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch004
-
->  <distance_score>  (17) 
-0.733714
 
 >  <inchikey>  (17) 
 VKZZAYWZJFCRDH-MWLCHTKSSA-N
 
->  <energy_score>  (17) 
--60.858413
-
->  <exports>  (17) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch004_304044.sdf']
-
->  <HIPPO Compound ID>  (17) 
-26908
-
->  <ref_pdb>  (17) 
-x0504c
-
->  <original SMILES>  (17) 
-C[C@@H](NCCc1cscn1)[C@H]1CCCO1
-
->  <fragmenstein_outcome>  (17) 
-acceptable
-
->  <fragmenstein_runtime>  (17) 
-5.51303
-
->  <SLURM_JOB_ID>  (17) 
-304044
-
->  <csv_name>  (17) 
-CpKRS_iter1_knitwork_pure_split1000_batch004.csv
+>  <fragmenstein_error>  (17) 
+None
 
 >  <ref_mols>  (17) 
 x0407c,x0504c
@@ -1858,23 +1786,47 @@ x0407c,x0504c
 >  <HIPPO Pose ID>  (17) 
 18169
 
->  <fragmenstein_error>  (17) 
-None
-
 >  <fragmenstein_mode>  (17) 
 expansion
 
->  <alias>  (17) 
-None
+>  <fragmenstein_outcome>  (17) 
+acceptable
 
->  <tags>  (17) 
-['Fragmenstein placed']
+>  <name>  (17) 
+VKZZAYWZJFCRDH-MWLCHTKSSA-N
 
 >  <scratch_subdir>  (17) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304044/C26908-P47
 
->  <name>  (17) 
-VKZZAYWZJFCRDH-MWLCHTKSSA-N
+>  <distance_score>  (17) 
+0.733714
+
+>  <ref_pdb>  (17) 
+x0504c
+
+>  <alias>  (17) 
+None
+
+>  <HIPPO Compound ID>  (17) 
+26908
+
+>  <SLURM_JOB_ID>  (17) 
+304044
+
+>  <tags>  (17) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (17) 
+CpKRS_iter1_knitwork_pure_split1000_batch004.csv
+
+>  <energy_score>  (17) 
+-60.858413
+
+>  <score_inspiration>  (17) 
+0.651819
+
+>  <fragmenstein_runtime>  (17) 
+5.51303
 
 $$$$
 18338
@@ -1913,44 +1865,17 @@ $$$$
  10  6  1  0
  15 11  1  0
 M  END
+>  <original SMILES>  (18) 
+C[C@@H](N[C@H](C)[C@H]1CCCO1)c1cscn1
+
 >  <original ID>  (18) 
 WQWOEWQMCUONAP-FXPVBKGRSA-N
-
->  <SLURM_JOB_NAME>  (18) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch004
-
->  <distance_score>  (18) 
-0.97154
 
 >  <inchikey>  (18) 
 WQWOEWQMCUONAP-FXPVBKGRSA-N
 
->  <energy_score>  (18) 
--82.117985
-
->  <exports>  (18) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch004_304044.sdf']
-
->  <HIPPO Compound ID>  (18) 
-26909
-
->  <ref_pdb>  (18) 
-x0407c
-
->  <original SMILES>  (18) 
-C[C@@H](N[C@H](C)[C@H]1CCCO1)c1cscn1
-
->  <fragmenstein_outcome>  (18) 
-acceptable
-
->  <fragmenstein_runtime>  (18) 
-4.422257
-
->  <SLURM_JOB_ID>  (18) 
-304044
-
->  <csv_name>  (18) 
-CpKRS_iter1_knitwork_pure_split1000_batch004.csv
+>  <fragmenstein_error>  (18) 
+None
 
 >  <ref_mols>  (18) 
 x0407c,x0504c
@@ -1958,23 +1883,47 @@ x0407c,x0504c
 >  <HIPPO Pose ID>  (18) 
 18338
 
->  <fragmenstein_error>  (18) 
-None
-
 >  <fragmenstein_mode>  (18) 
 expansion
 
->  <alias>  (18) 
-None
+>  <fragmenstein_outcome>  (18) 
+acceptable
 
->  <tags>  (18) 
-['Fragmenstein placed']
+>  <name>  (18) 
+WQWOEWQMCUONAP-FXPVBKGRSA-N
 
 >  <scratch_subdir>  (18) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304044/C26909-P3
 
->  <name>  (18) 
-WQWOEWQMCUONAP-FXPVBKGRSA-N
+>  <distance_score>  (18) 
+0.97154
+
+>  <ref_pdb>  (18) 
+x0407c
+
+>  <alias>  (18) 
+None
+
+>  <HIPPO Compound ID>  (18) 
+26909
+
+>  <SLURM_JOB_ID>  (18) 
+304044
+
+>  <tags>  (18) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (18) 
+CpKRS_iter1_knitwork_pure_split1000_batch004.csv
+
+>  <energy_score>  (18) 
+-82.117985
+
+>  <score_inspiration>  (18) 
+0.616398
+
+>  <fragmenstein_runtime>  (18) 
+4.422257
 
 $$$$
 20221
@@ -2029,44 +1978,17 @@ $$$$
  23  2  1  0
  21 16  1  0
 M  END
+>  <original SMILES>  (19) 
+Cc1nc(C(=O)N[C@@H](C)C[C@H](C)NC(=O)c2cccnc2)cs1
+
 >  <original ID>  (19) 
 LJNJGAQNWQLJOI-QWRGUYRKSA-N
-
->  <SLURM_JOB_NAME>  (19) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch076
-
->  <distance_score>  (19) 
-0.861394
 
 >  <inchikey>  (19) 
 LJNJGAQNWQLJOI-QWRGUYRKSA-N
 
->  <energy_score>  (19) 
--21.771481
-
->  <exports>  (19) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch076_304116.sdf']
-
->  <HIPPO Compound ID>  (19) 
-8903
-
->  <ref_pdb>  (19) 
-x0504c
-
->  <original SMILES>  (19) 
-Cc1nc(C(=O)N[C@@H](C)C[C@H](C)NC(=O)c2cccnc2)cs1
-
->  <fragmenstein_outcome>  (19) 
-acceptable
-
->  <fragmenstein_runtime>  (19) 
-9.444816
-
->  <SLURM_JOB_ID>  (19) 
-304116
-
->  <csv_name>  (19) 
-CpKRS_iter1_knitwork_pure_split1000_batch076.csv
+>  <fragmenstein_error>  (19) 
+None
 
 >  <ref_mols>  (19) 
 x0504c,x0634b
@@ -2074,23 +1996,47 @@ x0504c,x0634b
 >  <HIPPO Pose ID>  (19) 
 20221
 
->  <fragmenstein_error>  (19) 
-None
-
 >  <fragmenstein_mode>  (19) 
 expansion
 
->  <alias>  (19) 
-None
+>  <fragmenstein_outcome>  (19) 
+acceptable
 
->  <tags>  (19) 
-['Fragmenstein placed']
+>  <name>  (19) 
+LJNJGAQNWQLJOI-QWRGUYRKSA-N
 
 >  <scratch_subdir>  (19) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304116/C8903-P47
 
->  <name>  (19) 
-LJNJGAQNWQLJOI-QWRGUYRKSA-N
+>  <distance_score>  (19) 
+0.861394
+
+>  <ref_pdb>  (19) 
+x0504c
+
+>  <alias>  (19) 
+None
+
+>  <HIPPO Compound ID>  (19) 
+8903
+
+>  <SLURM_JOB_ID>  (19) 
+304116
+
+>  <tags>  (19) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (19) 
+CpKRS_iter1_knitwork_pure_split1000_batch076.csv
+
+>  <energy_score>  (19) 
+-21.771481
+
+>  <score_inspiration>  (19) 
+0.378414
+
+>  <fragmenstein_runtime>  (19) 
+9.444816
 
 $$$$
 21783
@@ -2120,44 +2066,17 @@ $$$$
  10 11  1  0
  10  5  1  0
 M  END
+>  <original SMILES>  (20) 
+C[C@H](N)Cc1nn(C)cc1Cl
+
 >  <original ID>  (20) 
 CSRIBLIVOSAPEL-YFKPBYRVSA-N
-
->  <SLURM_JOB_NAME>  (20) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch013
-
->  <distance_score>  (20) 
-0.863223
 
 >  <inchikey>  (20) 
 CSRIBLIVOSAPEL-YFKPBYRVSA-N
 
->  <energy_score>  (20) 
--27.142054
-
->  <exports>  (20) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch013_304053.sdf']
-
->  <HIPPO Compound ID>  (20) 
-7515
-
->  <ref_pdb>  (20) 
-x0414a
-
->  <original SMILES>  (20) 
-C[C@H](N)Cc1nn(C)cc1Cl
-
->  <fragmenstein_outcome>  (20) 
-acceptable
-
->  <fragmenstein_runtime>  (20) 
-3.663446
-
->  <SLURM_JOB_ID>  (20) 
-304053
-
->  <csv_name>  (20) 
-CpKRS_iter1_knitwork_pure_split1000_batch013.csv
+>  <fragmenstein_error>  (20) 
+None
 
 >  <ref_mols>  (20) 
 x0414a,x0421b
@@ -2165,23 +2084,47 @@ x0414a,x0421b
 >  <HIPPO Pose ID>  (20) 
 21783
 
->  <fragmenstein_error>  (20) 
-None
-
 >  <fragmenstein_mode>  (20) 
 expansion
 
->  <alias>  (20) 
-None
+>  <fragmenstein_outcome>  (20) 
+acceptable
 
->  <tags>  (20) 
-['Fragmenstein placed']
+>  <name>  (20) 
+CSRIBLIVOSAPEL-YFKPBYRVSA-N
 
 >  <scratch_subdir>  (20) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304053/C7515-P6
 
->  <name>  (20) 
-CSRIBLIVOSAPEL-YFKPBYRVSA-N
+>  <distance_score>  (20) 
+0.863223
+
+>  <ref_pdb>  (20) 
+x0414a
+
+>  <alias>  (20) 
+None
+
+>  <HIPPO Compound ID>  (20) 
+7515
+
+>  <SLURM_JOB_ID>  (20) 
+304053
+
+>  <tags>  (20) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (20) 
+CpKRS_iter1_knitwork_pure_split1000_batch013.csv
+
+>  <energy_score>  (20) 
+-27.142054
+
+>  <score_inspiration>  (20) 
+0.751041
+
+>  <fragmenstein_runtime>  (20) 
+3.663446
 
 $$$$
 22636
@@ -2217,44 +2160,17 @@ $$$$
   9 14  1  0
  14  5  1  0
 M  END
+>  <original SMILES>  (21) 
+C[C@H](N)CN1CCC[C@@H](C(C)(F)F)C1
+
 >  <original ID>  (21) 
 MWMQDDIZSCKXTH-DTWKUNHWSA-N
-
->  <SLURM_JOB_NAME>  (21) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch048
-
->  <distance_score>  (21) 
-0.739905
 
 >  <inchikey>  (21) 
 MWMQDDIZSCKXTH-DTWKUNHWSA-N
 
->  <energy_score>  (21) 
--28.44543
-
->  <exports>  (21) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf']
-
->  <HIPPO Compound ID>  (21) 
-21295
-
->  <ref_pdb>  (21) 
-x0414a
-
->  <original SMILES>  (21) 
-C[C@H](N)CN1CCC[C@@H](C(C)(F)F)C1
-
->  <fragmenstein_outcome>  (21) 
-acceptable
-
->  <fragmenstein_runtime>  (21) 
-4.803604
-
->  <SLURM_JOB_ID>  (21) 
-304088
-
->  <csv_name>  (21) 
-CpKRS_iter1_knitwork_pure_split1000_batch048.csv
+>  <fragmenstein_error>  (21) 
+None
 
 >  <ref_mols>  (21) 
 x0414a,x0489a
@@ -2262,23 +2178,47 @@ x0414a,x0489a
 >  <HIPPO Pose ID>  (21) 
 22636
 
->  <fragmenstein_error>  (21) 
-None
-
 >  <fragmenstein_mode>  (21) 
 expansion
 
->  <alias>  (21) 
-None
+>  <fragmenstein_outcome>  (21) 
+acceptable
 
->  <tags>  (21) 
-['Fragmenstein placed']
+>  <name>  (21) 
+MWMQDDIZSCKXTH-DTWKUNHWSA-N
 
 >  <scratch_subdir>  (21) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304088/C21295-P6
 
->  <name>  (21) 
-MWMQDDIZSCKXTH-DTWKUNHWSA-N
+>  <distance_score>  (21) 
+0.739905
+
+>  <ref_pdb>  (21) 
+x0414a
+
+>  <alias>  (21) 
+None
+
+>  <HIPPO Compound ID>  (21) 
+21295
+
+>  <SLURM_JOB_ID>  (21) 
+304088
+
+>  <tags>  (21) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (21) 
+CpKRS_iter1_knitwork_pure_split1000_batch048.csv
+
+>  <energy_score>  (21) 
+-28.44543
+
+>  <score_inspiration>  (21) 
+0.769437
+
+>  <fragmenstein_runtime>  (21) 
+4.803604
 
 $$$$
 23805
@@ -2326,44 +2266,17 @@ $$$$
  17 10  1  0
  16 12  1  0
 M  END
+>  <original SMILES>  (22) 
+CCNC(=O)c1ccc(N2C[C@H]3CCC[C@H]3C2)nc1
+
 >  <original ID>  (22) 
 WZUTWQFAMMZGKL-BETUJISGSA-N
-
->  <SLURM_JOB_NAME>  (22) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch046
-
->  <distance_score>  (22) 
-0.621464
 
 >  <inchikey>  (22) 
 WZUTWQFAMMZGKL-BETUJISGSA-N
 
->  <energy_score>  (22) 
--3.005943
-
->  <exports>  (22) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch046_304086.sdf']
-
->  <HIPPO Compound ID>  (22) 
-11719
-
->  <ref_pdb>  (22) 
-x0485c
-
->  <original SMILES>  (22) 
-CCNC(=O)c1ccc(N2C[C@H]3CCC[C@H]3C2)nc1
-
->  <fragmenstein_outcome>  (22) 
-acceptable
-
->  <fragmenstein_runtime>  (22) 
-9.803594
-
->  <SLURM_JOB_ID>  (22) 
-304086
-
->  <csv_name>  (22) 
-CpKRS_iter1_knitwork_pure_split1000_batch046.csv
+>  <fragmenstein_error>  (22) 
+None
 
 >  <ref_mols>  (22) 
 x0485c,x0759a
@@ -2371,23 +2284,47 @@ x0485c,x0759a
 >  <HIPPO Pose ID>  (22) 
 23805
 
->  <fragmenstein_error>  (22) 
-None
-
 >  <fragmenstein_mode>  (22) 
 expansion
 
->  <alias>  (22) 
-None
+>  <fragmenstein_outcome>  (22) 
+acceptable
 
->  <tags>  (22) 
-['Fragmenstein placed']
+>  <name>  (22) 
+WZUTWQFAMMZGKL-BETUJISGSA-N
 
 >  <scratch_subdir>  (22) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304086/C11719-P29
 
->  <name>  (22) 
-WZUTWQFAMMZGKL-BETUJISGSA-N
+>  <distance_score>  (22) 
+0.621464
+
+>  <ref_pdb>  (22) 
+x0485c
+
+>  <alias>  (22) 
+None
+
+>  <HIPPO Compound ID>  (22) 
+11719
+
+>  <SLURM_JOB_ID>  (22) 
+304086
+
+>  <tags>  (22) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (22) 
+CpKRS_iter1_knitwork_pure_split1000_batch046.csv
+
+>  <energy_score>  (22) 
+-3.005943
+
+>  <score_inspiration>  (22) 
+0.438674
+
+>  <fragmenstein_runtime>  (22) 
+9.803594
 
 $$$$
 24522
@@ -2440,44 +2377,17 @@ $$$$
   9  4  1  0
  22 17  1  0
 M  END
+>  <original SMILES>  (23) 
+CCOc1cccnc1NC(=O)NC[C@@H](C)c1ccccn1
+
 >  <original ID>  (23) 
 SZACTYDJJYHEOJ-GFCCVEGCSA-N
-
->  <SLURM_JOB_NAME>  (23) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch045
-
->  <distance_score>  (23) 
-0.943099
 
 >  <inchikey>  (23) 
 SZACTYDJJYHEOJ-GFCCVEGCSA-N
 
->  <energy_score>  (23) 
--22.201357
-
->  <exports>  (23) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch045_304085.sdf']
-
->  <HIPPO Compound ID>  (23) 
-1967
-
->  <ref_pdb>  (23) 
-x0606a
-
->  <original SMILES>  (23) 
-CCOc1cccnc1NC(=O)NC[C@@H](C)c1ccccn1
-
->  <fragmenstein_outcome>  (23) 
-acceptable
-
->  <fragmenstein_runtime>  (23) 
-7.616973
-
->  <SLURM_JOB_ID>  (23) 
-304085
-
->  <csv_name>  (23) 
-CpKRS_iter1_knitwork_pure_split1000_batch045.csv
+>  <fragmenstein_error>  (23) 
+None
 
 >  <ref_mols>  (23) 
 x0485c,x0606a
@@ -2485,23 +2395,47 @@ x0485c,x0606a
 >  <HIPPO Pose ID>  (23) 
 24522
 
->  <fragmenstein_error>  (23) 
-None
-
 >  <fragmenstein_mode>  (23) 
 expansion
 
->  <alias>  (23) 
-None
+>  <fragmenstein_outcome>  (23) 
+acceptable
 
->  <tags>  (23) 
-['Fragmenstein placed']
+>  <name>  (23) 
+SZACTYDJJYHEOJ-GFCCVEGCSA-N
 
 >  <scratch_subdir>  (23) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304085/C1967-P41
 
->  <name>  (23) 
-SZACTYDJJYHEOJ-GFCCVEGCSA-N
+>  <distance_score>  (23) 
+0.943099
+
+>  <ref_pdb>  (23) 
+x0606a
+
+>  <alias>  (23) 
+None
+
+>  <HIPPO Compound ID>  (23) 
+1967
+
+>  <SLURM_JOB_ID>  (23) 
+304085
+
+>  <tags>  (23) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (23) 
+CpKRS_iter1_knitwork_pure_split1000_batch045.csv
+
+>  <energy_score>  (23) 
+-22.201357
+
+>  <score_inspiration>  (23) 
+0.505788
+
+>  <fragmenstein_runtime>  (23) 
+7.616973
 
 $$$$
 24765
@@ -2555,44 +2489,17 @@ $$$$
  16 12  1  0
  22 17  1  0
 M  END
+>  <original SMILES>  (24) 
+O=C(Cc1cncs1)OCCc1ccnn1-c1ccccc1
+
 >  <original ID>  (24) 
 WDZNYRFTLQSZDQ-UHFFFAOYSA-N
-
->  <SLURM_JOB_NAME>  (24) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch112
-
->  <distance_score>  (24) 
-0.981116
 
 >  <inchikey>  (24) 
 WDZNYRFTLQSZDQ-UHFFFAOYSA-N
 
->  <energy_score>  (24) 
--37.100923
-
->  <exports>  (24) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch112_304152.sdf']
-
->  <HIPPO Compound ID>  (24) 
-8414
-
->  <ref_pdb>  (24) 
-x0502b
-
->  <original SMILES>  (24) 
-O=C(Cc1cncs1)OCCc1ccnn1-c1ccccc1
-
->  <fragmenstein_outcome>  (24) 
-acceptable
-
->  <fragmenstein_runtime>  (24) 
-4.677279
-
->  <SLURM_JOB_ID>  (24) 
-304152
-
->  <csv_name>  (24) 
-CpKRS_iter1_knitwork_pure_split1000_batch112.csv
+>  <fragmenstein_error>  (24) 
+None
 
 >  <ref_mols>  (24) 
 x0502b,x0787a
@@ -2600,23 +2507,47 @@ x0502b,x0787a
 >  <HIPPO Pose ID>  (24) 
 24765
 
->  <fragmenstein_error>  (24) 
-None
-
 >  <fragmenstein_mode>  (24) 
 expansion
 
->  <alias>  (24) 
-None
+>  <fragmenstein_outcome>  (24) 
+acceptable
 
->  <tags>  (24) 
-['Fragmenstein placed']
+>  <name>  (24) 
+WDZNYRFTLQSZDQ-UHFFFAOYSA-N
 
 >  <scratch_subdir>  (24) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304152/C8414-P44
 
->  <name>  (24) 
-WDZNYRFTLQSZDQ-UHFFFAOYSA-N
+>  <distance_score>  (24) 
+0.981116
+
+>  <ref_pdb>  (24) 
+x0502b
+
+>  <alias>  (24) 
+None
+
+>  <HIPPO Compound ID>  (24) 
+8414
+
+>  <SLURM_JOB_ID>  (24) 
+304152
+
+>  <tags>  (24) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (24) 
+CpKRS_iter1_knitwork_pure_split1000_batch112.csv
+
+>  <energy_score>  (24) 
+-37.100923
+
+>  <score_inspiration>  (24) 
+0.37299
+
+>  <fragmenstein_runtime>  (24) 
+4.677279
 
 $$$$
 24964
@@ -2648,44 +2579,17 @@ $$$$
  10 12  1  0
  12  5  1  0
 M  END
+>  <original SMILES>  (25) 
+C[C@@H]1C[C@@H](C[C@@H](C)N)CCN1C
+
 >  <original ID>  (25) 
 QSVSAOBUDCRTOK-OPRDCNLKSA-N
-
->  <SLURM_JOB_NAME>  (25) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch048
-
->  <distance_score>  (25) 
-0.977686
 
 >  <inchikey>  (25) 
 QSVSAOBUDCRTOK-OPRDCNLKSA-N
 
->  <energy_score>  (25) 
--28.951762
-
->  <exports>  (25) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf']
-
->  <HIPPO Compound ID>  (25) 
-21319
-
->  <ref_pdb>  (25) 
-x0414a
-
->  <original SMILES>  (25) 
-C[C@@H]1C[C@@H](C[C@@H](C)N)CCN1C
-
->  <fragmenstein_outcome>  (25) 
-acceptable
-
->  <fragmenstein_runtime>  (25) 
-7.513934
-
->  <SLURM_JOB_ID>  (25) 
-304088
-
->  <csv_name>  (25) 
-CpKRS_iter1_knitwork_pure_split1000_batch048.csv
+>  <fragmenstein_error>  (25) 
+None
 
 >  <ref_mols>  (25) 
 x0414a,x0489a
@@ -2693,23 +2597,47 @@ x0414a,x0489a
 >  <HIPPO Pose ID>  (25) 
 24964
 
->  <fragmenstein_error>  (25) 
-None
-
 >  <fragmenstein_mode>  (25) 
 expansion
 
->  <alias>  (25) 
-None
+>  <fragmenstein_outcome>  (25) 
+acceptable
 
->  <tags>  (25) 
-['Fragmenstein placed']
+>  <name>  (25) 
+QSVSAOBUDCRTOK-OPRDCNLKSA-N
 
 >  <scratch_subdir>  (25) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304088/C21319-P6
 
->  <name>  (25) 
-QSVSAOBUDCRTOK-OPRDCNLKSA-N
+>  <distance_score>  (25) 
+0.977686
+
+>  <ref_pdb>  (25) 
+x0414a
+
+>  <alias>  (25) 
+None
+
+>  <HIPPO Compound ID>  (25) 
+21319
+
+>  <SLURM_JOB_ID>  (25) 
+304088
+
+>  <tags>  (25) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (25) 
+CpKRS_iter1_knitwork_pure_split1000_batch048.csv
+
+>  <energy_score>  (25) 
+-28.951762
+
+>  <score_inspiration>  (25) 
+0.545455
+
+>  <fragmenstein_runtime>  (25) 
+7.513934
 
 $$$$
 25776
@@ -2743,44 +2671,17 @@ $$$$
   8 13  1  0
  13  3  1  0
 M  END
+>  <original SMILES>  (26) 
+CC[C@@H]1CC[C@@H](C)N(C[C@@H](C)N)C1
+
 >  <original ID>  (26) 
 XTPKSUYNNIDTGE-GMTAPVOTSA-N
-
->  <SLURM_JOB_NAME>  (26) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch048
-
->  <distance_score>  (26) 
-0.983424
 
 >  <inchikey>  (26) 
 XTPKSUYNNIDTGE-GMTAPVOTSA-N
 
->  <energy_score>  (26) 
--39.667237
-
->  <exports>  (26) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf']
-
->  <HIPPO Compound ID>  (26) 
-21328
-
->  <ref_pdb>  (26) 
-x0414a
-
->  <original SMILES>  (26) 
-CC[C@@H]1CC[C@@H](C)N(C[C@@H](C)N)C1
-
->  <fragmenstein_outcome>  (26) 
-acceptable
-
->  <fragmenstein_runtime>  (26) 
-4.907921
-
->  <SLURM_JOB_ID>  (26) 
-304088
-
->  <csv_name>  (26) 
-CpKRS_iter1_knitwork_pure_split1000_batch048.csv
+>  <fragmenstein_error>  (26) 
+None
 
 >  <ref_mols>  (26) 
 x0414a,x0489a
@@ -2788,23 +2689,47 @@ x0414a,x0489a
 >  <HIPPO Pose ID>  (26) 
 25776
 
->  <fragmenstein_error>  (26) 
-None
-
 >  <fragmenstein_mode>  (26) 
 expansion
 
->  <alias>  (26) 
-None
+>  <fragmenstein_outcome>  (26) 
+acceptable
 
->  <tags>  (26) 
-['Fragmenstein placed']
+>  <name>  (26) 
+XTPKSUYNNIDTGE-GMTAPVOTSA-N
 
 >  <scratch_subdir>  (26) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304088/C21328-P6
 
->  <name>  (26) 
-XTPKSUYNNIDTGE-GMTAPVOTSA-N
+>  <distance_score>  (26) 
+0.983424
+
+>  <ref_pdb>  (26) 
+x0414a
+
+>  <alias>  (26) 
+None
+
+>  <HIPPO Compound ID>  (26) 
+21328
+
+>  <SLURM_JOB_ID>  (26) 
+304088
+
+>  <tags>  (26) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (26) 
+CpKRS_iter1_knitwork_pure_split1000_batch048.csv
+
+>  <energy_score>  (26) 
+-39.667237
+
+>  <score_inspiration>  (26) 
+0.614312
+
+>  <fragmenstein_runtime>  (26) 
+4.907921
 
 $$$$
 27224
@@ -2841,44 +2766,17 @@ $$$$
  14  5  1  0
  13  9  1  0
 M  END
+>  <original SMILES>  (27) 
+C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
+
 >  <original ID>  (27) 
 VTMWMMWZOSCZEO-RKDXNWHRSA-N
-
->  <SLURM_JOB_NAME>  (27) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch067
-
->  <distance_score>  (27) 
-0.985749
 
 >  <inchikey>  (27) 
 VTMWMMWZOSCZEO-RKDXNWHRSA-N
 
->  <energy_score>  (27) 
--81.733418
-
->  <exports>  (27) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch067_304107.sdf']
-
->  <HIPPO Compound ID>  (27) 
-17742
-
->  <ref_pdb>  (27) 
-x0414a
-
->  <original SMILES>  (27) 
-C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
-
->  <fragmenstein_outcome>  (27) 
-acceptable
-
->  <fragmenstein_runtime>  (27) 
-4.02323
-
->  <SLURM_JOB_ID>  (27) 
-304107
-
->  <csv_name>  (27) 
-CpKRS_iter1_knitwork_pure_split1000_batch067.csv
+>  <fragmenstein_error>  (27) 
+None
 
 >  <ref_mols>  (27) 
 x0414a,x0502c
@@ -2886,23 +2784,47 @@ x0414a,x0502c
 >  <HIPPO Pose ID>  (27) 
 27224
 
->  <fragmenstein_error>  (27) 
-None
-
 >  <fragmenstein_mode>  (27) 
 expansion
 
->  <alias>  (27) 
-None
+>  <fragmenstein_outcome>  (27) 
+acceptable
 
->  <tags>  (27) 
-['Fragmenstein placed']
+>  <name>  (27) 
+VTMWMMWZOSCZEO-RKDXNWHRSA-N
 
 >  <scratch_subdir>  (27) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304107/C17742-P6
 
->  <name>  (27) 
-VTMWMMWZOSCZEO-RKDXNWHRSA-N
+>  <distance_score>  (27) 
+0.985749
+
+>  <ref_pdb>  (27) 
+x0414a
+
+>  <alias>  (27) 
+None
+
+>  <HIPPO Compound ID>  (27) 
+17742
+
+>  <SLURM_JOB_ID>  (27) 
+304107
+
+>  <tags>  (27) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (27) 
+CpKRS_iter1_knitwork_pure_split1000_batch067.csv
+
+>  <energy_score>  (27) 
+-81.733418
+
+>  <score_inspiration>  (27) 
+0.706923
+
+>  <fragmenstein_runtime>  (27) 
+4.02323
 
 $$$$
 28588
@@ -2939,44 +2861,17 @@ $$$$
  14  5  1  0
  13  9  1  0
 M  END
+>  <original SMILES>  (28) 
+C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
+
 >  <original ID>  (28) 
 VTMWMMWZOSCZEO-RKDXNWHRSA-N
-
->  <SLURM_JOB_NAME>  (28) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch070
-
->  <distance_score>  (28) 
-0.956403
 
 >  <inchikey>  (28) 
 VTMWMMWZOSCZEO-RKDXNWHRSA-N
 
->  <energy_score>  (28) 
--80.912072
-
->  <exports>  (28) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch070_304110.sdf']
-
->  <HIPPO Compound ID>  (28) 
-17742
-
->  <ref_pdb>  (28) 
-x0414a
-
->  <original SMILES>  (28) 
-C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
-
->  <fragmenstein_outcome>  (28) 
-acceptable
-
->  <fragmenstein_runtime>  (28) 
-4.11458
-
->  <SLURM_JOB_ID>  (28) 
-304110
-
->  <csv_name>  (28) 
-CpKRS_iter1_knitwork_pure_split1000_batch070.csv
+>  <fragmenstein_error>  (28) 
+None
 
 >  <ref_mols>  (28) 
 x0414a,x0504b
@@ -2984,23 +2879,47 @@ x0414a,x0504b
 >  <HIPPO Pose ID>  (28) 
 28588
 
->  <fragmenstein_error>  (28) 
-None
-
 >  <fragmenstein_mode>  (28) 
 expansion
 
->  <alias>  (28) 
-None
+>  <fragmenstein_outcome>  (28) 
+acceptable
 
->  <tags>  (28) 
-['Fragmenstein placed']
+>  <name>  (28) 
+VTMWMMWZOSCZEO-RKDXNWHRSA-N
 
 >  <scratch_subdir>  (28) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304110/C17742-P6
 
->  <name>  (28) 
-VTMWMMWZOSCZEO-RKDXNWHRSA-N
+>  <distance_score>  (28) 
+0.956403
+
+>  <ref_pdb>  (28) 
+x0414a
+
+>  <alias>  (28) 
+None
+
+>  <HIPPO Compound ID>  (28) 
+17742
+
+>  <SLURM_JOB_ID>  (28) 
+304110
+
+>  <tags>  (28) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (28) 
+CpKRS_iter1_knitwork_pure_split1000_batch070.csv
+
+>  <energy_score>  (28) 
+-80.912072
+
+>  <score_inspiration>  (28) 
+0.685813
+
+>  <fragmenstein_runtime>  (28) 
+4.11458
 
 $$$$
 30988
@@ -3036,44 +2955,17 @@ $$$$
   9 14  1  0
  14  6  1  0
 M  END
+>  <original SMILES>  (29) 
+CC(=O)NCc1nnc(C(C)(C)N)o1
+
 >  <original ID>  (29) 
 LYXHBZUCETXLGY-UHFFFAOYSA-N
-
->  <SLURM_JOB_NAME>  (29) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch010
-
->  <distance_score>  (29) 
-0.963518
 
 >  <inchikey>  (29) 
 LYXHBZUCETXLGY-UHFFFAOYSA-N
 
->  <energy_score>  (29) 
--4.464509
-
->  <exports>  (29) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf']
-
->  <HIPPO Compound ID>  (29) 
-27632
-
->  <ref_pdb>  (29) 
-x0602a
-
->  <original SMILES>  (29) 
-CC(=O)NCc1nnc(C(C)(C)N)o1
-
->  <fragmenstein_outcome>  (29) 
-acceptable
-
->  <fragmenstein_runtime>  (29) 
-6.070219
-
->  <SLURM_JOB_ID>  (29) 
-304050
-
->  <csv_name>  (29) 
-CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+>  <fragmenstein_error>  (29) 
+None
 
 >  <ref_mols>  (29) 
 x0414a,x0602a
@@ -3081,23 +2973,47 @@ x0414a,x0602a
 >  <HIPPO Pose ID>  (29) 
 30988
 
->  <fragmenstein_error>  (29) 
-None
-
 >  <fragmenstein_mode>  (29) 
 expansion
 
->  <alias>  (29) 
-None
+>  <fragmenstein_outcome>  (29) 
+acceptable
 
->  <tags>  (29) 
-['Fragmenstein placed']
+>  <name>  (29) 
+LYXHBZUCETXLGY-UHFFFAOYSA-N
 
 >  <scratch_subdir>  (29) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304050/C27632-P39
 
->  <name>  (29) 
-LYXHBZUCETXLGY-UHFFFAOYSA-N
+>  <distance_score>  (29) 
+0.963518
+
+>  <ref_pdb>  (29) 
+x0602a
+
+>  <alias>  (29) 
+None
+
+>  <HIPPO Compound ID>  (29) 
+27632
+
+>  <SLURM_JOB_ID>  (29) 
+304050
+
+>  <tags>  (29) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (29) 
+CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+
+>  <energy_score>  (29) 
+-4.464509
+
+>  <score_inspiration>  (29) 
+0.680504
+
+>  <fragmenstein_runtime>  (29) 
+6.070219
 
 $$$$
 31026
@@ -3125,44 +3041,17 @@ $$$$
   9 10  1  0
  10  5  1  0
 M  END
+>  <original SMILES>  (30) 
+C[C@H](N)Cc1cc(O)n[nH]1
+
 >  <original ID>  (30) 
 FSUZOFPGBAPYPL-BYPYZUCNSA-N
-
->  <SLURM_JOB_NAME>  (30) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch013
-
->  <distance_score>  (30) 
-0.989104
 
 >  <inchikey>  (30) 
 FSUZOFPGBAPYPL-BYPYZUCNSA-N
 
->  <energy_score>  (30) 
--31.9823
-
->  <exports>  (30) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch013_304053.sdf']
-
->  <HIPPO Compound ID>  (30) 
-7579
-
->  <ref_pdb>  (30) 
-x0414a
-
->  <original SMILES>  (30) 
-C[C@H](N)Cc1cc(O)n[nH]1
-
->  <fragmenstein_outcome>  (30) 
-acceptable
-
->  <fragmenstein_runtime>  (30) 
-3.686573
-
->  <SLURM_JOB_ID>  (30) 
-304053
-
->  <csv_name>  (30) 
-CpKRS_iter1_knitwork_pure_split1000_batch013.csv
+>  <fragmenstein_error>  (30) 
+None
 
 >  <ref_mols>  (30) 
 x0414a,x0421b
@@ -3170,23 +3059,47 @@ x0414a,x0421b
 >  <HIPPO Pose ID>  (30) 
 31026
 
->  <fragmenstein_error>  (30) 
-None
-
 >  <fragmenstein_mode>  (30) 
 expansion
 
->  <alias>  (30) 
-None
+>  <fragmenstein_outcome>  (30) 
+acceptable
 
->  <tags>  (30) 
-['Fragmenstein placed']
+>  <name>  (30) 
+FSUZOFPGBAPYPL-BYPYZUCNSA-N
 
 >  <scratch_subdir>  (30) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304053/C7579-P6
 
->  <name>  (30) 
-FSUZOFPGBAPYPL-BYPYZUCNSA-N
+>  <distance_score>  (30) 
+0.989104
+
+>  <ref_pdb>  (30) 
+x0414a
+
+>  <alias>  (30) 
+None
+
+>  <HIPPO Compound ID>  (30) 
+7579
+
+>  <SLURM_JOB_ID>  (30) 
+304053
+
+>  <tags>  (30) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (30) 
+CpKRS_iter1_knitwork_pure_split1000_batch013.csv
+
+>  <energy_score>  (30) 
+-31.9823
+
+>  <score_inspiration>  (30) 
+0.521757
+
+>  <fragmenstein_runtime>  (30) 
+3.686573
 
 $$$$
 32590
@@ -3216,44 +3129,17 @@ $$$$
  10 11  1  0
  10  5  2  0
 M  END
+>  <original SMILES>  (31) 
+C[C@@H](N)Cc1cc(Cl)sc1Cl
+
 >  <original ID>  (31) 
 FJSUOWBBQUIZGY-SCSAIBSYSA-N
-
->  <SLURM_JOB_NAME>  (31) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch111
-
->  <distance_score>  (31) 
-0.999721
 
 >  <inchikey>  (31) 
 FJSUOWBBQUIZGY-SCSAIBSYSA-N
 
->  <energy_score>  (31) 
--32.539885
-
->  <exports>  (31) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch111_304151.sdf']
-
->  <HIPPO Compound ID>  (31) 
-23566
-
->  <ref_pdb>  (31) 
-x0414a
-
->  <original SMILES>  (31) 
-C[C@@H](N)Cc1cc(Cl)sc1Cl
-
->  <fragmenstein_outcome>  (31) 
-acceptable
-
->  <fragmenstein_runtime>  (31) 
-4.538172
-
->  <SLURM_JOB_ID>  (31) 
-304151
-
->  <csv_name>  (31) 
-CpKRS_iter1_knitwork_pure_split1000_batch111.csv
+>  <fragmenstein_error>  (31) 
+None
 
 >  <ref_mols>  (31) 
 x0414a,x0787a
@@ -3261,23 +3147,47 @@ x0414a,x0787a
 >  <HIPPO Pose ID>  (31) 
 32590
 
->  <fragmenstein_error>  (31) 
-None
-
 >  <fragmenstein_mode>  (31) 
 expansion
 
->  <alias>  (31) 
-None
+>  <fragmenstein_outcome>  (31) 
+acceptable
 
->  <tags>  (31) 
-['Fragmenstein placed']
+>  <name>  (31) 
+FJSUOWBBQUIZGY-SCSAIBSYSA-N
 
 >  <scratch_subdir>  (31) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304151/C23566-P6
 
->  <name>  (31) 
-FJSUOWBBQUIZGY-SCSAIBSYSA-N
+>  <distance_score>  (31) 
+0.999721
+
+>  <ref_pdb>  (31) 
+x0414a
+
+>  <alias>  (31) 
+None
+
+>  <HIPPO Compound ID>  (31) 
+23566
+
+>  <SLURM_JOB_ID>  (31) 
+304151
+
+>  <tags>  (31) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (31) 
+CpKRS_iter1_knitwork_pure_split1000_batch111.csv
+
+>  <energy_score>  (31) 
+-32.539885
+
+>  <score_inspiration>  (31) 
+0.541666
+
+>  <fragmenstein_runtime>  (31) 
+4.538172
 
 $$$$
 33409
@@ -3314,44 +3224,17 @@ $$$$
  14  5  1  0
  13  9  1  0
 M  END
+>  <original SMILES>  (32) 
+C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
+
 >  <original ID>  (32) 
 VTMWMMWZOSCZEO-RKDXNWHRSA-N
-
->  <SLURM_JOB_NAME>  (32) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch068
-
->  <distance_score>  (32) 
-0.87243
 
 >  <inchikey>  (32) 
 VTMWMMWZOSCZEO-RKDXNWHRSA-N
 
->  <energy_score>  (32) 
--81.6655
-
->  <exports>  (32) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch068_304108.sdf']
-
->  <HIPPO Compound ID>  (32) 
-17742
-
->  <ref_pdb>  (32) 
-x0414a
-
->  <original SMILES>  (32) 
-C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
-
->  <fragmenstein_outcome>  (32) 
-acceptable
-
->  <fragmenstein_runtime>  (32) 
-4.044501
-
->  <SLURM_JOB_ID>  (32) 
-304108
-
->  <csv_name>  (32) 
-CpKRS_iter1_knitwork_pure_split1000_batch068.csv
+>  <fragmenstein_error>  (32) 
+None
 
 >  <ref_mols>  (32) 
 x0414a,x0504a
@@ -3359,23 +3242,47 @@ x0414a,x0504a
 >  <HIPPO Pose ID>  (32) 
 33409
 
->  <fragmenstein_error>  (32) 
-None
-
 >  <fragmenstein_mode>  (32) 
 expansion
 
->  <alias>  (32) 
-None
+>  <fragmenstein_outcome>  (32) 
+acceptable
 
->  <tags>  (32) 
-['Fragmenstein placed']
+>  <name>  (32) 
+VTMWMMWZOSCZEO-RKDXNWHRSA-N
 
 >  <scratch_subdir>  (32) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304108/C17742-P6
 
->  <name>  (32) 
-VTMWMMWZOSCZEO-RKDXNWHRSA-N
+>  <distance_score>  (32) 
+0.87243
+
+>  <ref_pdb>  (32) 
+x0414a
+
+>  <alias>  (32) 
+None
+
+>  <HIPPO Compound ID>  (32) 
+17742
+
+>  <SLURM_JOB_ID>  (32) 
+304108
+
+>  <tags>  (32) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (32) 
+CpKRS_iter1_knitwork_pure_split1000_batch068.csv
+
+>  <energy_score>  (32) 
+-81.6655
+
+>  <score_inspiration>  (32) 
+0.716114
+
+>  <fragmenstein_runtime>  (32) 
+4.044501
 
 $$$$
 35235
@@ -3418,44 +3325,17 @@ $$$$
   9  4  1  0
  17 11  1  0
 M  END
+>  <original SMILES>  (33) 
+C[C@H](CN1CCCCC1)Nc1ccc(N)cc1
+
 >  <original ID>  (33) 
 DOLYSXYXFUOJDB-GFCCVEGCSA-N
-
->  <SLURM_JOB_NAME>  (33) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch008
-
->  <distance_score>  (33) 
-0.988875
 
 >  <inchikey>  (33) 
 DOLYSXYXFUOJDB-GFCCVEGCSA-N
 
->  <energy_score>  (33) 
--21.312844
-
->  <exports>  (33) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf']
-
->  <HIPPO Compound ID>  (33) 
-18970
-
->  <ref_pdb>  (33) 
-x0414a
-
->  <original SMILES>  (33) 
-C[C@H](CN1CCCCC1)Nc1ccc(N)cc1
-
->  <fragmenstein_outcome>  (33) 
-acceptable
-
->  <fragmenstein_runtime>  (33) 
-4.691219
-
->  <SLURM_JOB_ID>  (33) 
-304048
-
->  <csv_name>  (33) 
-CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+>  <fragmenstein_error>  (33) 
+None
 
 >  <ref_mols>  (33) 
 x0414a,x0489a
@@ -3463,23 +3343,47 @@ x0414a,x0489a
 >  <HIPPO Pose ID>  (33) 
 35235
 
->  <fragmenstein_error>  (33) 
-None
-
 >  <fragmenstein_mode>  (33) 
 expansion
 
->  <alias>  (33) 
-None
+>  <fragmenstein_outcome>  (33) 
+acceptable
 
->  <tags>  (33) 
-['Fragmenstein placed']
+>  <name>  (33) 
+DOLYSXYXFUOJDB-GFCCVEGCSA-N
 
 >  <scratch_subdir>  (33) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304048/C18970-P6
 
->  <name>  (33) 
-DOLYSXYXFUOJDB-GFCCVEGCSA-N
+>  <distance_score>  (33) 
+0.988875
+
+>  <ref_pdb>  (33) 
+x0414a
+
+>  <alias>  (33) 
+None
+
+>  <HIPPO Compound ID>  (33) 
+18970
+
+>  <SLURM_JOB_ID>  (33) 
+304048
+
+>  <tags>  (33) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (33) 
+CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+
+>  <energy_score>  (33) 
+-21.312844
+
+>  <score_inspiration>  (33) 
+0.58476
+
+>  <fragmenstein_runtime>  (33) 
+4.691219
 
 $$$$
 37239
@@ -3507,44 +3411,17 @@ $$$$
   9 10  2  0
  10  5  1  0
 M  END
+>  <original SMILES>  (34) 
+CC(C)Nc1cnccn1
+
 >  <original ID>  (34) 
 NFFXHWPBOGQOAI-UHFFFAOYSA-N
-
->  <SLURM_JOB_NAME>  (34) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch008
-
->  <distance_score>  (34) 
-1.988633
 
 >  <inchikey>  (34) 
 NFFXHWPBOGQOAI-UHFFFAOYSA-N
 
->  <energy_score>  (34) 
--8.716074
-
->  <exports>  (34) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf']
-
->  <HIPPO Compound ID>  (34) 
-19047
-
->  <ref_pdb>  (34) 
-x0414a
-
->  <original SMILES>  (34) 
-CC(C)Nc1cnccn1
-
->  <fragmenstein_outcome>  (34) 
-acceptable
-
->  <fragmenstein_runtime>  (34) 
-3.78105
-
->  <SLURM_JOB_ID>  (34) 
-304048
-
->  <csv_name>  (34) 
-CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+>  <fragmenstein_error>  (34) 
+None
 
 >  <ref_mols>  (34) 
 x0414a,x0489a,x0492a,x0492b
@@ -3552,23 +3429,47 @@ x0414a,x0489a,x0492a,x0492b
 >  <HIPPO Pose ID>  (34) 
 37239
 
->  <fragmenstein_error>  (34) 
-None
-
 >  <fragmenstein_mode>  (34) 
 expansion
 
->  <alias>  (34) 
-None
+>  <fragmenstein_outcome>  (34) 
+acceptable
 
->  <tags>  (34) 
-['Fragmenstein placed']
+>  <name>  (34) 
+NFFXHWPBOGQOAI-UHFFFAOYSA-N
 
 >  <scratch_subdir>  (34) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304048/C19047-P6
 
->  <name>  (34) 
-NFFXHWPBOGQOAI-UHFFFAOYSA-N
+>  <distance_score>  (34) 
+1.988633
+
+>  <ref_pdb>  (34) 
+x0414a
+
+>  <alias>  (34) 
+None
+
+>  <HIPPO Compound ID>  (34) 
+19047
+
+>  <SLURM_JOB_ID>  (34) 
+304048
+
+>  <tags>  (34) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (34) 
+CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+
+>  <energy_score>  (34) 
+-8.716074
+
+>  <score_inspiration>  (34) 
+0.523011
+
+>  <fragmenstein_runtime>  (34) 
+3.78105
 
 $$$$
 37379
@@ -3607,44 +3508,17 @@ $$$$
  10  5  1  0
  15 11  2  0
 M  END
+>  <original SMILES>  (35) 
+CC(C)(Nc1cnccn1)c1nn[nH]n1
+
 >  <original ID>  (35) 
 MTRNCYITAFTDBJ-UHFFFAOYSA-N
-
->  <SLURM_JOB_NAME>  (35) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch008
-
->  <distance_score>  (35) 
-1.315287
 
 >  <inchikey>  (35) 
 MTRNCYITAFTDBJ-UHFFFAOYSA-N
 
->  <energy_score>  (35) 
--35.56529
-
->  <exports>  (35) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf']
-
->  <HIPPO Compound ID>  (35) 
-997
-
->  <ref_pdb>  (35) 
-x0414a
-
->  <original SMILES>  (35) 
-CC(C)(Nc1cnccn1)c1nn[nH]n1
-
->  <fragmenstein_outcome>  (35) 
-acceptable
-
->  <fragmenstein_runtime>  (35) 
-10.212362
-
->  <SLURM_JOB_ID>  (35) 
-304048
-
->  <csv_name>  (35) 
-CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+>  <fragmenstein_error>  (35) 
+None
 
 >  <ref_mols>  (35) 
 x0414a,x0489a,x0492a
@@ -3652,23 +3526,47 @@ x0414a,x0489a,x0492a
 >  <HIPPO Pose ID>  (35) 
 37379
 
->  <fragmenstein_error>  (35) 
-None
-
 >  <fragmenstein_mode>  (35) 
 expansion
 
->  <alias>  (35) 
-None
+>  <fragmenstein_outcome>  (35) 
+acceptable
 
->  <tags>  (35) 
-['Fragmenstein placed']
+>  <name>  (35) 
+MTRNCYITAFTDBJ-UHFFFAOYSA-N
 
 >  <scratch_subdir>  (35) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304048/C997-P6
 
->  <name>  (35) 
-MTRNCYITAFTDBJ-UHFFFAOYSA-N
+>  <distance_score>  (35) 
+1.315287
+
+>  <ref_pdb>  (35) 
+x0414a
+
+>  <alias>  (35) 
+None
+
+>  <HIPPO Compound ID>  (35) 
+997
+
+>  <SLURM_JOB_ID>  (35) 
+304048
+
+>  <tags>  (35) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (35) 
+CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+
+>  <energy_score>  (35) 
+-35.56529
+
+>  <score_inspiration>  (35) 
+0.479715
+
+>  <fragmenstein_runtime>  (35) 
+10.212362
 
 $$$$
 38845
@@ -3713,44 +3611,17 @@ $$$$
   9  4  1  0
  18 11  1  0
 M  END
+>  <original SMILES>  (36) 
+C[C@@H](Cc1cnccn1)Nc1cc(CO)ncn1
+
 >  <original ID>  (36) 
 NRSJBZYWOZHGJJ-VIFPVBQESA-N
-
->  <SLURM_JOB_NAME>  (36) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch008
-
->  <distance_score>  (36) 
-0.983876
 
 >  <inchikey>  (36) 
 NRSJBZYWOZHGJJ-VIFPVBQESA-N
 
->  <energy_score>  (36) 
--8.407683
-
->  <exports>  (36) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf']
-
->  <HIPPO Compound ID>  (36) 
-1083
-
->  <ref_pdb>  (36) 
-x0489a
-
->  <original SMILES>  (36) 
-C[C@@H](Cc1cnccn1)Nc1cc(CO)ncn1
-
->  <fragmenstein_outcome>  (36) 
-acceptable
-
->  <fragmenstein_runtime>  (36) 
-8.584835
-
->  <SLURM_JOB_ID>  (36) 
-304048
-
->  <csv_name>  (36) 
-CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+>  <fragmenstein_error>  (36) 
+None
 
 >  <ref_mols>  (36) 
 x0414a,x0489a
@@ -3758,23 +3629,47 @@ x0414a,x0489a
 >  <HIPPO Pose ID>  (36) 
 38845
 
->  <fragmenstein_error>  (36) 
-None
-
 >  <fragmenstein_mode>  (36) 
 expansion
 
->  <alias>  (36) 
-None
+>  <fragmenstein_outcome>  (36) 
+acceptable
 
->  <tags>  (36) 
-['Fragmenstein placed']
+>  <name>  (36) 
+NRSJBZYWOZHGJJ-VIFPVBQESA-N
 
 >  <scratch_subdir>  (36) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304048/C1083-P33
 
->  <name>  (36) 
-NRSJBZYWOZHGJJ-VIFPVBQESA-N
+>  <distance_score>  (36) 
+0.983876
+
+>  <ref_pdb>  (36) 
+x0489a
+
+>  <alias>  (36) 
+None
+
+>  <HIPPO Compound ID>  (36) 
+1083
+
+>  <SLURM_JOB_ID>  (36) 
+304048
+
+>  <tags>  (36) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (36) 
+CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+
+>  <energy_score>  (36) 
+-8.407683
+
+>  <score_inspiration>  (36) 
+0.537178
+
+>  <fragmenstein_runtime>  (36) 
+8.584835
 
 $$$$
 38885
@@ -3802,44 +3697,17 @@ $$$$
   9 10  2  0
  10  5  1  0
 M  END
+>  <original SMILES>  (37) 
+C[C@H](N)Cc1ccccn1
+
 >  <original ID>  (37) 
 OKWKKGILOAMUGL-ZETCQYMHSA-N
-
->  <SLURM_JOB_NAME>  (37) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch010
-
->  <distance_score>  (37) 
-0.943468
 
 >  <inchikey>  (37) 
 OKWKKGILOAMUGL-ZETCQYMHSA-N
 
->  <energy_score>  (37) 
--7.926724
-
->  <exports>  (37) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf']
-
->  <HIPPO Compound ID>  (37) 
-3555
-
->  <ref_pdb>  (37) 
-x0634b
-
->  <original SMILES>  (37) 
-C[C@H](N)Cc1ccccn1
-
->  <fragmenstein_outcome>  (37) 
-acceptable
-
->  <fragmenstein_runtime>  (37) 
-4.090441
-
->  <SLURM_JOB_ID>  (37) 
-304050
-
->  <csv_name>  (37) 
-CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+>  <fragmenstein_error>  (37) 
+None
 
 >  <ref_mols>  (37) 
 x0414a,x0634b
@@ -3847,23 +3715,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (37) 
 38885
 
->  <fragmenstein_error>  (37) 
-None
-
 >  <fragmenstein_mode>  (37) 
 expansion
 
->  <alias>  (37) 
-None
+>  <fragmenstein_outcome>  (37) 
+acceptable
 
->  <tags>  (37) 
-['Fragmenstein placed']
+>  <name>  (37) 
+OKWKKGILOAMUGL-ZETCQYMHSA-N
 
 >  <scratch_subdir>  (37) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304050/C3555-P51
 
->  <name>  (37) 
-OKWKKGILOAMUGL-ZETCQYMHSA-N
+>  <distance_score>  (37) 
+0.943468
+
+>  <ref_pdb>  (37) 
+x0634b
+
+>  <alias>  (37) 
+None
+
+>  <HIPPO Compound ID>  (37) 
+3555
+
+>  <SLURM_JOB_ID>  (37) 
+304050
+
+>  <tags>  (37) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (37) 
+CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+
+>  <energy_score>  (37) 
+-7.926724
+
+>  <score_inspiration>  (37) 
+0.638507
+
+>  <fragmenstein_runtime>  (37) 
+4.090441
 
 $$$$
 38891
@@ -3908,44 +3800,17 @@ $$$$
   9  4  1  0
  18 11  1  0
 M  END
+>  <original SMILES>  (38) 
+C[C@@H](Cc1cnccn1)Nc1ccnc(CO)c1
+
 >  <original ID>  (38) 
 RQSNYOSCKUZYPE-JTQLQIEISA-N
-
->  <SLURM_JOB_NAME>  (38) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch008
-
->  <distance_score>  (38) 
-0.990621
 
 >  <inchikey>  (38) 
 RQSNYOSCKUZYPE-JTQLQIEISA-N
 
->  <energy_score>  (38) 
--1.231899
-
->  <exports>  (38) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf']
-
->  <HIPPO Compound ID>  (38) 
-1086
-
->  <ref_pdb>  (38) 
-x0489a
-
->  <original SMILES>  (38) 
-C[C@@H](Cc1cnccn1)Nc1ccnc(CO)c1
-
->  <fragmenstein_outcome>  (38) 
-acceptable
-
->  <fragmenstein_runtime>  (38) 
-13.564834
-
->  <SLURM_JOB_ID>  (38) 
-304048
-
->  <csv_name>  (38) 
-CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+>  <fragmenstein_error>  (38) 
+None
 
 >  <ref_mols>  (38) 
 x0414a,x0489a
@@ -3953,23 +3818,47 @@ x0414a,x0489a
 >  <HIPPO Pose ID>  (38) 
 38891
 
->  <fragmenstein_error>  (38) 
-None
-
 >  <fragmenstein_mode>  (38) 
 expansion
 
->  <alias>  (38) 
-None
+>  <fragmenstein_outcome>  (38) 
+acceptable
 
->  <tags>  (38) 
-['Fragmenstein placed']
+>  <name>  (38) 
+RQSNYOSCKUZYPE-JTQLQIEISA-N
 
 >  <scratch_subdir>  (38) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304048/C1086-P33
 
->  <name>  (38) 
-RQSNYOSCKUZYPE-JTQLQIEISA-N
+>  <distance_score>  (38) 
+0.990621
+
+>  <ref_pdb>  (38) 
+x0489a
+
+>  <alias>  (38) 
+None
+
+>  <HIPPO Compound ID>  (38) 
+1086
+
+>  <SLURM_JOB_ID>  (38) 
+304048
+
+>  <tags>  (38) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (38) 
+CpKRS_iter1_knitwork_pure_split1000_batch008.csv
+
+>  <energy_score>  (38) 
+-1.231899
+
+>  <score_inspiration>  (38) 
+0.532985
+
+>  <fragmenstein_runtime>  (38) 
+13.564834
 
 $$$$
 38980
@@ -4008,44 +3897,17 @@ $$$$
  15  5  1  0
  13  8  1  0
 M  END
+>  <original SMILES>  (39) 
+C[C@@H](N)Cc1nc(-c2ccccn2)cs1
+
 >  <original ID>  (39) 
 BCPAUKREVURYGD-MRVPVSSYSA-N
-
->  <SLURM_JOB_NAME>  (39) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch010
-
->  <distance_score>  (39) 
-0.811429
 
 >  <inchikey>  (39) 
 BCPAUKREVURYGD-MRVPVSSYSA-N
 
->  <energy_score>  (39) 
--50.880998
-
->  <exports>  (39) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf']
-
->  <HIPPO Compound ID>  (39) 
-27656
-
->  <ref_pdb>  (39) 
-x0634b
-
->  <original SMILES>  (39) 
-C[C@@H](N)Cc1nc(-c2ccccn2)cs1
-
->  <fragmenstein_outcome>  (39) 
-acceptable
-
->  <fragmenstein_runtime>  (39) 
-5.284322
-
->  <SLURM_JOB_ID>  (39) 
-304050
-
->  <csv_name>  (39) 
-CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+>  <fragmenstein_error>  (39) 
+None
 
 >  <ref_mols>  (39) 
 x0414a,x0634b
@@ -4053,23 +3915,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (39) 
 38980
 
->  <fragmenstein_error>  (39) 
-None
-
 >  <fragmenstein_mode>  (39) 
 expansion
 
->  <alias>  (39) 
-None
+>  <fragmenstein_outcome>  (39) 
+acceptable
 
->  <tags>  (39) 
-['Fragmenstein placed']
+>  <name>  (39) 
+BCPAUKREVURYGD-MRVPVSSYSA-N
 
 >  <scratch_subdir>  (39) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304050/C27656-P51
 
->  <name>  (39) 
-BCPAUKREVURYGD-MRVPVSSYSA-N
+>  <distance_score>  (39) 
+0.811429
+
+>  <ref_pdb>  (39) 
+x0634b
+
+>  <alias>  (39) 
+None
+
+>  <HIPPO Compound ID>  (39) 
+27656
+
+>  <SLURM_JOB_ID>  (39) 
+304050
+
+>  <tags>  (39) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (39) 
+CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+
+>  <energy_score>  (39) 
+-50.880998
+
+>  <score_inspiration>  (39) 
+0.553341
+
+>  <fragmenstein_runtime>  (39) 
+5.284322
 
 $$$$
 39116
@@ -4110,44 +3996,17 @@ $$$$
  16  5  1  0
  15 10  1  0
 M  END
+>  <original SMILES>  (40) 
+C[C@@H](N)Cc1csc(Nc2ccccn2)n1
+
 >  <original ID>  (40) 
 AYSOKQPXWXTIBI-MRVPVSSYSA-N
-
->  <SLURM_JOB_NAME>  (40) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch010
-
->  <distance_score>  (40) 
-0.833585
 
 >  <inchikey>  (40) 
 AYSOKQPXWXTIBI-MRVPVSSYSA-N
 
->  <energy_score>  (40) 
--79.358533
-
->  <exports>  (40) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf']
-
->  <HIPPO Compound ID>  (40) 
-17755
-
->  <ref_pdb>  (40) 
-x0634b
-
->  <original SMILES>  (40) 
-C[C@@H](N)Cc1csc(Nc2ccccn2)n1
-
->  <fragmenstein_outcome>  (40) 
-acceptable
-
->  <fragmenstein_runtime>  (40) 
-4.865428
-
->  <SLURM_JOB_ID>  (40) 
-304050
-
->  <csv_name>  (40) 
-CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+>  <fragmenstein_error>  (40) 
+None
 
 >  <ref_mols>  (40) 
 x0414a,x0634b
@@ -4155,23 +4014,47 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (40) 
 39116
 
->  <fragmenstein_error>  (40) 
-None
-
 >  <fragmenstein_mode>  (40) 
 expansion
 
->  <alias>  (40) 
-None
+>  <fragmenstein_outcome>  (40) 
+acceptable
 
->  <tags>  (40) 
-['Fragmenstein placed']
+>  <name>  (40) 
+AYSOKQPXWXTIBI-MRVPVSSYSA-N
 
 >  <scratch_subdir>  (40) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304050/C17755-P51
 
->  <name>  (40) 
-AYSOKQPXWXTIBI-MRVPVSSYSA-N
+>  <distance_score>  (40) 
+0.833585
+
+>  <ref_pdb>  (40) 
+x0634b
+
+>  <alias>  (40) 
+None
+
+>  <HIPPO Compound ID>  (40) 
+17755
+
+>  <SLURM_JOB_ID>  (40) 
+304050
+
+>  <tags>  (40) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (40) 
+CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+
+>  <energy_score>  (40) 
+-79.358533
+
+>  <score_inspiration>  (40) 
+0.468532
+
+>  <fragmenstein_runtime>  (40) 
+4.865428
 
 $$$$
 39283
@@ -4210,44 +4093,17 @@ $$$$
   9  5  1  0
  15 10  1  0
 M  END
+>  <original SMILES>  (41) 
+CC(C)Nc1c[nH]nc1-c1ccccn1
+
 >  <original ID>  (41) 
 JDVGBOTZSSFWQA-UHFFFAOYSA-N
-
->  <SLURM_JOB_NAME>  (41) 
-BulkDock.place:CpKRS:CpKRS_iter1_knitwork_pure_split1000_batch010
-
->  <distance_score>  (41) 
-0.726785
 
 >  <inchikey>  (41) 
 JDVGBOTZSSFWQA-UHFFFAOYSA-N
 
->  <energy_score>  (41) 
--17.577338
-
->  <exports>  (41) 
-['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf']
-
->  <HIPPO Compound ID>  (41) 
-27706
-
->  <ref_pdb>  (41) 
-x0634b
-
->  <original SMILES>  (41) 
-CC(C)Nc1c[nH]nc1-c1ccccn1
-
->  <fragmenstein_outcome>  (41) 
-acceptable
-
->  <fragmenstein_runtime>  (41) 
-4.779284
-
->  <SLURM_JOB_ID>  (41) 
-304050
-
->  <csv_name>  (41) 
-CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+>  <fragmenstein_error>  (41) 
+None
 
 >  <ref_mols>  (41) 
 x0414a,x0634b
@@ -4255,22 +4111,46 @@ x0414a,x0634b
 >  <HIPPO Pose ID>  (41) 
 39283
 
->  <fragmenstein_error>  (41) 
-None
-
 >  <fragmenstein_mode>  (41) 
 expansion
 
->  <alias>  (41) 
-None
+>  <fragmenstein_outcome>  (41) 
+acceptable
 
->  <tags>  (41) 
-['Fragmenstein placed']
+>  <name>  (41) 
+JDVGBOTZSSFWQA-UHFFFAOYSA-N
 
 >  <scratch_subdir>  (41) 
 /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304050/C27706-P51
 
->  <name>  (41) 
-JDVGBOTZSSFWQA-UHFFFAOYSA-N
+>  <distance_score>  (41) 
+0.726785
+
+>  <ref_pdb>  (41) 
+x0634b
+
+>  <alias>  (41) 
+None
+
+>  <HIPPO Compound ID>  (41) 
+27706
+
+>  <SLURM_JOB_ID>  (41) 
+304050
+
+>  <tags>  (41) 
+BulkDock Fragalysis export;Fragmenstein placed
+
+>  <csv_name>  (41) 
+CpKRS_iter1_knitwork_pure_split1000_batch010.csv
+
+>  <energy_score>  (41) 
+-17.577338
+
+>  <score_inspiration>  (41) 
+0.54352
+
+>  <fragmenstein_runtime>  (41) 
+4.779284
 
 $$$$
