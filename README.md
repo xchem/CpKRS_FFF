@@ -75,7 +75,7 @@ This will create outputs in the chosen iter1 subdirectory:
 - `output.sdf`: fragmenstein merge ligand conformers
 - `output.csv`: fragmenstein merge metadata
 
-- [ ] placement with bulkdock (running)
+- [x] placement with bulkdock
 
 ```
 cp -v iter1/iter1_fstein_bulkdock_input.csv $BULK/INPUTS/TARGET_iter1_fstein.csv
@@ -83,13 +83,13 @@ cd $BULK
 python -m bulkdock place CpKRS INPUTS/TARGET_iter1_fstein.csv
 ```
 
-- [ ] monitor placements (until complete)
+- [x] monitor placements
 
 ```
 python -m bulkdock status
 ```
 
-- [ ] export Fragalysis SDF
+- [x] export Fragalysis SDF
 
 ```
 sb.sh --job-name "bulkdock_out" $HOME2/slurm/run_python.sh -m bulkdock to-fragalysis TARGET OUTPUTS/SDF_FILE METHOD_NAME
@@ -111,7 +111,7 @@ Then, for each merging hypothesis:
 - [x] Create the BulkDock inputs: `python to_bulkdock.py iter1`
 - [x] `git add`, `commit` and `push` the CSVs created by the previous step
 - [x] back on `cepheus-slurm` pull the latest changes
-- [ ] Run BulkDock placement as for Fragmenstein above (running)
+- [x] Run BulkDock placement as for Fragmenstein above (running)
 
 ```
 cp -v iter1/iter1_knitwork_pure.csv $BULK/INPUTS/TARGET_iter1_knitwork_pure.csv
@@ -121,7 +121,7 @@ python -m bulkdock place CpKRS INPUTS/TARGET_iter1_knitwork_pure.csv
 python -m bulkdock place CpKRS INPUTS/TARGET_iter1_knitwork_impure.csv
 ```
 
-- [ ] Export Fragalysis SDF as for Fragmenstein
+- [x] Export Fragalysis SDF as for Fragmenstein
 
 ## 4. Scaffold selection
 

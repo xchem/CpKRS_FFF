@@ -1,0 +1,5299 @@
+ver_1.2
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   -4.6971    0.3393    0.3324 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3951    0.0526    0.1597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6291   -0.6964    1.1932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6567    0.4659   -1.0646 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4828    1.3777   -0.7619 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4765    0.7152    0.1411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5959    1.6994    0.3502 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6146    1.1390    1.2152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0797   -0.0922    0.4132 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8069   -1.2709    0.2954 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3759   -2.1093   -0.4792 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3987   -1.7053   -1.2800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4654    0.0851   -0.7863 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13  9  1  0
+M  END
+>  <ref_url>  (1) 
+https://github.com/mwinokan/BulkDock
+
+>  <submitter_name>  (1) 
+Max Winokan
+
+>  <submitter_email>  (1) 
+max.winokan@diamond.ac.uk
+
+>  <submitter_institution>  (1) 
+DLS
+
+>  <generation_date>  (1) 
+2025-02-24
+
+>  <method>  (1) 
+iter1_knit_impure
+
+>  <SLURM_JOB_ID>  (1) 
+SLURM_JOB_ID
+
+>  <SLURM_JOB_NAME>  (1) 
+SLURM_JOB_NAME
+
+>  <csv_name>  (1) 
+csv_name
+
+>  <scratch_subdir>  (1) 
+scratch_subdir
+
+>  <fragmenstein_runtime>  (1) 
+fragmenstein_runtime
+
+>  <fragmenstein_outcome>  (1) 
+fragmenstein_outcome
+
+>  <fragmenstein_mode>  (1) 
+fragmenstein_mode
+
+>  <fragmenstein_error>  (1) 
+fragmenstein_error
+
+>  <exports>  (1) 
+exports
+
+>  <HIPPO Pose ID>  (1) 
+HIPPO Pose ID
+
+>  <HIPPO Compound ID>  (1) 
+HIPPO Compound ID
+
+>  <smiles>  (1) 
+smiles
+
+>  <ref_pdb>  (1) 
+protein reference
+
+>  <ref_mols>  (1) 
+fragment inspirations
+
+>  <original ID>  (1) 
+original ID
+
+>  <compound inchikey>  (1) 
+compound inchikey
+
+$$$$
+71
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    6.2546   -9.6909   24.4689 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3279   -8.8487   24.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7063   -7.4367   23.6951 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8887   -9.2489   23.8415 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6069  -10.3687   22.8328 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0209  -11.7939   23.2091 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3803  -12.2319   24.4433 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0227  -13.4293   24.9847 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3018  -14.0411   26.1443 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7750  -15.0431   26.9744 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9673  -15.3950   28.0358 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8651  -14.6860   27.9735 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7142  -13.6123   26.6458 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13  9  1  0
+M  END
+>  <SLURM_JOB_NAME>  (1) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch063
+
+>  <alias>  (1) 
+None
+
+>  <HIPPO Pose ID>  (1) 
+71
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch063_302072.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (1) 
+x0414a,x0502a
+
+>  <fragmenstein_runtime>  (1) 
+2.539287
+
+>  <name>  (1) 
+SGKXJURVPZMNDL-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302072/C5634-P45
+
+>  <inchikey>  (1) 
+SGKXJURVPZMNDL-UHFFFAOYSA-N
+
+>  <ref_pdb>  (1) 
+x0502a
+
+>  <HIPPO Compound ID>  (1) 
+5634
+
+>  <distance_score>  (1) 
+0.982416
+
+>  <fragmenstein_outcome>  (1) 
+acceptable
+
+>  <fragmenstein_mode>  (1) 
+expansion
+
+>  <SLURM_JOB_ID>  (1) 
+302072
+
+>  <csv_name>  (1) 
+CpKRS_iter1_knitwork_impure_split1000_batch063.csv
+
+>  <energy_score>  (1) 
+-70.62861
+
+>  <original SMILES>  (1) 
+C=C(C)CCCNCc1cncs1
+
+>  <tags>  (1) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (1) 
+SGKXJURVPZMNDL-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (1) 
+None
+
+$$$$
+931
+     RDKit          3D
+
+ 22 25  0  0  0  0  0  0  0  0999 V2000
+   -1.7529  -13.5114   26.6412 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1220  -12.9333   25.8475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3793  -12.6020   25.8171 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4066  -12.8270   26.7994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4451  -13.8962   26.6475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4234  -14.9250   27.6220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4371  -15.8701   27.7054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4723  -15.7713   26.8127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5525  -14.8111   25.8803 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5448  -13.8934   25.7750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7273  -12.9470   24.7176 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1058  -11.7518   24.4449 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4333  -11.3022   23.2547 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4157  -12.1675   22.8883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6723  -13.1402   23.7537 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8581  -12.2624   24.6290 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5256  -10.8175   24.4502 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9858  -11.0650   23.1027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4459  -12.4955   23.2063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4935  -13.6022   22.8594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3979  -13.9376   21.6523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4835  -13.0040   22.2318 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 16  2  1  1
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 10  5  1  0
+ 15 11  1  0
+ 19 16  1  0
+ 22 19  1  0
+M  END
+>  <SLURM_JOB_NAME>  (2) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch095
+
+>  <alias>  (2) 
+None
+
+>  <HIPPO Pose ID>  (2) 
+931
+
+>  <exports>  (2) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch095_302104.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (2) 
+x0489a,x0606b
+
+>  <fragmenstein_runtime>  (2) 
+6.94664
+
+>  <name>  (2) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <scratch_subdir>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302104/C6962-P33
+
+>  <inchikey>  (2) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <ref_pdb>  (2) 
+x0489a
+
+>  <HIPPO Compound ID>  (2) 
+6962
+
+>  <distance_score>  (2) 
+0.997429
+
+>  <fragmenstein_outcome>  (2) 
+acceptable
+
+>  <fragmenstein_mode>  (2) 
+expansion
+
+>  <SLURM_JOB_ID>  (2) 
+302104
+
+>  <csv_name>  (2) 
+CpKRS_iter1_knitwork_impure_split1000_batch095.csv
+
+>  <energy_score>  (2) 
+-6.774903
+
+>  <original SMILES>  (2) 
+O=C(NCc1cccnc1-n1cncn1)[C@H]1NCC12CCC2
+
+>  <tags>  (2) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (2) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <fragmenstein_error>  (2) 
+None
+
+$$$$
+992
+     RDKit          3D
+
+ 22 25  0  0  0  0  0  0  0  0999 V2000
+   -1.7529  -13.5114   26.6412 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1220  -12.9333   25.8475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3793  -12.6020   25.8171 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4066  -12.8270   26.7994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4451  -13.8962   26.6475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4234  -14.9250   27.6220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4371  -15.8701   27.7054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4723  -15.7713   26.8127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5525  -14.8111   25.8803 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5448  -13.8934   25.7750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7273  -12.9470   24.7176 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1058  -11.7518   24.4449 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4333  -11.3022   23.2547 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4157  -12.1675   22.8883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6723  -13.1402   23.7537 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8581  -12.2624   24.6290 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5256  -10.8175   24.4502 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9858  -11.0650   23.1027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4459  -12.4955   23.2063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4935  -13.6022   22.8594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3979  -13.9376   21.6523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4835  -13.0040   22.2318 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 16  2  1  1
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 10  5  1  0
+ 15 11  1  0
+ 19 16  1  0
+ 22 19  1  0
+M  END
+>  <SLURM_JOB_NAME>  (3) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch102
+
+>  <alias>  (3) 
+None
+
+>  <HIPPO Pose ID>  (3) 
+992
+
+>  <exports>  (3) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch102_302111.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (3) 
+x0489a,x0606c
+
+>  <fragmenstein_runtime>  (3) 
+7.221644
+
+>  <name>  (3) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <scratch_subdir>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302111/C6962-P33
+
+>  <inchikey>  (3) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <ref_pdb>  (3) 
+x0489a
+
+>  <HIPPO Compound ID>  (3) 
+6962
+
+>  <distance_score>  (3) 
+0.997429
+
+>  <fragmenstein_outcome>  (3) 
+acceptable
+
+>  <fragmenstein_mode>  (3) 
+expansion
+
+>  <SLURM_JOB_ID>  (3) 
+302111
+
+>  <csv_name>  (3) 
+CpKRS_iter1_knitwork_impure_split1000_batch102.csv
+
+>  <energy_score>  (3) 
+-6.774903
+
+>  <original SMILES>  (3) 
+O=C(NCc1cccnc1-n1cncn1)[C@H]1NCC12CCC2
+
+>  <tags>  (3) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (3) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <fragmenstein_error>  (3) 
+None
+
+$$$$
+3145
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    7.2617   -6.9790   24.6795 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1465   -7.4040   24.6500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8124   -7.9615   24.6717 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8103   -9.3094   23.9957 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4000   -9.8687   24.0225 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3491  -11.0974   23.1454 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1653  -12.0110   23.4656 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1948  -12.6782   24.7702 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5214  -13.2081   25.1611 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3718  -13.8406   24.0535 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5136  -14.1798   26.3274 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3819  -14.4971   27.0739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3951  -15.3617   28.1263 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5986  -15.9335   28.3506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7250  -15.6311   27.6174 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7186  -14.7354   26.6268 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  6
+  9 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 11  1  0
+M  END
+>  <SLURM_JOB_NAME>  (4) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch050
+
+>  <alias>  (4) 
+None
+
+>  <HIPPO Pose ID>  (4) 
+3145
+
+>  <exports>  (4) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (4) 
+x0414a,x0489a
+
+>  <fragmenstein_runtime>  (4) 
+5.568801
+
+>  <name>  (4) 
+AILIHNDUZGKEFC-GFCCVEGCSA-N
+
+>  <scratch_subdir>  (4) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302059/C17975-P33
+
+>  <inchikey>  (4) 
+AILIHNDUZGKEFC-GFCCVEGCSA-N
+
+>  <ref_pdb>  (4) 
+x0489a
+
+>  <HIPPO Compound ID>  (4) 
+17975
+
+>  <distance_score>  (4) 
+0.99605
+
+>  <fragmenstein_outcome>  (4) 
+acceptable
+
+>  <fragmenstein_mode>  (4) 
+expansion
+
+>  <SLURM_JOB_ID>  (4) 
+302059
+
+>  <csv_name>  (4) 
+CpKRS_iter1_knitwork_impure_split1000_batch050.csv
+
+>  <energy_score>  (4) 
+-3.232312
+
+>  <original SMILES>  (4) 
+C#CCCCCCN[C@H](C)c1cnccn1
+
+>  <tags>  (4) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (4) 
+AILIHNDUZGKEFC-GFCCVEGCSA-N
+
+>  <fragmenstein_error>  (4) 
+None
+
+$$$$
+3178
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    5.3896   -7.9673   25.8165 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7180   -8.7750   24.2394 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9870   -7.5682   23.1402 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0228   -9.3808   23.9788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9558  -10.3931   22.8388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4746  -11.7761   23.2331 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6497  -12.2958   24.3179 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2749  -13.4546   24.9716 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4752  -14.0548   26.1035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9769  -14.9482   26.9361 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0430  -15.2793   27.8893 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8441  -14.6113   27.8076 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8344  -13.6080   26.4227 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13  9  1  0
+M  CHG  2   2   1   3  -1
+M  END
+>  <SLURM_JOB_NAME>  (5) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch062
+
+>  <alias>  (5) 
+None
+
+>  <HIPPO Pose ID>  (5) 
+3178
+
+>  <exports>  (5) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch062_302071.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (5) 
+x0414a,x0502a
+
+>  <fragmenstein_runtime>  (5) 
+1.884012
+
+>  <name>  (5) 
+OJNTXHVEMHQKMP-ZDUSSCGKSA-N
+
+>  <scratch_subdir>  (5) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302071/C5573-P45
+
+>  <inchikey>  (5) 
+OJNTXHVEMHQKMP-ZDUSSCGKSA-N
+
+>  <ref_pdb>  (5) 
+x0502a
+
+>  <HIPPO Compound ID>  (5) 
+5573
+
+>  <distance_score>  (5) 
+0.942874
+
+>  <fragmenstein_outcome>  (5) 
+acceptable
+
+>  <fragmenstein_mode>  (5) 
+expansion
+
+>  <SLURM_JOB_ID>  (5) 
+302071
+
+>  <csv_name>  (5) 
+CpKRS_iter1_knitwork_impure_split1000_batch062.csv
+
+>  <energy_score>  (5) 
+-70.631177
+
+>  <original SMILES>  (5) 
+C[S@+]([O-])CCCNCc1nccs1
+
+>  <tags>  (5) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (5) 
+OJNTXHVEMHQKMP-ZDUSSCGKSA-N
+
+>  <fragmenstein_error>  (5) 
+None
+
+$$$$
+4534
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.1842   -7.5565   23.5634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1144   -9.0726   23.5131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0153   -9.5918   24.6090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5564   -9.5301   22.1225 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3926   -9.5735   23.9046 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3567  -11.2330   23.1689 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1074  -12.0385   23.5577 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1006  -12.6896   24.8784 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3751  -13.3777   25.1212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519  -14.3064   26.2933 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4268  -14.5035   27.2158 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5334  -15.3337   28.2883 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7369  -15.9378   28.3937 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7642  -15.7290   27.4926 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6506  -14.9242   26.4305 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (6) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch050
+
+>  <alias>  (6) 
+None
+
+>  <HIPPO Pose ID>  (6) 
+4534
+
+>  <exports>  (6) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (6) 
+x0414a,x0489a
+
+>  <fragmenstein_runtime>  (6) 
+21.308496
+
+>  <name>  (6) 
+PUCGSYGSCVVRIO-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (6) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302059/C17993-P33
+
+>  <inchikey>  (6) 
+PUCGSYGSCVVRIO-UHFFFAOYSA-N
+
+>  <ref_pdb>  (6) 
+x0489a
+
+>  <HIPPO Compound ID>  (6) 
+17993
+
+>  <distance_score>  (6) 
+0.746911
+
+>  <fragmenstein_outcome>  (6) 
+acceptable
+
+>  <fragmenstein_mode>  (6) 
+expansion
+
+>  <SLURM_JOB_ID>  (6) 
+302059
+
+>  <csv_name>  (6) 
+CpKRS_iter1_knitwork_impure_split1000_batch050.csv
+
+>  <energy_score>  (6) 
+-39.649198
+
+>  <original SMILES>  (6) 
+CC(C)(C)SCCNCc1cnccn1
+
+>  <tags>  (6) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (6) 
+PUCGSYGSCVVRIO-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (6) 
+None
+
+$$$$
+5492
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    4.7779   -9.7568   21.7486 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1667  -10.4003   23.0064 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7902   -9.7724   23.3102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0325  -11.9420   22.8149 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2817  -12.6067   23.8844 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1313  -13.3275   24.8393 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3652  -13.9522   25.9683 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7841  -14.9855   26.7899 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9476  -15.3182   27.8361 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8817  -14.5563   27.7779 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8022  -13.4426   26.4779 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0969  -10.1381   24.1877 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4368   -8.6995   24.4564 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1282   -8.6927   25.6156 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2623   -8.1867   23.5186 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (7) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch062
+
+>  <alias>  (7) 
+None
+
+>  <HIPPO Pose ID>  (7) 
+5492
+
+>  <exports>  (7) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch062_302071.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (7) 
+x0414a,x0502a
+
+>  <fragmenstein_runtime>  (7) 
+5.860484
+
+>  <name>  (7) 
+LPSMHLQTTQNKAM-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (7) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302071/C5633-P45
+
+>  <inchikey>  (7) 
+LPSMHLQTTQNKAM-UHFFFAOYSA-N
+
+>  <ref_pdb>  (7) 
+x0502a
+
+>  <HIPPO Compound ID>  (7) 
+5633
+
+>  <distance_score>  (7) 
+0.799958
+
+>  <fragmenstein_outcome>  (7) 
+acceptable
+
+>  <fragmenstein_mode>  (7) 
+expansion
+
+>  <SLURM_JOB_ID>  (7) 
+302071
+
+>  <csv_name>  (7) 
+CpKRS_iter1_knitwork_impure_split1000_batch062.csv
+
+>  <energy_score>  (7) 
+-52.91549
+
+>  <original SMILES>  (7) 
+CC(C)(CNCc1cncs1)CC(F)F
+
+>  <tags>  (7) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (7) 
+LPSMHLQTTQNKAM-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (7) 
+None
+
+$$$$
+5666
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    5.2610   -8.1432   21.7897 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9711   -8.2290   23.5661 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4280   -8.2663   24.3358 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2109   -9.8550   23.6099 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1782  -10.9649   23.2447 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4381  -12.2467   22.9052 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5325  -12.6546   23.9715 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2531  -13.3895   25.0306 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3710  -13.9423   26.1209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702  -14.8856   26.9524 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7955  -15.1289   27.8901 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6613  -14.3595   27.7788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7681  -13.3596   26.3968 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13  9  1  0
+M  CHG  2   2   1   3  -1
+M  END
+>  <SLURM_JOB_NAME>  (8) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch071
+
+>  <alias>  (8) 
+None
+
+>  <HIPPO Pose ID>  (8) 
+5666
+
+>  <exports>  (8) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (8) 
+x0414a,x0502c
+
+>  <fragmenstein_runtime>  (8) 
+1.736966
+
+>  <name>  (8) 
+OJNTXHVEMHQKMP-ZDUSSCGKSA-N
+
+>  <scratch_subdir>  (8) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302080/C5573-P46
+
+>  <inchikey>  (8) 
+OJNTXHVEMHQKMP-ZDUSSCGKSA-N
+
+>  <ref_pdb>  (8) 
+x0502c
+
+>  <HIPPO Compound ID>  (8) 
+5573
+
+>  <distance_score>  (8) 
+0.988228
+
+>  <fragmenstein_outcome>  (8) 
+acceptable
+
+>  <fragmenstein_mode>  (8) 
+expansion
+
+>  <SLURM_JOB_ID>  (8) 
+302080
+
+>  <csv_name>  (8) 
+CpKRS_iter1_knitwork_impure_split1000_batch071.csv
+
+>  <energy_score>  (8) 
+-67.471716
+
+>  <original SMILES>  (8) 
+C[S@+]([O-])CCCNCc1nccs1
+
+>  <tags>  (8) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (8) 
+OJNTXHVEMHQKMP-ZDUSSCGKSA-N
+
+>  <fragmenstein_error>  (8) 
+None
+
+$$$$
+6040
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    4.5865   -8.9641   23.0600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5739  -10.2743   22.7608 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7546  -11.4470   23.7012 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3525  -10.9500   25.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5098  -12.2157   23.7447 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1114  -12.9005   24.9828 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9532  -14.0896   25.4785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3485  -14.8307   26.6357 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9366  -15.8719   27.3942 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1568  -16.2928   28.3960 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9918  -15.5509   28.2735 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1134  -14.6952   27.2281 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  1
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  2  0
+M  END
+>  <SLURM_JOB_NAME>  (9) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch113
+
+>  <alias>  (9) 
+None
+
+>  <HIPPO Pose ID>  (9) 
+6040
+
+>  <exports>  (9) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (9) 
+x0414a,x0759a
+
+>  <fragmenstein_runtime>  (9) 
+2.251972
+
+>  <name>  (9) 
+HRUNAPFXVQCMET-MRVPVSSYSA-N
+
+>  <scratch_subdir>  (9) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302122/C15015-P62
+
+>  <inchikey>  (9) 
+HRUNAPFXVQCMET-MRVPVSSYSA-N
+
+>  <ref_pdb>  (9) 
+x0759a
+
+>  <HIPPO Compound ID>  (9) 
+15015
+
+>  <distance_score>  (9) 
+0.902698
+
+>  <fragmenstein_outcome>  (9) 
+acceptable
+
+>  <fragmenstein_mode>  (9) 
+expansion
+
+>  <SLURM_JOB_ID>  (9) 
+302122
+
+>  <csv_name>  (9) 
+CpKRS_iter1_knitwork_impure_split1000_batch113.csv
+
+>  <energy_score>  (9) 
+-14.938433
+
+>  <original SMILES>  (9) 
+C=C[C@@H](C)NCCc1cnoc1
+
+>  <tags>  (9) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (9) 
+HRUNAPFXVQCMET-MRVPVSSYSA-N
+
+>  <fragmenstein_error>  (9) 
+None
+
+$$$$
+6069
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.6116   -7.8015   23.0804 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7762   -8.9737   22.5872 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1936   -9.8742   23.6940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1810   -9.0662   24.5128 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3669  -10.3080   24.5560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5690  -11.1462   23.0500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2894  -11.7280   23.6821 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4603  -12.3366   25.0034 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9775  -13.7010   24.8672 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3103  -14.3858   26.1623 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3305  -14.6023   27.1304 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5373  -15.3267   28.2613 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7872  -15.8322   28.3606 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7737  -15.6019   27.4136 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5688  -14.8676   26.3076 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (10) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch050
+
+>  <alias>  (10) 
+None
+
+>  <HIPPO Pose ID>  (10) 
+6069
+
+>  <exports>  (10) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (10) 
+x0414a,x0489a
+
+>  <fragmenstein_runtime>  (10) 
+6.731566
+
+>  <name>  (10) 
+MKIFDNQIOWOFIK-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (10) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302059/C18022-P33
+
+>  <inchikey>  (10) 
+MKIFDNQIOWOFIK-UHFFFAOYSA-N
+
+>  <ref_pdb>  (10) 
+x0489a
+
+>  <HIPPO Compound ID>  (10) 
+18022
+
+>  <distance_score>  (10) 
+0.979758
+
+>  <fragmenstein_outcome>  (10) 
+acceptable
+
+>  <fragmenstein_mode>  (10) 
+expansion
+
+>  <SLURM_JOB_ID>  (10) 
+302059
+
+>  <csv_name>  (10) 
+CpKRS_iter1_knitwork_impure_split1000_batch050.csv
+
+>  <energy_score>  (10) 
+-19.568594
+
+>  <original SMILES>  (10) 
+CCC(C)(C)CCNCc1cnccn1
+
+>  <tags>  (10) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (10) 
+MKIFDNQIOWOFIK-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (10) 
+None
+
+$$$$
+6466
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.7299  -10.8547   24.9531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2699  -11.1172   24.6082 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.8071  -10.0922   23.5723 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6487  -10.0540   22.2948 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5124   -8.8219   22.2102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7656   -7.7141   22.4569 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9313   -8.6969   20.9360 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0290  -12.4493   24.0512 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2085  -13.3056   24.9277 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0497  -14.2583   25.7844 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3154  -14.9667   26.8683 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8267  -15.9832   27.7065 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9637  -16.3525   28.6551 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8215  -15.6059   28.4094 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0375  -14.7938   27.3447 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  1  0
+  2  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 11  2  0
+M  END
+>  <SLURM_JOB_NAME>  (11) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch113
+
+>  <alias>  (11) 
+None
+
+>  <HIPPO Pose ID>  (11) 
+6466
+
+>  <exports>  (11) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (11) 
+x0414a,x0759a
+
+>  <fragmenstein_runtime>  (11) 
+2.302594
+
+>  <name>  (11) 
+MGQWLSGJRVKGKZ-QMMMGPOBSA-N
+
+>  <scratch_subdir>  (11) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302122/C15042-P62
+
+>  <inchikey>  (11) 
+MGQWLSGJRVKGKZ-QMMMGPOBSA-N
+
+>  <ref_pdb>  (11) 
+x0759a
+
+>  <HIPPO Compound ID>  (11) 
+15042
+
+>  <distance_score>  (11) 
+0.925416
+
+>  <fragmenstein_outcome>  (11) 
+acceptable
+
+>  <fragmenstein_mode>  (11) 
+expansion
+
+>  <SLURM_JOB_ID>  (11) 
+302122
+
+>  <csv_name>  (11) 
+CpKRS_iter1_knitwork_impure_split1000_batch113.csv
+
+>  <energy_score>  (11) 
+-26.136496
+
+>  <original SMILES>  (11) 
+C[C@@H](CCC(F)F)NCCc1cnoc1
+
+>  <tags>  (11) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (11) 
+MGQWLSGJRVKGKZ-QMMMGPOBSA-N
+
+>  <fragmenstein_error>  (11) 
+None
+
+$$$$
+7031
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    4.5971  -12.9818   23.7145 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3271  -12.5043   24.4318 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0656  -12.4575   23.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5732  -11.0651   24.6248 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0051  -13.2794   25.7047 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9108  -13.1110   26.4359 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9395  -14.0475   27.4580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9355  -14.9186   27.5691 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9735  -14.5814   26.3117 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  5  1  0
+M  END
+>  <SLURM_JOB_NAME>  (12) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch009
+
+>  <alias>  (12) 
+None
+
+>  <HIPPO Pose ID>  (12) 
+7031
+
+>  <exports>  (12) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch009_302018.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (12) 
+x0414a,x0492a
+
+>  <fragmenstein_runtime>  (12) 
+1.49071
+
+>  <name>  (12) 
+CMYJESKWMXRRIE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (12) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302018/C27308-P34
+
+>  <inchikey>  (12) 
+CMYJESKWMXRRIE-UHFFFAOYSA-N
+
+>  <ref_pdb>  (12) 
+x0492a
+
+>  <HIPPO Compound ID>  (12) 
+27308
+
+>  <distance_score>  (12) 
+0.970737
+
+>  <fragmenstein_outcome>  (12) 
+acceptable
+
+>  <fragmenstein_mode>  (12) 
+expansion
+
+>  <SLURM_JOB_ID>  (12) 
+302018
+
+>  <csv_name>  (12) 
+CpKRS_iter1_knitwork_impure_split1000_batch009.csv
+
+>  <energy_score>  (12) 
+-27.285125
+
+>  <original SMILES>  (12) 
+CC(C)(N)c1ncns1
+
+>  <tags>  (12) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (12) 
+CMYJESKWMXRRIE-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (12) 
+None
+
+$$$$
+7240
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    4.6814   -9.8413   21.5932 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4398  -10.5060   22.9666 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7946  -10.9724   23.4298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5059  -11.7268   22.8165 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9265  -12.2837   24.0381 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8283  -13.1016   24.8559 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1280  -13.8202   25.9723 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5991  -14.8990   26.7013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8403  -15.2773   27.7917 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7891  -14.4956   27.8613 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5978  -13.3521   26.6019 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8419   -9.5004   23.9515 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7329   -8.3235   24.2536 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8327   -8.7162   24.9384 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0394   -7.5073   25.0824 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (13) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch071
+
+>  <alias>  (13) 
+None
+
+>  <HIPPO Pose ID>  (13) 
+7240
+
+>  <exports>  (13) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (13) 
+x0414a,x0502c
+
+>  <fragmenstein_runtime>  (13) 
+5.680129
+
+>  <name>  (13) 
+LPSMHLQTTQNKAM-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (13) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302080/C5633-P46
+
+>  <inchikey>  (13) 
+LPSMHLQTTQNKAM-UHFFFAOYSA-N
+
+>  <ref_pdb>  (13) 
+x0502c
+
+>  <HIPPO Compound ID>  (13) 
+5633
+
+>  <distance_score>  (13) 
+0.996325
+
+>  <fragmenstein_outcome>  (13) 
+acceptable
+
+>  <fragmenstein_mode>  (13) 
+expansion
+
+>  <SLURM_JOB_ID>  (13) 
+302080
+
+>  <csv_name>  (13) 
+CpKRS_iter1_knitwork_impure_split1000_batch071.csv
+
+>  <energy_score>  (13) 
+-49.796243
+
+>  <original SMILES>  (13) 
+CC(C)(CNCc1cncs1)CC(F)F
+
+>  <tags>  (13) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (13) 
+LPSMHLQTTQNKAM-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (13) 
+None
+
+$$$$
+7285
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    5.1251   -7.9789   22.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2220   -8.5130   23.2298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1539   -7.9960   24.2784 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3998   -9.7252   23.5756 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1867  -10.9772   23.2045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2960  -12.1710   22.9077 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4396  -12.5484   24.0255 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1747  -13.3479   25.0142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3010  -13.9158   26.0872 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5948  -14.9777   26.9252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6807  -15.2363   27.9258 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6901  -14.3835   27.8140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7431  -13.3083   26.4846 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13  9  1  0
+M  END
+>  <SLURM_JOB_NAME>  (14) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch071
+
+>  <alias>  (14) 
+None
+
+>  <HIPPO Pose ID>  (14) 
+7285
+
+>  <exports>  (14) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (14) 
+x0414a,x0502c
+
+>  <fragmenstein_runtime>  (14) 
+2.672786
+
+>  <name>  (14) 
+SGKXJURVPZMNDL-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (14) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302080/C5634-P46
+
+>  <inchikey>  (14) 
+SGKXJURVPZMNDL-UHFFFAOYSA-N
+
+>  <ref_pdb>  (14) 
+x0502c
+
+>  <HIPPO Compound ID>  (14) 
+5634
+
+>  <distance_score>  (14) 
+0.929384
+
+>  <fragmenstein_outcome>  (14) 
+acceptable
+
+>  <fragmenstein_mode>  (14) 
+expansion
+
+>  <SLURM_JOB_ID>  (14) 
+302080
+
+>  <csv_name>  (14) 
+CpKRS_iter1_knitwork_impure_split1000_batch071.csv
+
+>  <energy_score>  (14) 
+-73.055448
+
+>  <original SMILES>  (14) 
+C=C(C)CCCNCc1cncs1
+
+>  <tags>  (14) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (14) 
+SGKXJURVPZMNDL-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (14) 
+None
+
+$$$$
+7475
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    3.8811   -9.0802   23.5161 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2548  -10.4748   22.9981 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2968  -10.3309   21.8940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7288  -11.4478   24.0999 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.6888  -10.7190   24.9522 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4215  -10.0891   25.5914 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5398  -11.9474   24.8222 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3021  -13.3885   24.6138 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0458  -14.2956   25.6107 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2406  -14.8442   26.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6034  -15.9184   27.5875 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6996  -16.1511   28.5425 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6796  -15.2455   28.2959 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0092  -14.4762   27.2272 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  1
+  5  6  3  0
+  4  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 10  2  0
+M  END
+>  <SLURM_JOB_NAME>  (15) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch113
+
+>  <alias>  (15) 
+None
+
+>  <HIPPO Pose ID>  (15) 
+7475
+
+>  <exports>  (15) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (15) 
+x0414a,x0759a
+
+>  <fragmenstein_runtime>  (15) 
+3.168904
+
+>  <name>  (15) 
+UKSMBSBRWVHKDT-SNVBAGLBSA-N
+
+>  <scratch_subdir>  (15) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302122/C25113-P62
+
+>  <inchikey>  (15) 
+UKSMBSBRWVHKDT-SNVBAGLBSA-N
+
+>  <ref_pdb>  (15) 
+x0759a
+
+>  <HIPPO Compound ID>  (15) 
+25113
+
+>  <distance_score>  (15) 
+0.945977
+
+>  <fragmenstein_outcome>  (15) 
+acceptable
+
+>  <fragmenstein_mode>  (15) 
+expansion
+
+>  <SLURM_JOB_ID>  (15) 
+302122
+
+>  <csv_name>  (15) 
+CpKRS_iter1_knitwork_impure_split1000_batch113.csv
+
+>  <energy_score>  (15) 
+-14.995687
+
+>  <original SMILES>  (15) 
+CC(C)[C@@H](C#N)NCCc1cnoc1
+
+>  <tags>  (15) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (15) 
+UKSMBSBRWVHKDT-SNVBAGLBSA-N
+
+>  <fragmenstein_error>  (15) 
+None
+
+$$$$
+7738
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    6.3899   -8.0081   24.2598 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0379   -8.3030   23.6303 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0028   -8.3378   24.7463 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0116   -9.6046   22.8178 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3404  -10.8442   23.6507 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0179  -12.1415   22.9226 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5360  -12.5080   22.9747 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9449  -12.7168   24.3024 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6799  -13.7098   25.1004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8782  -14.0959   26.2891 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8064  -13.4294   26.9215 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3457  -14.0839   27.9898 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1468  -15.2114   28.0881 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0329  -15.2232   27.0622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 10  2  0
+M  END
+>  <SLURM_JOB_NAME>  (16) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch115
+
+>  <alias>  (16) 
+None
+
+>  <HIPPO Pose ID>  (16) 
+7738
+
+>  <exports>  (16) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch115_302124.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (16) 
+x0414a,x0759b
+
+>  <fragmenstein_runtime>  (16) 
+2.836159
+
+>  <name>  (16) 
+FOWIBQZSEGCPDF-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (16) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302124/C15059-P61
+
+>  <inchikey>  (16) 
+FOWIBQZSEGCPDF-UHFFFAOYSA-N
+
+>  <ref_pdb>  (16) 
+x0759b
+
+>  <HIPPO Compound ID>  (16) 
+15059
+
+>  <distance_score>  (16) 
+0.864482
+
+>  <fragmenstein_outcome>  (16) 
+acceptable
+
+>  <fragmenstein_mode>  (16) 
+expansion
+
+>  <SLURM_JOB_ID>  (16) 
+302124
+
+>  <csv_name>  (16) 
+CpKRS_iter1_knitwork_impure_split1000_batch115.csv
+
+>  <energy_score>  (16) 
+-23.384058
+
+>  <original SMILES>  (16) 
+CC(C)CCCCNCc1cnoc1
+
+>  <tags>  (16) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (16) 
+FOWIBQZSEGCPDF-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (16) 
+None
+
+$$$$
+8075
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    5.7612   -7.5373   23.6943 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3661   -9.0212   23.5276 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -9.5051   22.2140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0102   -9.6973   24.7159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8179   -9.3105   23.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0888   -8.9302   24.7548 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2672   -8.4145   22.3662 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5458  -10.8262   23.1332 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2246  -11.3984   23.4381 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1466  -12.2381   24.6589 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3882  -13.0782   24.9551 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2308  -14.3136   25.8435 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6217  -14.7454   26.3035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5924  -15.9472   27.2193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5180  -15.8477   28.2867 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2044  -15.5257   27.7333 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2398  -14.2474   27.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 12 11  1  1
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 12  1  0
+M  END
+>  <SLURM_JOB_NAME>  (17) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch050
+
+>  <alias>  (17) 
+None
+
+>  <HIPPO Pose ID>  (17) 
+8075
+
+>  <exports>  (17) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (17) 
+x0414a,x0489a
+
+>  <fragmenstein_runtime>  (17) 
+99.635694
+
+>  <name>  (17) 
+HWBNRJAIGLVGAV-CYBMUJFWSA-N
+
+>  <scratch_subdir>  (17) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/302059/C18104-P33
+
+>  <inchikey>  (17) 
+HWBNRJAIGLVGAV-CYBMUJFWSA-N
+
+>  <ref_pdb>  (17) 
+x0489a
+
+>  <HIPPO Compound ID>  (17) 
+18104
+
+>  <distance_score>  (17) 
+0.991379
+
+>  <fragmenstein_outcome>  (17) 
+acceptable
+
+>  <fragmenstein_mode>  (17) 
+expansion
+
+>  <SLURM_JOB_ID>  (17) 
+302059
+
+>  <csv_name>  (17) 
+CpKRS_iter1_knitwork_impure_split1000_batch050.csv
+
+>  <energy_score>  (17) 
+-42.689551
+
+>  <original SMILES>  (17) 
+CC(C)(C)C(C)(C)CNCC[C@H]1CCCNC1
+
+>  <tags>  (17) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (17) 
+HWBNRJAIGLVGAV-CYBMUJFWSA-N
+
+>  <fragmenstein_error>  (17) 
+None
+
+$$$$
+40377
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    4.1544   -8.5079   25.9553 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8745   -9.8979   25.5766 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5356  -10.7790   26.5321 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1223  -10.1498   24.1424 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5736   -9.8706   23.6806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6636   -8.5166   23.1380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6301   -7.4584   22.6696 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6113  -11.5067   23.5557 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5434  -12.7146   23.7517 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7759  -14.0098   23.9832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9289  -13.8851   25.1595 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9901  -12.7629   25.1104 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1507  -11.8279   23.9136 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  1
+  5  6  1  0
+  6  7  3  0
+  4  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13  8  1  0
+M  END
+>  <SLURM_JOB_NAME>  (18) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch051
+
+>  <alias>  (18) 
+None
+
+>  <HIPPO Pose ID>  (18) 
+40377
+
+>  <exports>  (18) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch051_304213.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (18) 
+x0414a,x0489a
+
+>  <fragmenstein_runtime>  (18) 
+10.768893
+
+>  <name>  (18) 
+DQNXLGWACCGJDE-JTQLQIEISA-N
+
+>  <scratch_subdir>  (18) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304213/C25973-P6
+
+>  <inchikey>  (18) 
+DQNXLGWACCGJDE-JTQLQIEISA-N
+
+>  <ref_pdb>  (18) 
+x0414a
+
+>  <HIPPO Compound ID>  (18) 
+25973
+
+>  <distance_score>  (18) 
+0.971556
+
+>  <fragmenstein_outcome>  (18) 
+acceptable
+
+>  <fragmenstein_mode>  (18) 
+expansion
+
+>  <SLURM_JOB_ID>  (18) 
+304213
+
+>  <csv_name>  (18) 
+CpKRS_iter1_knitwork_impure_split1000_batch051.csv
+
+>  <energy_score>  (18) 
+-35.750262
+
+>  <original SMILES>  (18) 
+CN(C)[C@@H](CC#N)C1CCNCC1
+
+>  <tags>  (18) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (18) 
+DQNXLGWACCGJDE-JTQLQIEISA-N
+
+>  <fragmenstein_error>  (18) 
+None
+
+$$$$
+41300
+     RDKit          3D
+
+ 22 25  0  0  0  0  0  0  0  0999 V2000
+   -1.7529  -13.5114   26.6412 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1220  -12.9333   25.8475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3793  -12.6020   25.8171 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4066  -12.8270   26.7994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4451  -13.8962   26.6475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4234  -14.9250   27.6220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4371  -15.8701   27.7054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4723  -15.7713   26.8127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5525  -14.8111   25.8803 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5448  -13.8934   25.7750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7273  -12.9470   24.7176 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1058  -11.7518   24.4449 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4333  -11.3022   23.2547 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4157  -12.1675   22.8883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6723  -13.1402   23.7537 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8581  -12.2624   24.6290 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5256  -10.8175   24.4502 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9858  -11.0650   23.1027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4459  -12.4955   23.2063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4935  -13.6022   22.8594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3979  -13.9376   21.6523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4835  -13.0040   22.2318 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 16  2  1  1
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 10  5  1  0
+ 15 11  1  0
+ 19 16  1  0
+ 22 19  1  0
+M  END
+>  <SLURM_JOB_NAME>  (19) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch089
+
+>  <alias>  (19) 
+None
+
+>  <HIPPO Pose ID>  (19) 
+41300
+
+>  <exports>  (19) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch089_304251.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (19) 
+x0489a,x0606a
+
+>  <fragmenstein_runtime>  (19) 
+6.970355
+
+>  <name>  (19) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <scratch_subdir>  (19) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304251/C6962-P33
+
+>  <inchikey>  (19) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <ref_pdb>  (19) 
+x0489a
+
+>  <HIPPO Compound ID>  (19) 
+6962
+
+>  <distance_score>  (19) 
+0.997429
+
+>  <fragmenstein_outcome>  (19) 
+acceptable
+
+>  <fragmenstein_mode>  (19) 
+expansion
+
+>  <SLURM_JOB_ID>  (19) 
+304251
+
+>  <csv_name>  (19) 
+CpKRS_iter1_knitwork_impure_split1000_batch089.csv
+
+>  <energy_score>  (19) 
+-6.774903
+
+>  <original SMILES>  (19) 
+O=C(NCc1cccnc1-n1cncn1)[C@H]1NCC12CCC2
+
+>  <tags>  (19) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (19) 
+XWZCFWAKBJJRDD-GFCCVEGCSA-N
+
+>  <fragmenstein_error>  (19) 
+None
+
+$$$$
+47133
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.8029   -5.7422   27.1395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0671   -6.2453   25.8016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1168   -6.8715   24.7824 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8797   -7.9084   23.7850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8599   -8.9132   24.3857 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.4716   -9.6616   25.6133 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6452  -10.8194   26.0854 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3219  -10.8192   26.4681 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8431  -12.1178   26.7805 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8161  -13.0725   26.5996 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3223  -12.3826   26.1893 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2677   -9.7737   23.3418 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2826  -10.6296   22.7228 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6715  -11.8193   22.0028 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1002  -12.9103   22.8877 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  3  0
+  3  4  1  0
+  5  4  1  6
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  5 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (20) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch117
+
+>  <alias>  (20) 
+None
+
+>  <HIPPO Pose ID>  (20) 
+47133
+
+>  <exports>  (20) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch117_304279.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (20) 
+x0414a,x0787a
+
+>  <fragmenstein_runtime>  (20) 
+9.013496
+
+>  <name>  (20) 
+CDKGIQFFHOZRJD-GFCCVEGCSA-N
+
+>  <scratch_subdir>  (20) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304279/C25550-P6
+
+>  <inchikey>  (20) 
+CDKGIQFFHOZRJD-GFCCVEGCSA-N
+
+>  <ref_pdb>  (20) 
+x0414a
+
+>  <HIPPO Compound ID>  (20) 
+25550
+
+>  <distance_score>  (20) 
+0.885477
+
+>  <fragmenstein_outcome>  (20) 
+acceptable
+
+>  <fragmenstein_mode>  (20) 
+expansion
+
+>  <SLURM_JOB_ID>  (20) 
+304279
+
+>  <csv_name>  (20) 
+CpKRS_iter1_knitwork_impure_split1000_batch117.csv
+
+>  <energy_score>  (20) 
+-21.7892
+
+>  <original SMILES>  (20) 
+CC#CC[C@H](Cc1cccs1)NCCC
+
+>  <tags>  (20) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (20) 
+CDKGIQFFHOZRJD-GFCCVEGCSA-N
+
+>  <fragmenstein_error>  (20) 
+None
+
+$$$$
+48474
+     RDKit          3D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    3.4500  -11.6809   26.8120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0029  -12.2232   25.4885 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5934  -13.6305   25.3728 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4908  -11.4261   24.2704 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3430  -10.2633   23.8154 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9014  -10.2695   22.5315 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5905   -9.1498   22.0948 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7712   -8.0422   22.8433 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2682   -8.0712   24.0942 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380   -9.1316   24.6095 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+M  END
+>  <SLURM_JOB_NAME>  (21) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch012
+
+>  <alias>  (21) 
+None
+
+>  <HIPPO Pose ID>  (21) 
+48474
+
+>  <exports>  (21) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (21) 
+x0414a,x0759b,x0759a
+
+>  <fragmenstein_runtime>  (21) 
+5.347464
+
+>  <name>  (21) 
+SCMJZBZLSWJQJO-SSDOTTSWSA-N
+
+>  <scratch_subdir>  (21) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304174/C3554-P6
+
+>  <inchikey>  (21) 
+SCMJZBZLSWJQJO-SSDOTTSWSA-N
+
+>  <ref_pdb>  (21) 
+x0414a
+
+>  <HIPPO Compound ID>  (21) 
+3554
+
+>  <distance_score>  (21) 
+1.215769
+
+>  <fragmenstein_outcome>  (21) 
+acceptable
+
+>  <fragmenstein_mode>  (21) 
+expansion
+
+>  <SLURM_JOB_ID>  (21) 
+304174
+
+>  <csv_name>  (21) 
+CpKRS_iter1_knitwork_impure_split1000_batch012.csv
+
+>  <energy_score>  (21) 
+-13.52753
+
+>  <original SMILES>  (21) 
+C[C@@H](N)Cc1ccncc1
+
+>  <tags>  (21) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (21) 
+SCMJZBZLSWJQJO-SSDOTTSWSA-N
+
+>  <fragmenstein_error>  (21) 
+None
+
+$$$$
+48850
+     RDKit          3D
+
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+    2.3242  -12.2665   25.6307 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791  -12.7915   24.4064 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8131  -14.2309   24.3029 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5887  -12.5396   24.4865 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9354  -11.1096   24.5176 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1054  -10.5585   25.7661 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4473   -9.2100   25.6432 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4944   -9.0225   24.3343 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1749  -10.1499   23.5846 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2419   -9.9030   22.1409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3266   -8.3429   22.1017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8501   -7.8696   23.5034 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+  9  5  2  0
+ 12  8  1  0
+M  END
+>  <SLURM_JOB_NAME>  (22) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch012
+
+>  <alias>  (22) 
+None
+
+>  <HIPPO Pose ID>  (22) 
+48850
+
+>  <exports>  (22) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (22) 
+x0414a,x0759b,x0759a
+
+>  <fragmenstein_runtime>  (22) 
+3.985672
+
+>  <name>  (22) 
+NFSHFUSCYWFUSW-LURJTMIESA-N
+
+>  <scratch_subdir>  (22) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304174/C6310-P6
+
+>  <inchikey>  (22) 
+NFSHFUSCYWFUSW-LURJTMIESA-N
+
+>  <ref_pdb>  (22) 
+x0414a
+
+>  <HIPPO Compound ID>  (22) 
+6310
+
+>  <distance_score>  (22) 
+1.523053
+
+>  <fragmenstein_outcome>  (22) 
+acceptable
+
+>  <fragmenstein_mode>  (22) 
+expansion
+
+>  <SLURM_JOB_ID>  (22) 
+304174
+
+>  <csv_name>  (22) 
+CpKRS_iter1_knitwork_impure_split1000_batch012.csv
+
+>  <energy_score>  (22) 
+-32.353643
+
+>  <original SMILES>  (22) 
+C[C@H](N)Cc1onc2c1CCC2
+
+>  <tags>  (22) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (22) 
+NFSHFUSCYWFUSW-LURJTMIESA-N
+
+>  <fragmenstein_error>  (22) 
+None
+
+$$$$
+49184
+     RDKit          3D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+    3.5780  -11.6259   26.8116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0339  -12.3390   25.5329 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6448  -13.7517   25.6269 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4104  -11.7206   24.2712 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1558  -10.5566   23.6806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9028  -10.7108   22.5082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4927   -9.6026   21.9151 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3215   -8.3735   22.5171 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6231   -8.1878   23.6562 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0691   -9.2815   24.2235 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+M  END
+>  <SLURM_JOB_NAME>  (23) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch012
+
+>  <alias>  (23) 
+None
+
+>  <HIPPO Pose ID>  (23) 
+49184
+
+>  <exports>  (23) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (23) 
+x0414a,x0759b,x0759a
+
+>  <fragmenstein_runtime>  (23) 
+3.489793
+
+>  <name>  (23) 
+PUEWSNLDTZQXLN-SSDOTTSWSA-N
+
+>  <scratch_subdir>  (23) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304174/C3556-P6
+
+>  <inchikey>  (23) 
+PUEWSNLDTZQXLN-SSDOTTSWSA-N
+
+>  <ref_pdb>  (23) 
+x0414a
+
+>  <HIPPO Compound ID>  (23) 
+3556
+
+>  <distance_score>  (23) 
+1.430278
+
+>  <fragmenstein_outcome>  (23) 
+acceptable
+
+>  <fragmenstein_mode>  (23) 
+expansion
+
+>  <SLURM_JOB_ID>  (23) 
+304174
+
+>  <csv_name>  (23) 
+CpKRS_iter1_knitwork_impure_split1000_batch012.csv
+
+>  <energy_score>  (23) 
+-12.979111
+
+>  <original SMILES>  (23) 
+C[C@@H](N)Cc1cccnc1
+
+>  <tags>  (23) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (23) 
+PUEWSNLDTZQXLN-SSDOTTSWSA-N
+
+>  <fragmenstein_error>  (23) 
+None
+
+$$$$
+49186
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    2.8372  -12.9104   22.9626 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7367  -12.1747   23.8598 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0168  -11.9225   23.1910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0113  -10.9225   22.0426 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5391   -9.5080   22.3292 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4303   -8.6893   23.2658 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1145   -8.6791   24.7861 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6354   -8.8398   25.1399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6245   -7.3273   25.3358 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8300   -9.7350   25.5298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3593  -10.5328   26.1857 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0128  -12.9726   25.0914 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7827  -13.5451   25.7360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5148  -14.9181   25.9560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2636  -14.9510   26.5186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8744  -13.6526   26.6380 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7661  -12.7768   26.1577 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+ 10 11  3  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 13  2  0
+M  END
+>  <SLURM_JOB_NAME>  (24) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (24) 
+None
+
+>  <HIPPO Pose ID>  (24) 
+49186
+
+>  <exports>  (24) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (24) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (24) 
+7.323146
+
+>  <name>  (24) 
+LVJKTRYYCJTNHL-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (24) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9717-P6
+
+>  <inchikey>  (24) 
+LVJKTRYYCJTNHL-UHFFFAOYSA-N
+
+>  <ref_pdb>  (24) 
+x0414a
+
+>  <HIPPO Compound ID>  (24) 
+9717
+
+>  <distance_score>  (24) 
+0.999157
+
+>  <fragmenstein_outcome>  (24) 
+acceptable
+
+>  <fragmenstein_mode>  (24) 
+expansion
+
+>  <SLURM_JOB_ID>  (24) 
+304176
+
+>  <csv_name>  (24) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (24) 
+-38.877012
+
+>  <original SMILES>  (24) 
+CN(CCCCC(C)(C)C#N)Cc1cc[nH]n1
+
+>  <tags>  (24) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (24) 
+LVJKTRYYCJTNHL-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (24) 
+None
+
+$$$$
+49333
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    2.1466   -9.3866   24.3976 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4097  -10.8835   24.4427 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166  -11.3359   24.5651 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9168  -12.7927   24.2503 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9801  -13.6907   25.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3297  -14.7687   25.8633 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1371  -15.3659   26.1926 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1683  -14.6020   25.6278 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6483  -13.6401   24.8347 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7416  -10.6089   23.6601 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3615   -9.3289   24.2342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0130   -8.6750   23.2318 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2893   -9.6395   25.1742 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (25) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (25) 
+None
+
+>  <HIPPO Pose ID>  (25) 
+49333
+
+>  <exports>  (25) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (25) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (25) 
+5.957676
+
+>  <name>  (25) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (25) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9721-P6
+
+>  <inchikey>  (25) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <ref_pdb>  (25) 
+x0414a
+
+>  <HIPPO Compound ID>  (25) 
+9721
+
+>  <distance_score>  (25) 
+0.811304
+
+>  <fragmenstein_outcome>  (25) 
+acceptable
+
+>  <fragmenstein_mode>  (25) 
+expansion
+
+>  <SLURM_JOB_ID>  (25) 
+304176
+
+>  <csv_name>  (25) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (25) 
+-13.772286
+
+>  <original SMILES>  (25) 
+CCN(Cc1cc[nH]n1)CC(F)F
+
+>  <tags>  (25) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (25) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (25) 
+None
+
+$$$$
+49350
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    2.4130   -9.6911   22.9702 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7885  -11.1605   23.1322 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8510  -11.4096   24.1335 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0156  -12.8836   24.3154 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0400  -13.4535   25.3194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3470  -14.2927   26.4231 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1531  -14.4884   27.0736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2305  -13.7729   26.3719 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7156  -13.2507   25.2358 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1342  -10.7796   23.7464 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2722   -9.3170   24.1997 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5117   -8.5145   23.1271 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3404   -9.1824   25.0290 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (26) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (26) 
+None
+
+>  <HIPPO Pose ID>  (26) 
+49350
+
+>  <exports>  (26) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (26) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (26) 
+6.025873
+
+>  <name>  (26) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (26) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9721-P12
+
+>  <inchikey>  (26) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <ref_pdb>  (26) 
+x0421b
+
+>  <HIPPO Compound ID>  (26) 
+9721
+
+>  <distance_score>  (26) 
+0.625626
+
+>  <fragmenstein_outcome>  (26) 
+acceptable
+
+>  <fragmenstein_mode>  (26) 
+expansion
+
+>  <SLURM_JOB_ID>  (26) 
+304176
+
+>  <csv_name>  (26) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (26) 
+-13.074691
+
+>  <original SMILES>  (26) 
+CCN(Cc1cc[nH]n1)CC(F)F
+
+>  <tags>  (26) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (26) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (26) 
+None
+
+$$$$
+49476
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    5.0052  -13.8265   24.1972 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6683  -13.1096   24.4131 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7464  -11.6585   24.6342 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8203  -10.9752   23.9299 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6554   -9.4370   24.0536 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5443   -8.8128   25.1358 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9314   -8.7336   22.7206 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9176   -9.1205   21.6771 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2901   -9.0411   22.1645 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9079  -13.7144   25.5542 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1652  -14.7786   26.3963 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0511  -14.8519   27.2457 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1334  -13.9297   26.9584 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7120  -13.1973   25.9910 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  1
+  5  7  1  0
+  7  8  1  0
+  7  9  1  0
+  2 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (27) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (27) 
+None
+
+>  <HIPPO Pose ID>  (27) 
+49476
+
+>  <exports>  (27) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (27) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (27) 
+8.044095
+
+>  <name>  (27) 
+OYBYIEULRJRGNA-ZJUUUORDSA-N
+
+>  <scratch_subdir>  (27) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9724-P12
+
+>  <inchikey>  (27) 
+OYBYIEULRJRGNA-ZJUUUORDSA-N
+
+>  <ref_pdb>  (27) 
+x0421b
+
+>  <HIPPO Compound ID>  (27) 
+9724
+
+>  <distance_score>  (27) 
+0.940065
+
+>  <fragmenstein_outcome>  (27) 
+acceptable
+
+>  <fragmenstein_mode>  (27) 
+expansion
+
+>  <SLURM_JOB_ID>  (27) 
+304176
+
+>  <csv_name>  (27) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (27) 
+-29.681261
+
+>  <original SMILES>  (27) 
+CC(C)[C@H](C)CN[C@@H](C)c1ccn[nH]1
+
+>  <tags>  (27) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (27) 
+OYBYIEULRJRGNA-ZJUUUORDSA-N
+
+>  <fragmenstein_error>  (27) 
+None
+
+$$$$
+49491
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    4.6159  -10.5158   23.7244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0665  -11.3650   24.8724 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.8762  -11.1419   26.0762 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0403  -12.8529   24.4656 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0701  -13.7103   25.2212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2525  -14.9661   25.7656 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0151  -15.4797   26.2493 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9495  -14.6912   26.1490 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4244  -13.2781   25.4279 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  5  1  0
+M  END
+>  <SLURM_JOB_NAME>  (28) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch007
+
+>  <alias>  (28) 
+None
+
+>  <HIPPO Pose ID>  (28) 
+49491
+
+>  <exports>  (28) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch007_304169.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (28) 
+x0414a,x0421a,x0421b,x0421c
+
+>  <fragmenstein_runtime>  (28) 
+3.379349
+
+>  <name>  (28) 
+FICZDWVNXDDACH-YFKPBYRVSA-N
+
+>  <scratch_subdir>  (28) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304169/C6336-P6
+
+>  <inchikey>  (28) 
+FICZDWVNXDDACH-YFKPBYRVSA-N
+
+>  <ref_pdb>  (28) 
+x0414a
+
+>  <HIPPO Compound ID>  (28) 
+6336
+
+>  <distance_score>  (28) 
+0.89666
+
+>  <fragmenstein_outcome>  (28) 
+acceptable
+
+>  <fragmenstein_mode>  (28) 
+expansion
+
+>  <SLURM_JOB_ID>  (28) 
+304169
+
+>  <csv_name>  (28) 
+CpKRS_iter1_knitwork_impure_split1000_batch007.csv
+
+>  <energy_score>  (28) 
+-26.755881
+
+>  <original SMILES>  (28) 
+C[C@H](N)Cc1ccns1
+
+>  <tags>  (28) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (28) 
+FICZDWVNXDDACH-YFKPBYRVSA-N
+
+>  <fragmenstein_error>  (28) 
+None
+
+$$$$
+49595
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    2.5974  -12.3071   22.9726 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6989  -11.9320   23.8631 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9383  -11.7482   23.0773 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9234  -10.8372   21.8512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3319   -9.4393   21.9481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1990   -8.3513   22.5787 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2109   -8.2281   24.1142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8656   -8.4915   24.7874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7644   -6.8440   24.5079 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1745   -9.1514   24.6660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9914   -9.8227   25.1191 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9788  -13.0641   24.7920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9354  -13.4008   25.8312 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0933  -14.4375   26.7952 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9260  -14.4532   27.5128 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1620  -13.4598   26.9860 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7388  -12.7990   25.9714 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+ 10 11  3  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 13  2  0
+M  END
+>  <SLURM_JOB_NAME>  (29) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (29) 
+None
+
+>  <HIPPO Pose ID>  (29) 
+49595
+
+>  <exports>  (29) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (29) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (29) 
+9.962929
+
+>  <name>  (29) 
+LVJKTRYYCJTNHL-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (29) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9717-P14
+
+>  <inchikey>  (29) 
+LVJKTRYYCJTNHL-UHFFFAOYSA-N
+
+>  <ref_pdb>  (29) 
+x0421d
+
+>  <HIPPO Compound ID>  (29) 
+9717
+
+>  <distance_score>  (29) 
+0.996937
+
+>  <fragmenstein_outcome>  (29) 
+acceptable
+
+>  <fragmenstein_mode>  (29) 
+expansion
+
+>  <SLURM_JOB_ID>  (29) 
+304179
+
+>  <csv_name>  (29) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (29) 
+-33.430486
+
+>  <original SMILES>  (29) 
+CN(CCCCC(C)(C)C#N)Cc1cc[nH]n1
+
+>  <tags>  (29) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (29) 
+LVJKTRYYCJTNHL-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (29) 
+None
+
+$$$$
+49673
+     RDKit          3D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+    4.9206  -13.3521   23.9370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1590  -12.3884   24.8902 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1329  -11.7040   25.8845 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4935  -11.3518   24.0512 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2627  -10.5391   23.3087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4243  -10.5574   22.0079 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3139   -9.5421   21.7741 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6321   -8.9214   22.9529 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9473   -9.5472   23.9473 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1602  -13.2461   25.6717 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8716  -12.8446   25.9285 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2550  -13.8806   26.4811 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1812  -14.8458   26.5161 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3881  -14.5212   26.0325 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  2 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+  9  5  1  0
+ 14 10  2  0
+M  END
+>  <SLURM_JOB_NAME>  (30) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch007
+
+>  <alias>  (30) 
+None
+
+>  <HIPPO Pose ID>  (30) 
+49673
+
+>  <exports>  (30) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch007_304169.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (30) 
+x0414a,x0421a,x0421b,x0421c
+
+>  <fragmenstein_runtime>  (30) 
+5.313277
+
+>  <name>  (30) 
+WONVSJBIJSGEAI-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (30) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304169/C6354-P6
+
+>  <inchikey>  (30) 
+WONVSJBIJSGEAI-UHFFFAOYSA-N
+
+>  <ref_pdb>  (30) 
+x0414a
+
+>  <HIPPO Compound ID>  (30) 
+6354
+
+>  <distance_score>  (30) 
+0.866986
+
+>  <fragmenstein_outcome>  (30) 
+acceptable
+
+>  <fragmenstein_mode>  (30) 
+expansion
+
+>  <SLURM_JOB_ID>  (30) 
+304169
+
+>  <csv_name>  (30) 
+CpKRS_iter1_knitwork_impure_split1000_batch007.csv
+
+>  <energy_score>  (30) 
+-25.145872
+
+>  <original SMILES>  (30) 
+CC(C)(Nc1ncco1)c1nn[nH]n1
+
+>  <tags>  (30) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (30) 
+WONVSJBIJSGEAI-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (30) 
+None
+
+$$$$
+49726
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    1.9618  -10.2875   23.5848 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8956  -11.4668   23.3370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8740  -11.6071   24.4252 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1430  -13.0269   24.7374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9888  -13.7086   25.4367 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8669  -15.1006   25.6706 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6613  -15.2552   26.3096 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593  -14.0011   26.4656 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9286  -13.0469   25.9312 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1352  -10.8883   24.1673 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0604   -9.3651   24.2914 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9327   -8.7973   23.0615 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2290   -8.9084   24.8103 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (31) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (31) 
+None
+
+>  <HIPPO Pose ID>  (31) 
+49726
+
+>  <exports>  (31) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (31) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (31) 
+7.679551
+
+>  <name>  (31) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (31) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9721-P6
+
+>  <inchikey>  (31) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <ref_pdb>  (31) 
+x0414a
+
+>  <HIPPO Compound ID>  (31) 
+9721
+
+>  <distance_score>  (31) 
+0.959888
+
+>  <fragmenstein_outcome>  (31) 
+acceptable
+
+>  <fragmenstein_mode>  (31) 
+expansion
+
+>  <SLURM_JOB_ID>  (31) 
+304179
+
+>  <csv_name>  (31) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (31) 
+-14.56688
+
+>  <original SMILES>  (31) 
+CCN(Cc1cc[nH]n1)CC(F)F
+
+>  <tags>  (31) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (31) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (31) 
+None
+
+$$$$
+49743
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    1.5658  -10.1251   24.0644 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4757  -11.1679   23.4290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6655  -11.4235   24.2704 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8068  -12.8860   24.5119 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9172  -13.3853   25.6344 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2983  -14.3261   26.6314 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1861  -14.5024   27.4156 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2372  -13.6814   26.8924 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6276  -13.0254   25.7907 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8951  -10.9089   23.6127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0961   -9.3934   23.7432 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9864   -8.9653   22.8114 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6266   -9.0946   24.9580 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (32) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (32) 
+None
+
+>  <HIPPO Pose ID>  (32) 
+49743
+
+>  <exports>  (32) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (32) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (32) 
+5.962771
+
+>  <name>  (32) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (32) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9721-P14
+
+>  <inchikey>  (32) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <ref_pdb>  (32) 
+x0421d
+
+>  <HIPPO Compound ID>  (32) 
+9721
+
+>  <distance_score>  (32) 
+0.604125
+
+>  <fragmenstein_outcome>  (32) 
+acceptable
+
+>  <fragmenstein_mode>  (32) 
+expansion
+
+>  <SLURM_JOB_ID>  (32) 
+304179
+
+>  <csv_name>  (32) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (32) 
+-13.371478
+
+>  <original SMILES>  (32) 
+CCN(Cc1cc[nH]n1)CC(F)F
+
+>  <tags>  (32) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (32) 
+KOBNRFSSLYKNOE-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (32) 
+None
+
+$$$$
+49996
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    5.5065  -10.2945   21.8530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4870   -9.1064   22.8116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1061   -7.8884   21.9915 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5412   -9.4469   23.9938 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5847   -8.3655   24.3177 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3699   -9.8895   25.2237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7051  -10.9657   25.9286 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8243  -10.8404   26.9563 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2847  -12.0892   27.1398 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9647  -12.9124   26.2225 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8462  -12.2283   25.4870 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  1
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (33) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (33) 
+None
+
+>  <HIPPO Pose ID>  (33) 
+49996
+
+>  <exports>  (33) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (33) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (33) 
+4.320747
+
+>  <name>  (33) 
+VPUFCMBECWEKNH-MRVPVSSYSA-N
+
+>  <scratch_subdir>  (33) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9739-P6
+
+>  <inchikey>  (33) 
+VPUFCMBECWEKNH-MRVPVSSYSA-N
+
+>  <ref_pdb>  (33) 
+x0414a
+
+>  <HIPPO Compound ID>  (33) 
+9739
+
+>  <distance_score>  (33) 
+0.89845
+
+>  <fragmenstein_outcome>  (33) 
+acceptable
+
+>  <fragmenstein_mode>  (33) 
+expansion
+
+>  <SLURM_JOB_ID>  (33) 
+304176
+
+>  <csv_name>  (33) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (33) 
+-16.660375
+
+>  <original SMILES>  (33) 
+CC(C)[C@H](N)Cn1cccn1
+
+>  <tags>  (33) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (33) 
+VPUFCMBECWEKNH-MRVPVSSYSA-N
+
+>  <fragmenstein_error>  (33) 
+None
+
+$$$$
+50131
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    3.4008   -9.1096   24.4593 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7983   -9.6248   24.0803 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6602   -9.6159   25.3472 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7161  -11.0292   23.4409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7660  -11.9330   24.0793 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3277  -12.8351   25.0751 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2004  -13.6129   25.6403 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9951  -14.9608   25.8234 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6957  -15.0565   26.3567 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1144  -13.8641   26.5104 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0604  -13.0032   26.0954 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4192   -8.6993   23.0319 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6744   -8.6708   21.9018 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6510   -9.1044   22.6788 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5212   -7.4278   23.4759 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (34) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (34) 
+None
+
+>  <HIPPO Pose ID>  (34) 
+50131
+
+>  <exports>  (34) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (34) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (34) 
+12.796454
+
+>  <name>  (34) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (34) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9744-P6
+
+>  <inchikey>  (34) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <ref_pdb>  (34) 
+x0414a
+
+>  <HIPPO Compound ID>  (34) 
+9744
+
+>  <distance_score>  (34) 
+0.736237
+
+>  <fragmenstein_outcome>  (34) 
+acceptable
+
+>  <fragmenstein_mode>  (34) 
+expansion
+
+>  <SLURM_JOB_ID>  (34) 
+304176
+
+>  <csv_name>  (34) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (34) 
+-25.559662
+
+>  <original SMILES>  (34) 
+CC(C)(CNCc1ccn[nH]1)C(F)(F)F
+
+>  <tags>  (34) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (34) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (34) 
+None
+
+$$$$
+50144
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    3.6213   -8.8627   24.1217 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9653   -9.4602   23.6970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9939   -9.1015   24.7806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8400  -10.9841   23.4676 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0226  -11.6497   24.4866 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3132  -13.0808   24.5577 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3990  -13.7975   25.4843 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4212  -15.1142   25.8956 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3066  -15.2561   26.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6052  -14.1281   26.8414 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3373  -13.2344   26.1490 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4183   -8.8383   22.3782 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5254   -9.0831   21.3940 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6021   -9.3241   21.9709 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5313   -7.4937   22.4775 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (35) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (35) 
+None
+
+>  <HIPPO Pose ID>  (35) 
+50144
+
+>  <exports>  (35) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (35) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (35) 
+12.537884
+
+>  <name>  (35) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (35) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9744-P12
+
+>  <inchikey>  (35) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <ref_pdb>  (35) 
+x0421b
+
+>  <HIPPO Compound ID>  (35) 
+9744
+
+>  <distance_score>  (35) 
+0.892054
+
+>  <fragmenstein_outcome>  (35) 
+acceptable
+
+>  <fragmenstein_mode>  (35) 
+expansion
+
+>  <SLURM_JOB_ID>  (35) 
+304176
+
+>  <csv_name>  (35) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (35) 
+-21.90985
+
+>  <original SMILES>  (35) 
+CC(C)(CNCc1ccn[nH]1)C(F)(F)F
+
+>  <tags>  (35) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (35) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (35) 
+None
+
+$$$$
+50248
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+    5.3382  -10.1148   21.5036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5872   -9.2842   22.7574 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3489   -7.8253   22.4202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7239   -9.8330   23.9120 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4083   -9.1899   23.9996 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4656   -9.8278   25.2630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9231  -10.8876   26.0970 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9273  -10.7579   27.0138 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4520  -12.0262   27.2319 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2961  -12.8597   26.4740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2337  -12.1698   25.8163 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  1
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (36) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (36) 
+None
+
+>  <HIPPO Pose ID>  (36) 
+50248
+
+>  <exports>  (36) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (36) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (36) 
+4.536444
+
+>  <name>  (36) 
+VPUFCMBECWEKNH-MRVPVSSYSA-N
+
+>  <scratch_subdir>  (36) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9739-P6
+
+>  <inchikey>  (36) 
+VPUFCMBECWEKNH-MRVPVSSYSA-N
+
+>  <ref_pdb>  (36) 
+x0414a
+
+>  <HIPPO Compound ID>  (36) 
+9739
+
+>  <distance_score>  (36) 
+0.852801
+
+>  <fragmenstein_outcome>  (36) 
+acceptable
+
+>  <fragmenstein_mode>  (36) 
+expansion
+
+>  <SLURM_JOB_ID>  (36) 
+304179
+
+>  <csv_name>  (36) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (36) 
+-15.230009
+
+>  <original SMILES>  (36) 
+CC(C)[C@H](N)Cn1cccn1
+
+>  <tags>  (36) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (36) 
+VPUFCMBECWEKNH-MRVPVSSYSA-N
+
+>  <fragmenstein_error>  (36) 
+None
+
+$$$$
+50299
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    5.6380  -10.1803   25.7061 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9606  -10.8227   25.0233 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1812  -11.6199   24.2909 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2838  -13.1048   24.4105 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0963  -13.6190   25.1681 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9568  -14.8694   25.8096 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6807  -14.8660   26.3178 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544  -13.6494   26.0098 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9736  -12.8842   25.2706 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (37) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (37) 
+None
+
+>  <HIPPO Pose ID>  (37) 
+50299
+
+>  <exports>  (37) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (37) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (37) 
+3.485141
+
+>  <name>  (37) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (37) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9753-P6
+
+>  <inchikey>  (37) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <ref_pdb>  (37) 
+x0414a
+
+>  <HIPPO Compound ID>  (37) 
+9753
+
+>  <distance_score>  (37) 
+0.837741
+
+>  <fragmenstein_outcome>  (37) 
+acceptable
+
+>  <fragmenstein_mode>  (37) 
+expansion
+
+>  <SLURM_JOB_ID>  (37) 
+304176
+
+>  <csv_name>  (37) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (37) 
+-14.817154
+
+>  <original SMILES>  (37) 
+N#CNCc1cc[nH]n1
+
+>  <tags>  (37) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (37) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (37) 
+None
+
+$$$$
+50304
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    5.2729   -9.8448   24.5036 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7353  -10.8005   24.1348 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0978  -11.9067   23.7535 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3372  -13.2332   24.4070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1963  -13.5165   25.3374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1388  -14.4365   26.4093 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9125  -14.2213   26.9923 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3353  -13.2011   26.2920 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0398  -12.8438   25.2028 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (38) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (38) 
+None
+
+>  <HIPPO Pose ID>  (38) 
+50304
+
+>  <exports>  (38) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (38) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (38) 
+3.134003
+
+>  <name>  (38) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (38) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9753-P12
+
+>  <inchikey>  (38) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <ref_pdb>  (38) 
+x0421b
+
+>  <HIPPO Compound ID>  (38) 
+9753
+
+>  <distance_score>  (38) 
+0.909886
+
+>  <fragmenstein_outcome>  (38) 
+acceptable
+
+>  <fragmenstein_mode>  (38) 
+expansion
+
+>  <SLURM_JOB_ID>  (38) 
+304176
+
+>  <csv_name>  (38) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (38) 
+-13.903743
+
+>  <original SMILES>  (38) 
+N#CNCc1cc[nH]n1
+
+>  <tags>  (38) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (38) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (38) 
+None
+
+$$$$
+50401
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.6442   -9.6903   25.1655 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7537   -9.7346   23.9154 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3593   -9.2219   24.3144 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6699  -11.1508   23.2977 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7284  -12.0490   23.9562 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2970  -12.9110   24.9840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1675  -13.6356   25.6120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9265  -14.9702   25.8421 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6438  -15.0079   26.4209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1077  -13.7932   26.5634 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0656  -12.9764   26.0908 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3449   -8.8205   22.8388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5700   -8.8059   21.7280 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5700   -9.2195   22.4557 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4463   -7.5420   23.2644 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (39) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (39) 
+None
+
+>  <HIPPO Pose ID>  (39) 
+50401
+
+>  <exports>  (39) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (39) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (39) 
+12.577783
+
+>  <name>  (39) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (39) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9744-P6
+
+>  <inchikey>  (39) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <ref_pdb>  (39) 
+x0414a
+
+>  <HIPPO Compound ID>  (39) 
+9744
+
+>  <distance_score>  (39) 
+0.75682
+
+>  <fragmenstein_outcome>  (39) 
+acceptable
+
+>  <fragmenstein_mode>  (39) 
+expansion
+
+>  <SLURM_JOB_ID>  (39) 
+304179
+
+>  <csv_name>  (39) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (39) 
+-25.331502
+
+>  <original SMILES>  (39) 
+CC(C)(CNCc1ccn[nH]1)C(F)(F)F
+
+>  <tags>  (39) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (39) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (39) 
+None
+
+$$$$
+50420
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    5.9914   -9.1567   24.5512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9342   -9.5250   23.4992 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6230   -8.8446   23.9112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7398  -11.0513   23.3422 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2050  -11.6500   24.5558 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0433  -13.0980   24.4610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0673  -13.5171   25.5020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1944  -14.1672   26.7088 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8860  -14.2316   27.2249 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9811  -13.6993   26.3954 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7247  -13.3132   25.3428 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3727   -8.9852   22.1402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4510   -9.2593   21.1909 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5330   -9.5227   21.7308 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5177   -7.6395   22.1641 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 11  7  1  0
+M  END
+>  <SLURM_JOB_NAME>  (40) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (40) 
+None
+
+>  <HIPPO Pose ID>  (40) 
+50420
+
+>  <exports>  (40) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (40) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (40) 
+11.950622
+
+>  <name>  (40) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (40) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9744-P14
+
+>  <inchikey>  (40) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <ref_pdb>  (40) 
+x0421d
+
+>  <HIPPO Compound ID>  (40) 
+9744
+
+>  <distance_score>  (40) 
+0.927189
+
+>  <fragmenstein_outcome>  (40) 
+acceptable
+
+>  <fragmenstein_mode>  (40) 
+expansion
+
+>  <SLURM_JOB_ID>  (40) 
+304179
+
+>  <csv_name>  (40) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (40) 
+-23.52332
+
+>  <original SMILES>  (40) 
+CC(C)(CNCc1ccn[nH]1)C(F)(F)F
+
+>  <tags>  (40) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (40) 
+YESUYWASMAYRSO-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (40) 
+None
+
+$$$$
+50604
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    5.5129  -10.2299   25.6148 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9160  -10.9074   24.8908 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2130  -11.7409   24.1203 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2887  -13.2170   24.3341 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0988  -13.6611   25.1338 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9402  -14.8732   25.8415 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6711  -14.8154   26.3638 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1682  -13.6044   26.0008 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922  -12.8989   25.2106 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (41) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (41) 
+None
+
+>  <HIPPO Pose ID>  (41) 
+50604
+
+>  <exports>  (41) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (41) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (41) 
+3.648826
+
+>  <name>  (41) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (41) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9753-P6
+
+>  <inchikey>  (41) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <ref_pdb>  (41) 
+x0414a
+
+>  <HIPPO Compound ID>  (41) 
+9753
+
+>  <distance_score>  (41) 
+0.850398
+
+>  <fragmenstein_outcome>  (41) 
+acceptable
+
+>  <fragmenstein_mode>  (41) 
+expansion
+
+>  <SLURM_JOB_ID>  (41) 
+304179
+
+>  <csv_name>  (41) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (41) 
+-14.65386
+
+>  <original SMILES>  (41) 
+N#CNCc1cc[nH]n1
+
+>  <tags>  (41) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (41) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (41) 
+None
+
+$$$$
+50612
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    5.1510   -9.6970   24.4986 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4709  -10.5798   24.1891 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6674  -11.6064   23.9361 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9796  -12.9928   24.3640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0917  -13.3882   25.5137 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3836  -14.3478   26.5170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2631  -14.3959   27.3081 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4012  -13.4816   26.7851 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8639  -12.8556   25.6890 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9  5  2  0
+M  END
+>  <SLURM_JOB_NAME>  (42) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (42) 
+None
+
+>  <HIPPO Pose ID>  (42) 
+50612
+
+>  <exports>  (42) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (42) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (42) 
+3.576775
+
+>  <name>  (42) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (42) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9753-P14
+
+>  <inchikey>  (42) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <ref_pdb>  (42) 
+x0421d
+
+>  <HIPPO Compound ID>  (42) 
+9753
+
+>  <distance_score>  (42) 
+0.831589
+
+>  <fragmenstein_outcome>  (42) 
+acceptable
+
+>  <fragmenstein_mode>  (42) 
+expansion
+
+>  <SLURM_JOB_ID>  (42) 
+304179
+
+>  <csv_name>  (42) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (42) 
+-14.465584
+
+>  <original SMILES>  (42) 
+N#CNCc1cc[nH]n1
+
+>  <tags>  (42) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (42) 
+OXIAPVQVVNULLD-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (42) 
+None
+
+$$$$
+50674
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    6.9790   -8.1031   24.2856 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4846   -9.4437   24.6342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0022   -9.4487   24.9422 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5963  -10.6515   25.6488 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7671  -10.7135   26.7273 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5365  -12.0451   26.9624 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3518  -12.7144   26.0343 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0414  -11.8664   25.2639 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2708   -9.3500   23.6295 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8045   -8.3883   22.8243 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9770   -8.9876   23.7920 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3025  -10.4895   22.9080 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  2  1  6
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  3  9  1  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+  8  4  1  0
+M  END
+>  <SLURM_JOB_NAME>  (43) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (43) 
+None
+
+>  <HIPPO Pose ID>  (43) 
+50674
+
+>  <exports>  (43) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (43) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (43) 
+5.936353
+
+>  <name>  (43) 
+LOJZGVKHBJWXMS-YFKPBYRVSA-N
+
+>  <scratch_subdir>  (43) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9766-P6
+
+>  <inchikey>  (43) 
+LOJZGVKHBJWXMS-YFKPBYRVSA-N
+
+>  <ref_pdb>  (43) 
+x0414a
+
+>  <HIPPO Compound ID>  (43) 
+9766
+
+>  <distance_score>  (43) 
+0.961487
+
+>  <fragmenstein_outcome>  (43) 
+acceptable
+
+>  <fragmenstein_mode>  (43) 
+expansion
+
+>  <SLURM_JOB_ID>  (43) 
+304176
+
+>  <csv_name>  (43) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (43) 
+-14.50207
+
+>  <original SMILES>  (43) 
+NC[C@H](n1cccn1)C(F)(F)F
+
+>  <tags>  (43) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (43) 
+LOJZGVKHBJWXMS-YFKPBYRVSA-N
+
+>  <fragmenstein_error>  (43) 
+None
+
+$$$$
+50936
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    5.4297  -13.6211   25.6433 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1754  -13.2005   24.8819 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0410  -11.7353   24.8747 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7221  -11.0748   23.7489 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9398  -11.3561   22.4587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8325   -9.5438   23.9966 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.7261   -9.2103   25.1863 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3447   -8.8813   22.7856 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6612   -8.4213   21.7708 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9574  -13.7876   25.5104 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6519  -15.0679   25.9184 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3404  -14.9871   26.4183 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8316  -13.7570   26.3231 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8330  -13.0505   25.7710 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  6
+  4  6  1  0
+  6  7  1  1
+  6  8  1  0
+  8  9  3  0
+  2 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (44) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (44) 
+None
+
+>  <HIPPO Pose ID>  (44) 
+50936
+
+>  <exports>  (44) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (44) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (44) 
+4.399926
+
+>  <name>  (44) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <scratch_subdir>  (44) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9778-P6
+
+>  <inchikey>  (44) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <ref_pdb>  (44) 
+x0414a
+
+>  <HIPPO Compound ID>  (44) 
+9778
+
+>  <distance_score>  (44) 
+0.944458
+
+>  <fragmenstein_outcome>  (44) 
+acceptable
+
+>  <fragmenstein_mode>  (44) 
+expansion
+
+>  <SLURM_JOB_ID>  (44) 
+304176
+
+>  <csv_name>  (44) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (44) 
+-40.826693
+
+>  <original SMILES>  (44) 
+C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
+
+>  <tags>  (44) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (44) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <fragmenstein_error>  (44) 
+None
+
+$$$$
+50945
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    5.0492  -13.8579   24.2328 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7278  -13.1042   24.4216 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8894  -11.6395   24.5143 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6840  -10.9961   23.4494 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0673  -11.3219   22.0821 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7552   -9.4493   23.6617 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.6083   -9.0006   24.8438 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2704   -8.8010   22.4504 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5820   -8.3268   21.4427 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9866  -13.6127   25.6221 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1906  -14.6985   26.4541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0874  -14.7140   27.3203 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2307  -13.7283   27.0619 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8391  -13.0207   26.0925 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  6
+  4  6  1  0
+  6  7  1  1
+  6  8  1  0
+  8  9  3  0
+  2 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (45) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (45) 
+None
+
+>  <HIPPO Pose ID>  (45) 
+50945
+
+>  <exports>  (45) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (45) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (45) 
+4.474109
+
+>  <name>  (45) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <scratch_subdir>  (45) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9778-P12
+
+>  <inchikey>  (45) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <ref_pdb>  (45) 
+x0421b
+
+>  <HIPPO Compound ID>  (45) 
+9778
+
+>  <distance_score>  (45) 
+0.886015
+
+>  <fragmenstein_outcome>  (45) 
+acceptable
+
+>  <fragmenstein_mode>  (45) 
+expansion
+
+>  <SLURM_JOB_ID>  (45) 
+304176
+
+>  <csv_name>  (45) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (45) 
+-37.563535
+
+>  <original SMILES>  (45) 
+C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
+
+>  <tags>  (45) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (45) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <fragmenstein_error>  (45) 
+None
+
+$$$$
+51065
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    6.0410   -8.0144   23.8186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2365   -8.9541   24.3532 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9607   -9.3437   23.6606 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9283  -10.7355   23.2835 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8993  -11.1102   22.2749 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9152  -12.6212   22.1617 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6134   -9.6238   25.6618 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8904  -10.8379   26.0348 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7032  -10.8938   26.7078 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4073  -12.2245   26.8586 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073  -12.8950   26.2932 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4477  -12.0549   25.8486 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  2  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  8  1  0
+M  END
+>  <SLURM_JOB_NAME>  (46) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (46) 
+None
+
+>  <HIPPO Pose ID>  (46) 
+51065
+
+>  <exports>  (46) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (46) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (46) 
+4.87185
+
+>  <name>  (46) 
+MELHIBOTLZEYDC-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (46) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9784-P6
+
+>  <inchikey>  (46) 
+MELHIBOTLZEYDC-UHFFFAOYSA-N
+
+>  <ref_pdb>  (46) 
+x0414a
+
+>  <HIPPO Compound ID>  (46) 
+9784
+
+>  <distance_score>  (46) 
+0.948559
+
+>  <fragmenstein_outcome>  (46) 
+acceptable
+
+>  <fragmenstein_mode>  (46) 
+expansion
+
+>  <SLURM_JOB_ID>  (46) 
+304176
+
+>  <csv_name>  (46) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (46) 
+-19.513027
+
+>  <original SMILES>  (46) 
+C=C(CNCC)Cn1cccn1
+
+>  <tags>  (46) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (46) 
+MELHIBOTLZEYDC-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (46) 
+None
+
+$$$$
+51120
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    5.1707  -14.0397   25.0394 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8790  -13.3114   24.6741 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0311  -11.8520   24.7392 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8046  -11.2179   23.6560 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3089  -11.6542   22.2708 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7532   -9.6732   23.8441 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5484   -9.2233   25.0731 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2546   -8.9855   22.6434 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5672   -8.5018   21.6381 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7495  -13.7041   25.5684 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3441  -14.9187   26.0779 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1431  -14.6449   26.7551 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8042  -13.3561   26.6978 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7970  -12.8082   25.9780 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  6
+  4  6  1  0
+  6  7  1  1
+  6  8  1  0
+  8  9  3  0
+  2 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (47) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (47) 
+None
+
+>  <HIPPO Pose ID>  (47) 
+51120
+
+>  <exports>  (47) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (47) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (47) 
+4.43086
+
+>  <name>  (47) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <scratch_subdir>  (47) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9778-P6
+
+>  <inchikey>  (47) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <ref_pdb>  (47) 
+x0414a
+
+>  <HIPPO Compound ID>  (47) 
+9778
+
+>  <distance_score>  (47) 
+0.941756
+
+>  <fragmenstein_outcome>  (47) 
+acceptable
+
+>  <fragmenstein_mode>  (47) 
+expansion
+
+>  <SLURM_JOB_ID>  (47) 
+304179
+
+>  <csv_name>  (47) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (47) 
+-39.162506
+
+>  <original SMILES>  (47) 
+C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
+
+>  <tags>  (47) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (47) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <fragmenstein_error>  (47) 
+None
+
+$$$$
+51136
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    5.1507  -13.6656   24.7880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7882  -13.0281   24.5478 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8313  -11.5598   24.4429 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7615  -11.0162   23.4361 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3901  -11.5464   22.0478 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7329   -9.4610   23.5102 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5620   -8.8922   24.6620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2012   -8.8734   22.2551 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4869   -8.4576   21.2149 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8001  -13.3751   25.6112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8683  -14.0411   26.8157 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5461  -14.0629   27.2924 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6889  -13.4744   26.4521 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4782  -13.0726   25.4399 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  6
+  4  6  1  0
+  6  7  1  1
+  6  8  1  0
+  8  9  3  0
+  2 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (48) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (48) 
+None
+
+>  <HIPPO Pose ID>  (48) 
+51136
+
+>  <exports>  (48) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (48) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (48) 
+4.43184
+
+>  <name>  (48) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <scratch_subdir>  (48) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9778-P14
+
+>  <inchikey>  (48) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <ref_pdb>  (48) 
+x0421d
+
+>  <HIPPO Compound ID>  (48) 
+9778
+
+>  <distance_score>  (48) 
+0.870681
+
+>  <fragmenstein_outcome>  (48) 
+acceptable
+
+>  <fragmenstein_mode>  (48) 
+expansion
+
+>  <SLURM_JOB_ID>  (48) 
+304179
+
+>  <csv_name>  (48) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (48) 
+-37.209381
+
+>  <original SMILES>  (48) 
+C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
+
+>  <tags>  (48) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (48) 
+PSSMVONWKTXPBC-CIUDSAMLSA-N
+
+>  <fragmenstein_error>  (48) 
+None
+
+$$$$
+51208
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    5.2954  -11.5140   21.6385 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0792  -10.3844   21.9763 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6691   -9.1166   22.5916 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.7766   -8.0854   22.5834 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1020   -9.4287   23.9953 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2051   -8.3274   24.4159 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1916   -9.7738   25.0405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7251  -10.8574   25.8862 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9115  -10.7341   26.9696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310  -11.9948   27.2195 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0988  -12.8234   26.2988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9118  -12.1316   25.4949 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  1
+  3  5  1  0
+  5  6  1  1
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  8  1  0
+M  END
+>  <SLURM_JOB_NAME>  (49) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (49) 
+None
+
+>  <HIPPO Pose ID>  (49) 
+51208
+
+>  <exports>  (49) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (49) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (49) 
+4.744886
+
+>  <name>  (49) 
+RDDZRGGIERFNOR-DTWKUNHWSA-N
+
+>  <scratch_subdir>  (49) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9782-P6
+
+>  <inchikey>  (49) 
+RDDZRGGIERFNOR-DTWKUNHWSA-N
+
+>  <ref_pdb>  (49) 
+x0414a
+
+>  <HIPPO Compound ID>  (49) 
+9782
+
+>  <distance_score>  (49) 
+0.981857
+
+>  <fragmenstein_outcome>  (49) 
+acceptable
+
+>  <fragmenstein_mode>  (49) 
+expansion
+
+>  <SLURM_JOB_ID>  (49) 
+304179
+
+>  <csv_name>  (49) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (49) 
+-22.044577
+
+>  <original SMILES>  (49) 
+C#C[C@H](C)[C@H](N)Cn1cccn1
+
+>  <tags>  (49) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (49) 
+RDDZRGGIERFNOR-DTWKUNHWSA-N
+
+>  <fragmenstein_error>  (49) 
+None
+
+$$$$
+51329
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    5.3444   -8.6871   24.7284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3264   -9.5179   23.6731 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6976   -9.0024   22.3112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5477   -9.1181   21.3406 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9963  -11.0021   23.7494 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7582  -11.3486   24.4613 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5840  -10.8241   23.7569 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6635  -12.8365   24.5358 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059  -13.3259   25.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2088  -14.2573   26.6773 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1023  -14.4540   27.4643 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1358  -13.6537   26.9420 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5105  -12.9897   25.8389 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13  9  2  0
+M  END
+>  <SLURM_JOB_NAME>  (50) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (50) 
+None
+
+>  <HIPPO Pose ID>  (50) 
+51329
+
+>  <exports>  (50) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (50) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (50) 
+7.467674
+
+>  <name>  (50) 
+JIMJAAIBHREIKZ-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (50) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9789-P14
+
+>  <inchikey>  (50) 
+JIMJAAIBHREIKZ-UHFFFAOYSA-N
+
+>  <ref_pdb>  (50) 
+x0421d
+
+>  <HIPPO Compound ID>  (50) 
+9789
+
+>  <distance_score>  (50) 
+0.845137
+
+>  <fragmenstein_outcome>  (50) 
+acceptable
+
+>  <fragmenstein_mode>  (50) 
+expansion
+
+>  <SLURM_JOB_ID>  (50) 
+304179
+
+>  <csv_name>  (50) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (50) 
+-30.348207
+
+>  <original SMILES>  (50) 
+C=C(CC)CN(C)Cc1cc[nH]n1
+
+>  <tags>  (50) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (50) 
+JIMJAAIBHREIKZ-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (50) 
+None
+
+$$$$
+51370
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    5.9154   -8.5851   23.2187 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0413   -9.1917   24.0567 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4026   -8.8810   25.3239 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8236   -8.6490   23.8191 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0662  -10.7150   23.8586 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9259  -11.4714   24.3936 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2751  -12.8649   24.6926 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1406  -13.5369   25.4138 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8983  -14.9280   25.5051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7542  -15.0436   26.2552 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4004  -13.7740   26.5942 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2273  -12.8372   26.1089 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  2  0
+M  END
+>  <SLURM_JOB_NAME>  (51) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (51) 
+None
+
+>  <HIPPO Pose ID>  (51) 
+51370
+
+>  <exports>  (51) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (51) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (51) 
+4.38231
+
+>  <name>  (51) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (51) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9799-P6
+
+>  <inchikey>  (51) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <ref_pdb>  (51) 
+x0414a
+
+>  <HIPPO Compound ID>  (51) 
+9799
+
+>  <distance_score>  (51) 
+0.930287
+
+>  <fragmenstein_outcome>  (51) 
+acceptable
+
+>  <fragmenstein_mode>  (51) 
+expansion
+
+>  <SLURM_JOB_ID>  (51) 
+304176
+
+>  <csv_name>  (51) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (51) 
+-18.016181
+
+>  <original SMILES>  (51) 
+FC(F)(F)CNCc1cc[nH]n1
+
+>  <tags>  (51) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (51) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (51) 
+None
+
+$$$$
+51376
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    5.9120   -8.6515   23.0055 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0650   -9.2644   23.8643 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5492   -9.0743   25.1161 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8779   -8.6128   23.7819 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9397  -10.7661   23.5506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8724  -11.4648   24.2732 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0025  -12.9285   24.2419 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0587  -13.5257   25.2510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3617  -14.4494   26.2821 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1940  -14.5867   26.9933 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2910  -13.7608   26.3922 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7645  -13.1741   25.2833 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  2  0
+M  END
+>  <SLURM_JOB_NAME>  (52) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (52) 
+None
+
+>  <HIPPO Pose ID>  (52) 
+51376
+
+>  <exports>  (52) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (52) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (52) 
+4.122597
+
+>  <name>  (52) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (52) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9799-P12
+
+>  <inchikey>  (52) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <ref_pdb>  (52) 
+x0421b
+
+>  <HIPPO Compound ID>  (52) 
+9799
+
+>  <distance_score>  (52) 
+0.768087
+
+>  <fragmenstein_outcome>  (52) 
+acceptable
+
+>  <fragmenstein_mode>  (52) 
+expansion
+
+>  <SLURM_JOB_ID>  (52) 
+304176
+
+>  <csv_name>  (52) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (52) 
+-15.590942
+
+>  <original SMILES>  (52) 
+FC(F)(F)CNCc1cc[nH]n1
+
+>  <tags>  (52) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (52) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (52) 
+None
+
+$$$$
+51384
+     RDKit          3D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    4.5649  -10.2249   26.6816 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4571   -9.2454   25.9405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8583   -8.7017   24.6384 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8895   -8.6155   23.5059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4091   -9.0922   22.1342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5329  -10.3411   22.1316 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0060  -11.5043   22.9984 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8567  -12.0614   23.7108 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2025  -13.3295   24.3479 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0401  -13.8716   25.0905 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9285  -14.9534   25.9335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5749  -14.9822   26.3131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8690  -13.9947   25.7578 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7753  -13.3578   24.9967 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+>  <SLURM_JOB_NAME>  (53) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch014
+
+>  <alias>  (53) 
+None
+
+>  <HIPPO Pose ID>  (53) 
+51384
+
+>  <exports>  (53) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (53) 
+x0414a,x0421b
+
+>  <fragmenstein_runtime>  (53) 
+4.960771
+
+>  <name>  (53) 
+IWURXPAEJJOERQ-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (53) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304176/C9800-P6
+
+>  <inchikey>  (53) 
+IWURXPAEJJOERQ-UHFFFAOYSA-N
+
+>  <ref_pdb>  (53) 
+x0414a
+
+>  <HIPPO Compound ID>  (53) 
+9800
+
+>  <distance_score>  (53) 
+0.935542
+
+>  <fragmenstein_outcome>  (53) 
+acceptable
+
+>  <fragmenstein_mode>  (53) 
+expansion
+
+>  <SLURM_JOB_ID>  (53) 
+304176
+
+>  <csv_name>  (53) 
+CpKRS_iter1_knitwork_impure_split1000_batch014.csv
+
+>  <energy_score>  (53) 
+-12.251846
+
+>  <original SMILES>  (53) 
+CCCCCCCNCc1ccn[nH]1
+
+>  <tags>  (53) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (53) 
+IWURXPAEJJOERQ-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (53) 
+None
+
+$$$$
+51501
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    3.9224   -8.4597   23.8580 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0617   -9.1918   23.9324 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9751   -8.5987   23.1340 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5205   -9.0956   25.2038 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8122  -10.6720   23.5555 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7289  -11.3030   24.3331 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7093  -12.7710   24.2505 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9594  -13.3182   25.4483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4247  -14.2971   26.3669 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4036  -14.4644   27.2693 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4320  -13.5910   26.8905 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7332  -12.8796   25.7944 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  2  0
+M  END
+>  <SLURM_JOB_NAME>  (54) 
+BulkDock.place:CpKRS:CpKRS_iter1_knitwork_impure_split1000_batch017
+
+>  <alias>  (54) 
+None
+
+>  <HIPPO Pose ID>  (54) 
+51501
+
+>  <exports>  (54) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf', '/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf']
+
+>  <ref_mols>  (54) 
+x0414a,x0421d
+
+>  <fragmenstein_runtime>  (54) 
+4.152856
+
+>  <name>  (54) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <scratch_subdir>  (54) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/304179/C9799-P14
+
+>  <inchikey>  (54) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <ref_pdb>  (54) 
+x0421d
+
+>  <HIPPO Compound ID>  (54) 
+9799
+
+>  <distance_score>  (54) 
+0.691492
+
+>  <fragmenstein_outcome>  (54) 
+acceptable
+
+>  <fragmenstein_mode>  (54) 
+expansion
+
+>  <SLURM_JOB_ID>  (54) 
+304179
+
+>  <csv_name>  (54) 
+CpKRS_iter1_knitwork_impure_split1000_batch017.csv
+
+>  <energy_score>  (54) 
+-15.785021
+
+>  <original SMILES>  (54) 
+FC(F)(F)CNCc1cc[nH]n1
+
+>  <tags>  (54) 
+['BulkDock Fragalysis export', 'Fragmenstein placed']
+
+>  <original ID>  (54) 
+YMARXTBGXAJPTA-UHFFFAOYSA-N
+
+>  <fragmenstein_error>  (54) 
+None
+
+$$$$
