@@ -2,19 +2,19 @@ ver_1.2
      RDKit          3D
 
  13 13  0  0  0  0  0  0  0  0999 V2000
-   -4.6971    0.3393    0.3324 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3951    0.0526    0.1597 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.6291   -0.6964    1.1932 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.6567    0.4659   -1.0646 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.4828    1.3777   -0.7619 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.4765    0.7152    0.1411 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.5959    1.6994    0.3502 N   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6146    1.1390    1.2152 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.0797   -0.0922    0.4132 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.8069   -1.2709    0.2954 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.3759   -2.1093   -0.4792 N   0  0  0  0  0  0  0  0  0  0  0  0
-    3.3987   -1.7053   -1.2800 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.4654    0.0851   -0.7863 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1560   -0.9146    1.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5918    0.0598    0.4760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0796    1.4876    0.6211 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5021   -0.2827   -0.4853 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2913    0.5726   -0.0917 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2127    0.1753   -1.0985 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0836   -1.2513   -0.9704 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7469   -1.3644    0.3339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9717   -0.5298    0.2573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0710    0.8186    0.5734 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1308    1.4401    0.4782 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3131    0.7290    0.0203 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5163   -0.9402   -0.2105 S   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  2  0
   2  3  1  0
   2  4  1  0
@@ -173,7 +173,7 @@ None
 x0414a,x0502a
 
 >  <exports>  (1) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch063_302072.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch063_302072.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (1) 
 CpKRS_iter1_knitwork_impure_split1000_batch063.csv
@@ -203,7 +203,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (1) 
-
+None
 
 >  <original SMILES>  (1) 
 C=C(C)CCCNCc1cncs1
@@ -293,7 +293,7 @@ None
 x0407a,x0502c
 
 >  <exports>  (2) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (2) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -323,7 +323,7 @@ None
 Fragmenstein
 
 >  <subsites>  (2) 
-
+None
 
 >  <original SMILES>  (2) 
 CCc1sc(N(C)[C@@](C)(O)[C@@H]2CCCO2)c(C)c1C
@@ -411,7 +411,7 @@ None
 x0555a,x0646a
 
 >  <exports>  (3) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch001_302135.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch001_302135.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (3) 
 CpKRS_iter1_fstein_split1000_batch001.csv
@@ -441,7 +441,7 @@ None
 Fragmenstein
 
 >  <subsites>  (3) 
-
+None
 
 >  <original SMILES>  (3) 
 COn1nc(Cl)cc1C(=O)NCc1nc(C)cs1
@@ -524,7 +524,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (4) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (4) 
 CpKRS_iter1_knitwork_impure_split1000_batch050.csv
@@ -554,7 +554,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (4) 
-
+None
 
 >  <original SMILES>  (4) 
 C#CCCCCCN[C@H](C)c1cnccn1
@@ -632,7 +632,7 @@ None
 x0414a,x0502a
 
 >  <exports>  (5) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch062_302071.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch062_302071.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (5) 
 CpKRS_iter1_knitwork_impure_split1000_batch062.csv
@@ -662,7 +662,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (5) 
-
+None
 
 >  <original SMILES>  (5) 
 C[S@+]([O-])CCCNCc1nccs1
@@ -748,7 +748,7 @@ None
 x0421b,x0421c,x0759a
 
 >  <exports>  (6) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (6) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -778,7 +778,7 @@ None
 Fragmenstein
 
 >  <subsites>  (6) 
-
+None
 
 >  <original SMILES>  (6) 
 C[C@H]1CCC[C@@H]1NC(=O)c1nn(C)c(F)c1Cl
@@ -859,7 +859,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (7) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (7) 
 CpKRS_iter1_knitwork_impure_split1000_batch050.csv
@@ -889,7 +889,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (7) 
-
+None
 
 >  <original SMILES>  (7) 
 CC(C)(C)SCCNCc1cnccn1
@@ -977,7 +977,7 @@ None
 x0414a,x0492b
 
 >  <exports>  (8) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (8) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -1007,7 +1007,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (8) 
-
+None
 
 >  <original SMILES>  (8) 
 C[C@@H](Cc1cnccn1)Nc1cc(CO)ncn1
@@ -1088,7 +1088,7 @@ None
 x0414a,x0502a
 
 >  <exports>  (9) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch062_302071.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch062_302071.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (9) 
 CpKRS_iter1_knitwork_impure_split1000_batch062.csv
@@ -1118,7 +1118,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (9) 
-
+None
 
 >  <original SMILES>  (9) 
 CC(C)(CNCc1cncs1)CC(F)F
@@ -1196,7 +1196,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (10) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (10) 
 CpKRS_iter1_knitwork_impure_split1000_batch071.csv
@@ -1226,7 +1226,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (10) 
-
+None
 
 >  <original SMILES>  (10) 
 C[S@+]([O-])CCCNCc1nccs1
@@ -1324,7 +1324,7 @@ None
 x0489a,x0492a
 
 >  <exports>  (11) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (11) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -1354,7 +1354,7 @@ None
 Fragmenstein
 
 >  <subsites>  (11) 
-
+None
 
 >  <original SMILES>  (11) 
 CN1C=CNC(N2CC[C@@H]3C(=O)c4[nH]ncc4C[C@@H]3[C@H]2O)=C1
@@ -1452,7 +1452,7 @@ None
 x0489a,x0492a
 
 >  <exports>  (12) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (12) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -1482,7 +1482,7 @@ None
 Fragmenstein
 
 >  <subsites>  (12) 
-
+None
 
 >  <original SMILES>  (12) 
 CN1C=CNC(N2CC[C@@H]3C(=O)c4[nH]ncc4C[C@@H]3[C@H]2O)=C1
@@ -1557,7 +1557,7 @@ None
 x0414a,x0759a
 
 >  <exports>  (13) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (13) 
 CpKRS_iter1_knitwork_impure_split1000_batch113.csv
@@ -1587,7 +1587,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (13) 
-
+None
 
 >  <original SMILES>  (13) 
 C=C[C@@H](C)NCCc1cnoc1
@@ -1668,7 +1668,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (14) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (14) 
 CpKRS_iter1_knitwork_impure_split1000_batch050.csv
@@ -1698,7 +1698,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (14) 
-
+None
 
 >  <original SMILES>  (14) 
 CCC(C)(C)CCNCc1cnccn1
@@ -1779,7 +1779,7 @@ None
 x0414a,x0759a
 
 >  <exports>  (15) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (15) 
 CpKRS_iter1_knitwork_impure_split1000_batch113.csv
@@ -1809,7 +1809,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (15) 
-
+None
 
 >  <original SMILES>  (15) 
 C[C@@H](CCC(F)F)NCCc1cnoc1
@@ -1894,7 +1894,7 @@ None
 x0492a,x0555a,x0602a
 
 >  <exports>  (16) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (16) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -1924,7 +1924,7 @@ None
 Fragmenstein
 
 >  <subsites>  (16) 
-
+None
 
 >  <original SMILES>  (16) 
 C1=N[C@@H](NCc2ccco2)c2nccnc21
@@ -2008,7 +2008,7 @@ None
 x0492a,x0654c
 
 >  <exports>  (17) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (17) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -2038,7 +2038,7 @@ None
 Fragmenstein
 
 >  <subsites>  (17) 
-
+None
 
 >  <original SMILES>  (17) 
 O=C(NCc1ccco1)c1cc(F)ccn1
@@ -2122,7 +2122,7 @@ None
 x0492a,x0759b
 
 >  <exports>  (18) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (18) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -2152,7 +2152,7 @@ None
 Fragmenstein
 
 >  <subsites>  (18) 
-
+None
 
 >  <original SMILES>  (18) 
 O=C(NCc1cc(F)co1)c1cnccn1
@@ -2236,7 +2236,7 @@ None
 x0492a,x0759b
 
 >  <exports>  (19) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (19) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -2266,7 +2266,7 @@ None
 Fragmenstein
 
 >  <subsites>  (19) 
-
+None
 
 >  <original SMILES>  (19) 
 O=C(NCc1cc(F)co1)c1cnccn1
@@ -2335,7 +2335,7 @@ None
 x0414a,x0492a
 
 >  <exports>  (20) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch009_302018.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch009_302018.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (20) 
 CpKRS_iter1_knitwork_impure_split1000_batch009.csv
@@ -2365,7 +2365,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (20) 
-
+None
 
 >  <original SMILES>  (20) 
 CC(C)(N)c1ncns1
@@ -2446,7 +2446,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (21) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (21) 
 CpKRS_iter1_knitwork_impure_split1000_batch071.csv
@@ -2476,7 +2476,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (21) 
-
+None
 
 >  <original SMILES>  (21) 
 CC(C)(CNCc1cncs1)CC(F)F
@@ -2553,7 +2553,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (22) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch071_302080.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (22) 
 CpKRS_iter1_knitwork_impure_split1000_batch071.csv
@@ -2583,7 +2583,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (22) 
-
+None
 
 >  <original SMILES>  (22) 
 C=C(C)CCCNCc1cncs1
@@ -2662,7 +2662,7 @@ None
 x0414a,x0759a
 
 >  <exports>  (23) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch113_302122.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (23) 
 CpKRS_iter1_knitwork_impure_split1000_batch113.csv
@@ -2692,7 +2692,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (23) 
-
+None
 
 >  <original SMILES>  (23) 
 CC(C)[C@@H](C#N)NCCc1cnoc1
@@ -2779,7 +2779,7 @@ None
 x0407b,x0555a
 
 >  <exports>  (24) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (24) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -2809,7 +2809,7 @@ None
 Fragmenstein
 
 >  <subsites>  (24) 
-
+None
 
 >  <original SMILES>  (24) 
 COc1ccc(NCN)cc1C(=O)NCC(C)C
@@ -2888,7 +2888,7 @@ None
 x0414a,x0759b
 
 >  <exports>  (25) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch115_302124.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch115_302124.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (25) 
 CpKRS_iter1_knitwork_impure_split1000_batch115.csv
@@ -2918,7 +2918,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (25) 
-
+None
 
 >  <original SMILES>  (25) 
 CC(C)CCCCNCc1cnoc1
@@ -3013,7 +3013,7 @@ None
 x0555a,x0504b
 
 >  <exports>  (26) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (26) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -3043,7 +3043,7 @@ None
 Fragmenstein
 
 >  <subsites>  (26) 
-
+None
 
 >  <original SMILES>  (26) 
 CC(=O)c1c(F)cccc1-c1cc2ccccc2cc1O
@@ -3125,7 +3125,7 @@ None
 x0414a,x0502a
 
 >  <exports>  (27) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (27) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -3155,7 +3155,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (27) 
-
+None
 
 >  <original SMILES>  (27) 
 C=C1CCN(C[C@H](N)Cc2cncs2)C1
@@ -3240,7 +3240,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (28) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch050_302059.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (28) 
 CpKRS_iter1_knitwork_impure_split1000_batch050.csv
@@ -3270,7 +3270,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (28) 
-
+None
 
 >  <original SMILES>  (28) 
 CC(C)(C)C(C)(C)CNCC[C@H]1CCCNC1
@@ -3365,7 +3365,7 @@ None
 x0502c,x0504a
 
 >  <exports>  (29) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (29) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -3395,7 +3395,7 @@ None
 Fragmenstein
 
 >  <subsites>  (29) 
-
+None
 
 >  <original SMILES>  (29) 
 Cc1cccc(CNC(=O)c2scc3c2CCOC3)c1C
@@ -3485,7 +3485,7 @@ None
 x0502c,x0634a
 
 >  <exports>  (30) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (30) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -3515,7 +3515,7 @@ None
 Fragmenstein
 
 >  <subsites>  (30) 
-
+None
 
 >  <original SMILES>  (30) 
 CCc1csc(C(=O)NC[C@H]2CCCC2(C)C)c1C
@@ -3597,7 +3597,7 @@ None
 x0414a,x0502a
 
 >  <exports>  (31) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (31) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -3627,7 +3627,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (31) 
-
+None
 
 >  <original SMILES>  (31) 
 N[C@H](Cc1cncs1)CN1CC[C@@H](F)C1
@@ -3715,7 +3715,7 @@ None
 x0502c,x0787b
 
 >  <exports>  (32) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (32) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -3745,7 +3745,7 @@ None
 Fragmenstein
 
 >  <subsites>  (32) 
-
+None
 
 >  <original SMILES>  (32) 
 Cc1ccccc1CNC(=O)c1scc(F)c1C
@@ -3833,7 +3833,7 @@ None
 x0502a,x0504a
 
 >  <exports>  (33) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_split1000_batch000_302134.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_fstein_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (33) 
 CpKRS_iter1_fstein_split1000_batch000.csv
@@ -3863,7 +3863,7 @@ None
 Fragmenstein
 
 >  <subsites>  (33) 
-
+None
 
 >  <original SMILES>  (33) 
 Cc1c(F)csc1C(=O)NCc1ccccc1O
@@ -3946,7 +3946,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (34) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (34) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -3976,7 +3976,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (34) 
-
+None
 
 >  <original SMILES>  (34) 
 N[C@@H](Cc1cncs1)CN1C[C@H]2C[C@H]2C1
@@ -4058,7 +4058,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (35) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (35) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -4088,7 +4088,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (35) 
-
+None
 
 >  <original SMILES>  (35) 
 C=C1CCN(C[C@@H](N)Cc2cncs2)C1
@@ -4170,7 +4170,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (36) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (36) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -4200,7 +4200,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (36) 
-
+None
 
 >  <original SMILES>  (36) 
 N[C@H](Cc1cncs1)CN1CC[C@H](F)C1
@@ -4282,7 +4282,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (37) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch009_301900.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (37) 
 CpKRS_iter1_knitwork_pure_split1000_batch009.csv
@@ -4312,7 +4312,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (37) 
-
+None
 
 >  <original SMILES>  (37) 
 C[C@H]1CCN(C[C@@H](N)Cc2cncs2)C1
@@ -4383,7 +4383,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (38) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (38) 
 CpKRS_iter1_knitwork_pure_split1000_batch103.csv
@@ -4413,7 +4413,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (38) 
-
+None
 
 >  <original SMILES>  (38) 
 C[C@H](N)Cc1ccccn1
@@ -4499,7 +4499,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (39) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (39) 
 CpKRS_iter1_knitwork_pure_split1000_batch103.csv
@@ -4529,7 +4529,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (39) 
-
+None
 
 >  <original SMILES>  (39) 
 C[C@H](N)Cc1ccnc(-c2ncccc2Br)n1
@@ -4615,7 +4615,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (40) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (40) 
 CpKRS_iter1_knitwork_pure_split1000_batch103.csv
@@ -4645,7 +4645,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (40) 
-
+None
 
 >  <original SMILES>  (40) 
 C[C@H](N)Cc1ccnc(-c2ccc(Cl)cn2)n1
@@ -4731,7 +4731,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (41) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (41) 
 CpKRS_iter1_knitwork_pure_split1000_batch103.csv
@@ -4761,7 +4761,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (41) 
-
+None
 
 >  <original SMILES>  (41) 
 C[C@@H](N)Cc1ccnc(-c2ccc(Br)cn2)n1
@@ -4847,7 +4847,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (42) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch103_304143.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (42) 
 CpKRS_iter1_knitwork_pure_split1000_batch103.csv
@@ -4877,7 +4877,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (42) 
-
+None
 
 >  <original SMILES>  (42) 
 Cc1cccc(-c2nccc(C[C@@H](C)N)n2)n1
@@ -4950,7 +4950,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (43) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch013_304053.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch013_304053.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (43) 
 CpKRS_iter1_knitwork_pure_split1000_batch013.csv
@@ -4980,7 +4980,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (43) 
-
+None
 
 >  <original SMILES>  (43) 
 C[C@H](N)Cc1nn(C)cc1Cl
@@ -5059,7 +5059,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (44) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (44) 
 CpKRS_iter1_knitwork_pure_split1000_batch048.csv
@@ -5089,7 +5089,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (44) 
-
+None
 
 >  <original SMILES>  (44) 
 C[C@H](N)CN1CCC[C@@H](C(C)(F)F)C1
@@ -5164,7 +5164,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (45) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (45) 
 CpKRS_iter1_knitwork_pure_split1000_batch048.csv
@@ -5194,7 +5194,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (45) 
-
+None
 
 >  <original SMILES>  (45) 
 C[C@@H]1C[C@@H](C[C@@H](C)N)CCN1C
@@ -5271,7 +5271,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (46) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch048_304088.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (46) 
 CpKRS_iter1_knitwork_pure_split1000_batch048.csv
@@ -5301,7 +5301,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (46) 
-
+None
 
 >  <original SMILES>  (46) 
 CC[C@@H]1CC[C@@H](C)N(C[C@@H](C)N)C1
@@ -5381,7 +5381,7 @@ None
 x0414a,x0502c
 
 >  <exports>  (47) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch067_304107.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch067_304107.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (47) 
 CpKRS_iter1_knitwork_pure_split1000_batch067.csv
@@ -5411,7 +5411,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (47) 
-
+None
 
 >  <original SMILES>  (47) 
 C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
@@ -5491,7 +5491,7 @@ None
 x0414a,x0504b
 
 >  <exports>  (48) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch070_304110.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch070_304110.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (48) 
 CpKRS_iter1_knitwork_pure_split1000_batch070.csv
@@ -5521,7 +5521,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (48) 
-
+None
 
 >  <original SMILES>  (48) 
 C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
@@ -5600,7 +5600,7 @@ None
 x0414a,x0602a
 
 >  <exports>  (49) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (49) 
 CpKRS_iter1_knitwork_pure_split1000_batch010.csv
@@ -5630,7 +5630,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (49) 
-
+None
 
 >  <original SMILES>  (49) 
 CC(=O)NCc1nnc(C(C)(C)N)o1
@@ -5701,7 +5701,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (50) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch013_304053.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch013_304053.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (50) 
 CpKRS_iter1_knitwork_pure_split1000_batch013.csv
@@ -5731,7 +5731,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (50) 
-
+None
 
 >  <original SMILES>  (50) 
 C[C@H](N)Cc1cc(O)n[nH]1
@@ -5804,7 +5804,7 @@ None
 x0414a,x0787a
 
 >  <exports>  (51) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch111_304151.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch111_304151.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (51) 
 CpKRS_iter1_knitwork_pure_split1000_batch111.csv
@@ -5834,7 +5834,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (51) 
-
+None
 
 >  <original SMILES>  (51) 
 C[C@@H](N)Cc1cc(Cl)sc1Cl
@@ -5914,7 +5914,7 @@ None
 x0414a,x0504a
 
 >  <exports>  (52) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch068_304108.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch068_304108.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (52) 
 CpKRS_iter1_knitwork_pure_split1000_batch068.csv
@@ -5944,7 +5944,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (52) 
-
+None
 
 >  <original SMILES>  (52) 
 C[C@@H](N)CN1CC[C@@H](c2nccs2)C1
@@ -6030,7 +6030,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (53) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (53) 
 CpKRS_iter1_knitwork_pure_split1000_batch008.csv
@@ -6060,7 +6060,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (53) 
-
+None
 
 >  <original SMILES>  (53) 
 C[C@H](CN1CCCCC1)Nc1ccc(N)cc1
@@ -6131,7 +6131,7 @@ None
 x0414a,x0489a,x0492a,x0492b
 
 >  <exports>  (54) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (54) 
 CpKRS_iter1_knitwork_pure_split1000_batch008.csv
@@ -6161,7 +6161,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (54) 
-
+None
 
 >  <original SMILES>  (54) 
 CC(C)Nc1cnccn1
@@ -6243,7 +6243,7 @@ None
 x0414a,x0489a,x0492a
 
 >  <exports>  (55) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (55) 
 CpKRS_iter1_knitwork_pure_split1000_batch008.csv
@@ -6273,7 +6273,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (55) 
-
+None
 
 >  <original SMILES>  (55) 
 CC(C)(Nc1cnccn1)c1nn[nH]n1
@@ -6361,7 +6361,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (56) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (56) 
 CpKRS_iter1_knitwork_pure_split1000_batch008.csv
@@ -6391,7 +6391,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (56) 
-
+None
 
 >  <original SMILES>  (56) 
 C[C@@H](Cc1cnccn1)Nc1cc(CO)ncn1
@@ -6462,7 +6462,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (57) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (57) 
 CpKRS_iter1_knitwork_pure_split1000_batch010.csv
@@ -6492,7 +6492,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (57) 
-
+None
 
 >  <original SMILES>  (57) 
 C[C@H](N)Cc1ccccn1
@@ -6580,7 +6580,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (58) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch008_304048.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (58) 
 CpKRS_iter1_knitwork_pure_split1000_batch008.csv
@@ -6610,7 +6610,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (58) 
-
+None
 
 >  <original SMILES>  (58) 
 C[C@@H](Cc1cnccn1)Nc1ccnc(CO)c1
@@ -6692,7 +6692,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (59) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (59) 
 CpKRS_iter1_knitwork_pure_split1000_batch010.csv
@@ -6722,7 +6722,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (59) 
-
+None
 
 >  <original SMILES>  (59) 
 C[C@@H](N)Cc1nc(-c2ccccn2)cs1
@@ -6806,7 +6806,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (60) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (60) 
 CpKRS_iter1_knitwork_pure_split1000_batch010.csv
@@ -6836,7 +6836,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (60) 
-
+None
 
 >  <original SMILES>  (60) 
 C[C@@H](N)Cc1csc(Nc2ccccn2)n1
@@ -6918,7 +6918,7 @@ None
 x0414a,x0634b
 
 >  <exports>  (61) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_split1000_batch010_304050.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (61) 
 CpKRS_iter1_knitwork_pure_split1000_batch010.csv
@@ -6948,7 +6948,7 @@ None
 Knitwork Pure
 
 >  <subsites>  (61) 
-
+None
 
 >  <original SMILES>  (61) 
 CC(C)Nc1c[nH]nc1-c1ccccn1
@@ -7025,7 +7025,7 @@ None
 x0414a,x0489a
 
 >  <exports>  (62) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch051_304213.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch051_304213.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (62) 
 CpKRS_iter1_knitwork_impure_split1000_batch051.csv
@@ -7055,7 +7055,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (62) 
-
+None
 
 >  <original SMILES>  (62) 
 CN(C)[C@@H](CC#N)C1CCNCC1
@@ -7136,7 +7136,7 @@ None
 x0414a,x0787a
 
 >  <exports>  (63) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch117_304279.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch117_304279.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (63) 
 CpKRS_iter1_knitwork_impure_split1000_batch117.csv
@@ -7166,7 +7166,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (63) 
-
+None
 
 >  <original SMILES>  (63) 
 CC#CC[C@H](Cc1cccs1)NCCC
@@ -7237,7 +7237,7 @@ None
 x0414a,x0759b,x0759a
 
 >  <exports>  (64) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (64) 
 CpKRS_iter1_knitwork_impure_split1000_batch012.csv
@@ -7267,7 +7267,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (64) 
-
+None
 
 >  <original SMILES>  (64) 
 C[C@@H](N)Cc1ccncc1
@@ -7343,7 +7343,7 @@ None
 x0414a,x0759b,x0759a
 
 >  <exports>  (65) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (65) 
 CpKRS_iter1_knitwork_impure_split1000_batch012.csv
@@ -7373,7 +7373,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (65) 
-
+None
 
 >  <original SMILES>  (65) 
 C[C@H](N)Cc1onc2c1CCC2
@@ -7444,7 +7444,7 @@ None
 x0414a,x0759b,x0759a
 
 >  <exports>  (66) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch012_304174.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (66) 
 CpKRS_iter1_knitwork_impure_split1000_batch012.csv
@@ -7474,7 +7474,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (66) 
-
+None
 
 >  <original SMILES>  (66) 
 C[C@@H](N)Cc1cccnc1
@@ -7559,7 +7559,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (67) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (67) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -7589,7 +7589,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (67) 
-
+None
 
 >  <original SMILES>  (67) 
 CN(CCCCC(C)(C)C#N)Cc1cc[nH]n1
@@ -7666,7 +7666,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (68) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (68) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -7696,7 +7696,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (68) 
-
+None
 
 >  <original SMILES>  (68) 
 CCN(Cc1cc[nH]n1)CC(F)F
@@ -7773,7 +7773,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (69) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (69) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -7803,7 +7803,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (69) 
-
+None
 
 >  <original SMILES>  (69) 
 CCN(Cc1cc[nH]n1)CC(F)F
@@ -7882,7 +7882,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (70) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (70) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -7912,7 +7912,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (70) 
-
+None
 
 >  <original SMILES>  (70) 
 CC(C)[C@H](C)CN[C@@H](C)c1ccn[nH]1
@@ -7981,7 +7981,7 @@ None
 x0414a,x0421a,x0421b,x0421c
 
 >  <exports>  (71) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch007_304169.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch007_304169.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (71) 
 CpKRS_iter1_knitwork_impure_split1000_batch007.csv
@@ -8011,7 +8011,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (71) 
-
+None
 
 >  <original SMILES>  (71) 
 C[C@H](N)Cc1ccns1
@@ -8096,7 +8096,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (72) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (72) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -8126,7 +8126,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (72) 
-
+None
 
 >  <original SMILES>  (72) 
 CN(CCCCC(C)(C)C#N)Cc1cc[nH]n1
@@ -8206,7 +8206,7 @@ None
 x0414a,x0421a,x0421b,x0421c
 
 >  <exports>  (73) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch007_304169.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch007_304169.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (73) 
 CpKRS_iter1_knitwork_impure_split1000_batch007.csv
@@ -8236,7 +8236,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (73) 
-
+None
 
 >  <original SMILES>  (73) 
 CC(C)(Nc1ncco1)c1nn[nH]n1
@@ -8313,7 +8313,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (74) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (74) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -8343,7 +8343,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (74) 
-
+None
 
 >  <original SMILES>  (74) 
 CCN(Cc1cc[nH]n1)CC(F)F
@@ -8420,7 +8420,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (75) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (75) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -8450,7 +8450,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (75) 
-
+None
 
 >  <original SMILES>  (75) 
 CCN(Cc1cc[nH]n1)CC(F)F
@@ -8523,7 +8523,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (76) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (76) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -8553,7 +8553,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (76) 
-
+None
 
 >  <original SMILES>  (76) 
 CC(C)[C@H](N)Cn1cccn1
@@ -8634,7 +8634,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (77) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (77) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -8664,7 +8664,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (77) 
-
+None
 
 >  <original SMILES>  (77) 
 CC(C)(CNCc1ccn[nH]1)C(F)(F)F
@@ -8745,7 +8745,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (78) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (78) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -8775,7 +8775,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (78) 
-
+None
 
 >  <original SMILES>  (78) 
 CC(C)(CNCc1ccn[nH]1)C(F)(F)F
@@ -8848,7 +8848,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (79) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (79) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -8878,7 +8878,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (79) 
-
+None
 
 >  <original SMILES>  (79) 
 CC(C)[C@H](N)Cn1cccn1
@@ -8947,7 +8947,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (80) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (80) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -8977,7 +8977,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (80) 
-
+None
 
 >  <original SMILES>  (80) 
 N#CNCc1cc[nH]n1
@@ -9046,7 +9046,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (81) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (81) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -9076,7 +9076,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (81) 
-
+None
 
 >  <original SMILES>  (81) 
 N#CNCc1cc[nH]n1
@@ -9157,7 +9157,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (82) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (82) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -9187,7 +9187,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (82) 
-
+None
 
 >  <original SMILES>  (82) 
 CC(C)(CNCc1ccn[nH]1)C(F)(F)F
@@ -9268,7 +9268,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (83) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (83) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -9298,7 +9298,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (83) 
-
+None
 
 >  <original SMILES>  (83) 
 CC(C)(CNCc1ccn[nH]1)C(F)(F)F
@@ -9367,7 +9367,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (84) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (84) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -9397,7 +9397,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (84) 
-
+None
 
 >  <original SMILES>  (84) 
 N#CNCc1cc[nH]n1
@@ -9466,7 +9466,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (85) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (85) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -9496,7 +9496,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (85) 
-
+None
 
 >  <original SMILES>  (85) 
 N#CNCc1cc[nH]n1
@@ -9571,7 +9571,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (86) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (86) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -9601,7 +9601,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (86) 
-
+None
 
 >  <original SMILES>  (86) 
 NC[C@H](n1cccn1)C(F)(F)F
@@ -9680,7 +9680,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (87) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (87) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -9710,7 +9710,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (87) 
-
+None
 
 >  <original SMILES>  (87) 
 C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
@@ -9789,7 +9789,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (88) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (88) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -9819,7 +9819,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (88) 
-
+None
 
 >  <original SMILES>  (88) 
 C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
@@ -9894,7 +9894,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (89) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (89) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -9924,7 +9924,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (89) 
-
+None
 
 >  <original SMILES>  (89) 
 C=C(CNCC)Cn1cccn1
@@ -10003,7 +10003,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (90) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (90) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -10033,7 +10033,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (90) 
-
+None
 
 >  <original SMILES>  (90) 
 C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
@@ -10112,7 +10112,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (91) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (91) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -10142,7 +10142,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (91) 
-
+None
 
 >  <original SMILES>  (91) 
 C[C@H](N[C@@H](C)[C@@H](C)C#N)c1ccn[nH]1
@@ -10217,7 +10217,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (92) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (92) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -10247,7 +10247,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (92) 
-
+None
 
 >  <original SMILES>  (92) 
 C#C[C@H](C)[C@H](N)Cn1cccn1
@@ -10324,7 +10324,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (93) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (93) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -10354,7 +10354,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (93) 
-
+None
 
 >  <original SMILES>  (93) 
 C=C(CC)CN(C)Cc1cc[nH]n1
@@ -10429,7 +10429,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (94) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (94) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -10459,7 +10459,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (94) 
-
+None
 
 >  <original SMILES>  (94) 
 FC(F)(F)CNCc1cc[nH]n1
@@ -10534,7 +10534,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (95) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (95) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -10564,7 +10564,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (95) 
-
+None
 
 >  <original SMILES>  (95) 
 FC(F)(F)CNCc1cc[nH]n1
@@ -10643,7 +10643,7 @@ None
 x0414a,x0421b
 
 >  <exports>  (96) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch014_304176.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (96) 
 CpKRS_iter1_knitwork_impure_split1000_batch014.csv
@@ -10673,7 +10673,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (96) 
-
+None
 
 >  <original SMILES>  (96) 
 CCCCCCCNCc1ccn[nH]1
@@ -10748,7 +10748,7 @@ None
 x0414a,x0421d
 
 >  <exports>  (97) 
-/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_split1000_batch017_304179.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/CpKRS_iter1_knitwork_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/CpKRS_FFF/hippo/filtered_merges.sdf
 
 >  <csv_name>  (97) 
 CpKRS_iter1_knitwork_impure_split1000_batch017.csv
@@ -10778,7 +10778,7 @@ None
 Knitwork Impure
 
 >  <subsites>  (97) 
-
+None
 
 >  <original SMILES>  (97) 
 FC(F)(F)CNCc1cc[nH]n1
